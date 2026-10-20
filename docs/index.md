@@ -35,6 +35,9 @@ Practical, code-first guides for people who sell software, code and communities 
 - [What to include on a freelance invoice (2026 checklist)](what-to-include-on-a-freelance-invoice): every field a freelance invoice needs, payment terms and late fees, with a sample invoice
 - [PayPal & Stripe fees explained (2026)](paypal-stripe-fees-explained): every US rate, worked examples, a comparison table and how to price to net a set amount
 - [Gumroad vs Etsy vs Stripe vs PayPal vs Shopify fees (2026)](gumroad-vs-etsy-vs-stripe-vs-paypal-fees): selling digital products, side by side, with what you keep on a $10, $25 and $50 sale
+- [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl): fees, plan limits and the real monthly cost at $500 and $3,000 a month in sales
+- [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite): free tiers, paid plans and selling fees compared
+- [Freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave): plan prices and card/bank fees, with a $3,000/month example
 
 ## Free code
 
