@@ -43,6 +43,7 @@ price_for_target_direct = (target + 0.50) / 0.90
 
 ## Tools
 
+- **[Free Gumroad fee calculator](gumroad-fee-calculator)** works out your payout, effective fee and target price as you type.
 - **[Creator Payout Calculator Pro](https://paudrudis.gumroad.com/l/ijrzbz)** runs these numbers in your browser for any price, so you can see direct and Discover payouts before you set a price.
 - **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq)** imports your sales CSV and applies the fees to every row automatically.
 

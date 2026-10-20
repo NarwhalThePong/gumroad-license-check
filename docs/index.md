@@ -6,6 +6,10 @@ description: "Practical guides for developers who sell software on Gumroad: lice
 
 Practical, code-first guides for people who sell software, code and communities on Gumroad. Each one covers a gotcha in Gumroad's API that most setups miss.
 
+## Free tools
+
+- [Gumroad fee calculator](gumroad-fee-calculator): see what you keep on direct and Discover sales, and the price you need for a target payout
+
 ## Guides
 
 - [Block refunded and charged-back buyers in your Gumroad license check](refunded-gumroad-license-keys) (Node and Python)

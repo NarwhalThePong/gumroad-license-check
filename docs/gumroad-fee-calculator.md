@@ -1,0 +1,76 @@
+---
+layout: page
+title: "Gumroad fee calculator: what you keep after the 10% + $0.50 and Discover fees"
+description: "Free Gumroad fee calculator. Enter a price to see your payout on direct and Discover sales, your effective fee, monthly take-home, and the price you need to hit a target payout."
+---
+
+Type a price to see what you keep on a Gumroad sale. Direct sales (your own links) cost **10% + $0.50**. Sales that come through Gumroad Discover cost **30%**. Everything runs in your browser and nothing is sent anywhere.
+
+<div id="gfc" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0;max-width:640px">
+  <p><label>Price per sale (USD)<br><input id="gfc-price" type="number" min="0" step="0.01" value="19" style="width:140px;font-size:1.1em"></label></p>
+  <p><label>Sales per month<br><input id="gfc-qty" type="number" min="0" step="1" value="10" style="width:140px"></label></p>
+  <p><label>Share of sales from Discover (%)<br><input id="gfc-disc" type="number" min="0" max="100" step="1" value="0" style="width:140px"></label></p>
+  <table style="width:100%">
+    <tr><th></th><th style="text-align:right">Direct sale</th><th style="text-align:right">Discover sale</th></tr>
+    <tr><td>Gumroad fee</td><td style="text-align:right" id="gfc-dfee"></td><td style="text-align:right" id="gfc-xfee"></td></tr>
+    <tr><td>You keep</td><td style="text-align:right" id="gfc-dnet"></td><td style="text-align:right" id="gfc-xnet"></td></tr>
+    <tr><td>Effective fee</td><td style="text-align:right" id="gfc-dpct"></td><td style="text-align:right" id="gfc-xpct"></td></tr>
+  </table>
+  <p id="gfc-month" style="font-weight:bold"></p>
+  <hr>
+  <p><label>I want to keep this much per sale (USD)<br><input id="gfc-target" type="number" min="0" step="0.01" value="20" style="width:140px"></label></p>
+  <p id="gfc-solve"></p>
+</div>
+
+<script>
+(function () {
+  function money(n) { return (n < 0 ? "-$" : "$") + Math.abs(n).toFixed(2); }
+  function round2(n) { return Math.round(n * 100) / 100; }
+  function directFee(p) { return p > 0 ? round2(p * 0.10 + 0.50) : 0; }
+  function discoverFee(p) { return p > 0 ? round2(p * 0.30) : 0; }
+  function num(id, dflt) { var v = parseFloat(document.getElementById(id).value); return isFinite(v) && v >= 0 ? v : dflt; }
+  function set(id, t) { document.getElementById(id).textContent = t; }
+  function update() {
+    var p = num("gfc-price", 0), q = Math.floor(num("gfc-qty", 0)), d = Math.min(num("gfc-disc", 0), 100) / 100;
+    var df = directFee(p), xf = discoverFee(p);
+    set("gfc-dfee", money(df)); set("gfc-xfee", money(xf));
+    set("gfc-dnet", money(p - df)); set("gfc-xnet", money(p - xf));
+    set("gfc-dpct", p > 0 ? (df / p * 100).toFixed(1) + "%" : "n/a");
+    set("gfc-xpct", p > 0 ? "30.0%" : "n/a");
+    var gross = p * q, net = q * ((1 - d) * (p - df) + d * (p - xf));
+    set("gfc-month", "At " + q + " sales a month: " + money(gross) + " gross, about " + money(net) + " take-home before payout fees.");
+    var t = num("gfc-target", 0);
+    var pd = Math.ceil((t + 0.50) / 0.90 * 100 - 1e-9) / 100, px = Math.ceil(t / 0.70 * 100 - 1e-9) / 100;
+    set("gfc-solve", "To keep " + money(t) + " per sale, charge at least " + money(pd) + " for direct sales, or " + money(px) + " if the sale comes through Discover.");
+  }
+  ["gfc-price", "gfc-qty", "gfc-disc", "gfc-target"].forEach(function (id) { document.getElementById(id).addEventListener("input", update); });
+  update();
+})();
+</script>
+
+## How the numbers are worked out
+
+```
+direct fee     = price * 10% + $0.50
+discover fee   = price * 30%
+you keep       = price - fee
+price to keep a target (direct)   = (target + 0.50) / 0.90
+price to keep a target (Discover) = target / 0.70
+```
+
+Fees are rounded to the cent, and the target prices are rounded up so you never land a cent short. Gumroad is the merchant of record and handles sales tax and VAT, which aren't part of these fees. Payout methods can have their own small fees, so check one real payout to confirm your true net. *Check [Gumroad's pricing page](https://gumroad.com/pricing) before relying on these numbers, since fees change.*
+
+## Quick takeaways
+
+- **Under about $5, the flat $0.50 eats a big share.** A $3 product loses about 27% on a direct sale; a $19 product loses about 12.6%.
+- **Bundles save fees.** Three $5 products sold one by one cost $3.00 in fees; one $15 bundle costs $2.00.
+- **Your own traffic is cheaper than Discover.** Links you share are direct sales at 10% + $0.50, not 30%.
+
+For worked examples and pricing tactics, read [Gumroad fees in 2026, explained](gumroad-fees-explained). To compare platforms, see [Gumroad vs Lemon Squeezy vs Polar vs Paddle](gumroad-vs-lemon-squeezy-polar-paddle-fees).
+
+## Want this on every Gumroad page?
+
+- **[Creator Payout Calculator Pro](https://paudrudis.gumroad.com/l/ijrzbz)** shows your direct and Discover payout in the browser while you set prices.
+- **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq)** imports your sales CSV, applies the fees to every row, and builds a P&L with a tax set-aside sheet.
+
+More guides: [Gumroad developer guides](./). Not affiliated with Gumroad.
