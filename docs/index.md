@@ -25,6 +25,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Gumroad vs Lemon Squeezy vs Polar vs Paddle](gumroad-vs-lemon-squeezy-polar-paddle-fees): fees in 2026 and what you keep on a $9, $29 and $99 sale
 - [Sync Gumroad sales to Google Sheets automatically](sync-gumroad-sales-to-google-sheets): a free Apps Script that keeps refunds up to date
 - [Gumroad Ping (webhook) reference](gumroad-ping-webhook): every field, refund and cancellation events, retries, and verifying unsigned pings (Node and Python)
+- [Etsy fees explained (2026)](etsy-fees-explained): listing, transaction, processing and Offsite Ads fees for US sellers, with worked examples
 
 ## Free code
 

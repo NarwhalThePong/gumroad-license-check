@@ -130,6 +130,8 @@ See what an Etsy sale actually pays you. Enter the item price, what you charge f
 
 <!-- TODO: link the paid Etsy Seller Profit Tracker here (Gumroad URL) once it is published. Do not link it before then. -->
 
+New to Etsy fees? Read **[Etsy fees explained (2026)](etsy-fees-explained)** for what each fee is, what it's charged on, and worked examples.
+
 ## How the numbers are worked out
 
 ```
