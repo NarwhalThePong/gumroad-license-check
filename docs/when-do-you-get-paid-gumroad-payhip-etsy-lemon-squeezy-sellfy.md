@@ -89,3 +89,4 @@ All checked 2026-10-20 on each company's official site.
 - [Bookkeeping for digital product sellers](bookkeeping-for-digital-product-sellers-wave-quickbooks-spreadsheet)
 - [Gumroad fees in 2026, explained](gumroad-fees-explained)
 - [Etsy fees explained](etsy-fees-explained)
+- [Refunds and chargebacks on digital products](refunds-and-chargebacks-digital-products-gumroad-lemon-squeezy-payhip-sellfy-etsy)

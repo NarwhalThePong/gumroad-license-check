@@ -65,5 +65,7 @@ To spot-check a single key without code, use the free [Gumroad license key check
 If you want the production version, with a signed offline cache and grace period, activation limits, and a small proxy server so your product ID and logic stay off the client, I sell it as the **[Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs/LAUNCH30)**.
 
 
+What does a refund or a chargeback actually cost you? See [Refunds and chargebacks on digital products](refunds-and-chargebacks-digital-products-gumroad-lemon-squeezy-payhip-sellfy-etsy).
+
 ---
 [All guides](./)
