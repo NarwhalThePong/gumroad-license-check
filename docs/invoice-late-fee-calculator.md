@@ -165,7 +165,7 @@ Work out when an invoice is due and what a late payment costs. Enter the invoice
 })();
 </script>
 
-To keep on top of who owes you what, the **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli)** (Excel and Google Sheets) works out invoice due dates from your payment terms, flags overdue invoices on its own, logs hours at each client's rate, and shows invoiced vs. paid by month with a monthly tax set-aside. Not sure what to charge in the first place? Try the free [freelance hourly rate calculator](freelance-hourly-rate-calculator).
+To keep on top of who owes you what, the **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli)** (Excel and Google Sheets) works out invoice due dates from your payment terms, flags overdue invoices on its own, logs hours at each client's rate, and shows invoiced vs. paid by month with a monthly tax set-aside. Not sure what to charge in the first place? Try the free [freelance hourly rate calculator](freelance-hourly-rate-calculator). And to know how much of each payment to keep for tax, there's the [quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator).
 
 ## How the numbers are worked out
 

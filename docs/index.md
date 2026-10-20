@@ -15,6 +15,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Etsy fee & profit calculator](etsy-fee-calculator): every Etsy fee on an order (listing, 6.5% transaction, payment processing, Offsite Ads), your profit and margin, and the price you need for a target margin
 - [Freelance hourly rate calculator](freelance-hourly-rate-calculator): the hourly rate, day rate and monthly revenue you need to take home your target income after tax, costs and unbilled time
 - [Invoice late fee & payment terms calculator](invoice-late-fee-calculator): due date, days late, late fee or interest and total due for Net 7 to Net 60 terms, plus the real cost of skipping a 2/10 Net 30 discount
+- [Quarterly estimated tax calculator for freelancers (2026)](freelance-quarterly-estimated-tax-calculator): self-employment and income tax, the % of each payment to set aside, your four quarterly payments, the safe-harbor minimum and the 2026 due dates
 
 ## Guides
 
