@@ -73,4 +73,4 @@ For worked examples and pricing tactics, read [Gumroad fees in 2026, explained](
 - **[Creator Payout Calculator Pro](https://paudrudis.gumroad.com/l/ijrzbz)** shows your direct and Discover payout in the browser while you set prices.
 - **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq)** imports your sales CSV, applies the fees to every row, and builds a P&L with a tax set-aside sheet.
 
-Pricing a bundle or a discount code? Try the [Gumroad bundle & discount calculator](gumroad-bundle-discount-calculator). More guides: [Gumroad developer guides](./). Not affiliated with Gumroad.
+Pricing a bundle or a discount code? Try the [Gumroad bundle & discount calculator](gumroad-bundle-discount-calculator). Taking payments with PayPal or Stripe? Use the [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator). More guides: [Gumroad developer guides](./). Not affiliated with Gumroad.

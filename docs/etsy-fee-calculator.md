@@ -176,4 +176,4 @@ Enter your cost of goods, label cost and shipping, then set a target margin unde
 
 If many of your orders come from Offsite Ads, price for the worst case: switch the Offsite Ads box to 15% or 12% and check that the margin still works. On a single cheap item the fee can take most of the profit.
 
-More tools and guides: [all guides and free tools](./). Not affiliated with Etsy. Not tax advice.
+Also selling through PayPal or Stripe? Try the [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator). More tools and guides: [all guides and free tools](./). Not affiliated with Etsy. Not tax advice.
