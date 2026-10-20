@@ -66,5 +66,6 @@ The **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlr
 - [Freelance hourly rate calculator](freelance-hourly-rate-calculator): the rate you need to hit your take-home target
 - [Quarterly estimated tax calculator for freelancers (2026)](freelance-quarterly-estimated-tax-calculator): how much of each payment to set aside for tax
 - [Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli/LAUNCH30): track invoices, payments and clients
+- [Freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave): plan prices and card/bank fees compared
 
 More tools and guides: [all guides and free tools](./). Not legal or tax advice.

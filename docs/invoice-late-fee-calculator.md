@@ -231,6 +231,8 @@ A flat fee is simple and easy to understand, but on large invoices it's small an
 
 It depends on your wording, which is why the calculator lets you choose. With "from the due date", a payment one day past the grace period is charged for every day since the due date. With "from the end of the grace period", only the days after the grace period count.
 
+Choosing an invoicing app? Compare [FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave): plan prices and card/bank fees.
+
 More tools and guides: [all guides and free tools](./).
 
 *Not legal or tax advice.*

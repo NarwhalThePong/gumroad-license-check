@@ -146,4 +146,6 @@ A salary hides costs an employer pays for you, such as paid time off, equipment,
 
 Once you're sending invoices, the free [invoice late fee & payment terms calculator](invoice-late-fee-calculator) works out due dates, late fees and early-payment discounts like 2/10 Net 30. To see how much of each payment to put aside for tax and what to send the IRS each quarter, use the free [quarterly estimated tax calculator for freelancers](freelance-quarterly-estimated-tax-calculator).
 
+To send and track those invoices, compare [freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave).
+
 More tools and guides: [all guides and free tools](./).

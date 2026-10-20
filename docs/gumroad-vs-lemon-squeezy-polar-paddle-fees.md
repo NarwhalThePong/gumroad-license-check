@@ -55,6 +55,7 @@ If you stay on Gumroad and want the rest built for you:
 ## Related guides
 
 - [Gumroad fees in 2026, explained](gumroad-fees-explained)
+- [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Gumroad 1099-K and taxes](gumroad-1099-k-taxes)
 - [Sell access to a private GitHub repo on Gumroad](sell-private-github-repo-on-gumroad)
 
