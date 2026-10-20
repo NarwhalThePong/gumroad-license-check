@@ -92,17 +92,20 @@ The starting numbers are only an example (a single freelancer with $60,000 of pr
   </table>
   <p id="qet-o-note" style="font-weight:bold"></p>
   <p id="qet-o-shnote"><small></small></p>
-  <table style="width:100%">
+  <div style="overflow-x:auto">
+  <table style="width:100%;font-size:0.9em">
     <thead>
-      <tr><th style="text-align:left">2026 payment</th><th style="text-align:left">Due</th><th style="text-align:right">Full estimate</th><th style="text-align:right">Safe-harbor min.</th></tr>
+      <tr><th style="text-align:left">Payment</th><th style="text-align:left">Due</th><th style="text-align:right">Full</th><th style="text-align:right">Minimum</th></tr>
     </thead>
     <tbody>
-      <tr><td>1 (Jan 1 to Mar 31)</td><td id="qet-d1"></td><td style="text-align:right" id="qet-a1"></td><td style="text-align:right" id="qet-m1"></td></tr>
-      <tr><td>2 (Apr 1 to May 31)</td><td id="qet-d2"></td><td style="text-align:right" id="qet-a2"></td><td style="text-align:right" id="qet-m2"></td></tr>
-      <tr><td>3 (Jun 1 to Aug 31)</td><td id="qet-d3"></td><td style="text-align:right" id="qet-a3"></td><td style="text-align:right" id="qet-m3"></td></tr>
-      <tr><td>4 (Sep 1 to Dec 31)</td><td id="qet-d4"></td><td style="text-align:right" id="qet-a4"></td><td style="text-align:right" id="qet-m4"></td></tr>
+      <tr><td>1<br><small>Jan 1 to Mar 31</small></td><td id="qet-d1"></td><td style="text-align:right" id="qet-a1"></td><td style="text-align:right" id="qet-m1"></td></tr>
+      <tr><td>2<br><small>Apr 1 to May 31</small></td><td id="qet-d2"></td><td style="text-align:right" id="qet-a2"></td><td style="text-align:right" id="qet-m2"></td></tr>
+      <tr><td>3<br><small>Jun 1 to Aug 31</small></td><td id="qet-d3"></td><td style="text-align:right" id="qet-a3"></td><td style="text-align:right" id="qet-m3"></td></tr>
+      <tr><td>4<br><small>Sep 1 to Dec 31</small></td><td id="qet-d4"></td><td style="text-align:right" id="qet-a4"></td><td style="text-align:right" id="qet-m4"></td></tr>
     </tbody>
   </table>
+  </div>
+  <p style="margin:4px 0 0"><small>Full = your whole estimated federal tax in four equal parts. Minimum = the safe-harbor amount in four equal parts.</small></p>
   <p id="qet-o-skip"><small></small></p>
 </div>
 
