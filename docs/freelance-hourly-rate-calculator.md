@@ -144,4 +144,6 @@ Estimate the billable hours the project will take, multiply by your hourly rate,
 
 A salary hides costs an employer pays for you, such as paid time off, equipment, and in the US the employer's half of Social Security and Medicare. That's why a freelance hourly rate has to be well above a salary divided by 2,080 hours. Enter the salary you'd take home as an employee under "Income you want to take home" to see the rate that matches it.
 
+Once you're sending invoices, the free [invoice late fee & payment terms calculator](invoice-late-fee-calculator) works out due dates, late fees and early-payment discounts like 2/10 Net 30.
+
 More tools and guides: [all guides and free tools](./).
