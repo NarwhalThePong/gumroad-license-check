@@ -51,6 +51,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Refunds and chargebacks on digital products: what they cost on Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy](refunds-and-chargebacks-digital-products-gumroad-lemon-squeezy-payhip-sellfy-etsy): who issues the refund, which fees come back, and what a lost chargeback costs on a $20 sale
 - [Delivering digital files: file limits, download limits, PDF stamping and license keys on Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy](delivering-digital-files-gumroad-lemon-squeezy-payhip-sellfy-etsy): file size and download limits, PDF stamping, license keys, and whether past buyers get your updates
 - [Discount codes and sales on Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy: coupons, limits, fees and pay what you want](discount-codes-and-sales-gumroad-lemon-squeezy-payhip-sellfy-etsy): how codes, timed sales, bundles and pay what you want work on each, and what a 25% off code on a $20 product costs you
+- [Marketplace discovery and what it costs: Gumroad Discover, Etsy search and Offsite Ads, and the Payhip, Lemon Squeezy and Sellfy options (2026)](marketplace-discovery-fees-gumroad-discover-etsy-offsite-ads-payhip-lemon-squeezy-sellfy): which platforms bring you buyers, what a marketplace or ad sale costs against your own link, and how to get listed
 
 ## Free code
 

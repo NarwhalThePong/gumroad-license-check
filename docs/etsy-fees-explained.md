@@ -143,4 +143,5 @@ Mostly. Etsy recalculates the processing fee and other applicable fees (such as 
 - [Gumroad vs Lemon Squeezy vs Polar vs Paddle](gumroad-vs-lemon-squeezy-polar-paddle-fees)
 - [Gumroad vs Etsy vs Stripe vs PayPal vs Shopify fees](gumroad-vs-etsy-vs-stripe-vs-paypal-fees): selling digital products, with what you keep on a $10, $25 and $50 sale
 
+Which platforms bring you buyers, and what a marketplace sale costs: see [Marketplace discovery and what it costs](marketplace-discovery-fees-gumroad-discover-etsy-offsite-ads-payhip-lemon-squeezy-sellfy).
 More tools and guides: [all guides and free tools](./). Not affiliated with Etsy. Not tax advice.
