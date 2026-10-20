@@ -16,7 +16,7 @@ We compared the published pricing of Teachable, Podia, Payhip and Gumroad on Oct
 - **Just starting, selling under about $1,000 a month:** [Payhip's free plan](https://payhip.com/pricing) costs the least in our examples: $0 a month plus 5% of each sale and card processing. Every plan has the same features, including drip lessons, quizzes and certificates.
 - **Selling about $2,000 a month or more and want a dedicated course platform:** [Teachable Builder](https://www.teachable.com/pricing) is $69 a month billed yearly ($89 monthly) with no Teachable transaction fee when you use Teachable Payments. It was the cheapest option in our $3,000-a-month example.
 - **Courses plus a community, email list and website in one place:** [Podia Shaker](https://www.podia.com/pricing) is $84 a month billed yearly ($99 monthly) with no Podia transaction fee and email for up to 500 subscribers.
-- **No budget, testing an idea, or selling a simple video or PDF course:** [Gumroad](https://gumroad.com/pricing) has no monthly fee and handles sales tax for you, but its 10% + $0.50 fee makes it the most expensive here once you sell regularly.
+- **No budget, testing an idea, or selling a simple video or PDF course:** [Gumroad](https://gumroad.com/pricing) has no monthly fee and handles sales tax for you, but its 10% + $0.50 fee, plus 2.9% + $0.30 card processing on direct sales, makes it the most expensive here once you sell regularly.
 
 ## Pricing at a glance
 
