@@ -1,0 +1,13 @@
+title: Gumroad developer guides
+description: Practical guides for developers who sell software on Gumroad.
+url: https://narwhalthepong.github.io
+baseurl: /gumroad-license-check
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+header_pages:
+  - refunded-gumroad-license-keys.md
+  - sell-private-github-repo-on-gumroad.md
+  - gumroad-sale-alerts-discord-slack-telegram.md
+  - gumroad-discord-roles-refunds.md
