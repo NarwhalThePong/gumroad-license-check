@@ -87,6 +87,7 @@ All checked 2026-10-20 on each company's official site.
 
 ## Related guides
 
+- Wondering when the money arrives? See [When do you get paid?](when-do-you-get-paid-gumroad-payhip-etsy-lemon-squeezy-sellfy)
 - [Freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave)
 - [Gumroad 1099-K and taxes](gumroad-1099-k-taxes)
 - [Gumroad fees in 2026, explained](gumroad-fees-explained)

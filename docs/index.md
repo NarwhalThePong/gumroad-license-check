@@ -45,6 +45,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [systeme.io vs Kit vs Payhip free plans (2026)](systeme-io-vs-kit-vs-payhip-free-plans): the cheapest $0-a-month plan for selling your first digital product, with the cost at $500 and $3,000 a month
 - [Sell digital downloads from your own website: SendOwl vs Payhip vs Sellfy vs systeme.io](sell-digital-downloads-from-your-own-website): checkout and delivery tools for your own site, with the cost at $500 and $3,000 a month
 - [Bookkeeping for digital product sellers: Wave vs QuickBooks Solopreneur vs a spreadsheet](bookkeeping-for-digital-product-sellers-wave-quickbooks-spreadsheet): what each plan includes, why Gumroad payouts confuse bank-feed bookkeeping, and the year-one cost of each
+- [When do you get paid? Payout timing on Gumroad, Payhip, Etsy, Lemon Squeezy and Sellfy](when-do-you-get-paid-gumroad-payhip-etsy-lemon-squeezy-sellfy): payout schedules, holds, minimums and payout fees, with one sale traced to the bank on each platform
 
 ## Free code
 

@@ -140,6 +140,7 @@ All checked 2026-10-20 on each company's official page.
 
 ## Related guides
 
+- Wondering when the money arrives? See [When do you get paid?](when-do-you-get-paid-gumroad-payhip-etsy-lemon-squeezy-sellfy)
 - Selling from your own site? See [Sell digital downloads from your own website](sell-digital-downloads-from-your-own-website).
 - Not ready for a monthly plan? See [systeme.io vs Kit vs Payhip: the cheapest free plan for selling](systeme-io-vs-kit-vs-payhip-free-plans).
 - Selling a course instead of downloads? See [Teachable vs Podia vs Payhip vs Gumroad](teachable-vs-podia-vs-payhip-vs-gumroad-courses).
