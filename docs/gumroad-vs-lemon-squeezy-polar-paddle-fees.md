@@ -54,6 +54,7 @@ If you stay on Gumroad and want the rest built for you:
 
 ## Related guides
 
+- [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): all of these platforms at your own price and sales volume
 - [Gumroad fees in 2026, explained](gumroad-fees-explained)
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Gumroad 1099-K and taxes](gumroad-1099-k-taxes)

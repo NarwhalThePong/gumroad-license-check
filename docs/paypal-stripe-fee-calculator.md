@@ -153,4 +153,6 @@ On a $5 sale, PayPal Checkout's $0.49 fixed fee alone is almost 10%. The effecti
 
 Not quite. Adding 2.9% to $100 gives $102.90, but the fee is charged on $102.90, not $100, so you'd come up short. Divide by (1 - percentage) instead, as the "price to charge" box does.
 
+Selling on a platform instead? Compare them all in the [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator).
+
 More tools and guides: [all guides and free tools](./). Not affiliated with PayPal or Stripe. Not tax or financial advice.
