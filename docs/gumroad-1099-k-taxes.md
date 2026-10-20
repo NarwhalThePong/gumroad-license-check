@@ -13,7 +13,7 @@ Every January, Gumroad sellers in the US open a 1099-K and see a number bigger t
 
 1. **Gross sales**: what buyers paid for your products, before anything is deducted.
 2. **Refunds and chargebacks**: money that went back to buyers.
-3. **Gumroad fees**: currently 10% + $0.50 per direct sale, and 30% on sales through Gumroad Discover.
+3. **Gumroad fees**: currently 10% + $0.50 per direct sale plus card processing (2.9% + $0.30) or PayPal fees, and a flat 30% on sales through Gumroad Discover, processing included.
 4. **Sales tax / VAT**: Gumroad acts as merchant of record and remits this. It isn't your income, but it can show up inside the gross total depending on the report.
 
 Net = gross − refunds − fees. On Schedule C that typically looks like this:

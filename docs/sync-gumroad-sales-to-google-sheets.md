@@ -120,7 +120,7 @@ Then pick `installHourlyTrigger` and run it once. From now on the sheet syncs ev
 
 Raw rows answer "did I sell anything?" For monthly totals, fees, refunds and taxes you need more:
 
-- **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30)** ($9+): paste or import your sales, and it applies the 10% + $0.50 and 30% Discover fees to every row, with a P&L, a chart, refunds and a tax set-aside sheet.
+- **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30)** ($9+): paste or import your sales, and it applies Gumroad's fees to every row (10% + $0.50 plus 2.9% + $0.30 card processing on direct sales, 30% on Discover), with a P&L, a chart, refunds and a tax set-aside sheet.
 - **[Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm/LAUNCH30)** ($15+): one command turns your sales into a CSV and a Markdown report by product, referrer and day, net of fees, with refund rate.
 - **[Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx/LAUNCH30)** ($9+): instant, verified sale and refund alerts in Discord, Slack or Telegram, if hourly isn't fast enough.
 

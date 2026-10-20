@@ -4,7 +4,7 @@ title: "Gumroad bundle & discount calculator: bundle pricing, offer codes and fe
 description: "Free Gumroad bundle pricing and discount code calculator. Add your product prices, set a bundle price or discount, and see buyer savings, Gumroad fees, your payout and how many bundle sales replace separate sales."
 ---
 
-Plan a Gumroad bundle or a discount code before you publish it. Add the prices of the products in the bundle, set a bundle price or a discount, and see what the buyer saves, what Gumroad takes and what you keep compared with selling each product on its own. Direct sales cost **10% + $0.50** per sale; Gumroad Discover sales cost **30%**. Everything runs in your browser and nothing is sent anywhere.
+Plan a Gumroad bundle or a discount code before you publish it. Add the prices of the products in the bundle, set a bundle price or a discount, and see what the buyer saves, what Gumroad takes and what you keep compared with selling each product on its own. Direct sales cost **10% + $0.50 plus 2.9% + $0.30 card processing** per sale, which Gumroad charges on top; Gumroad Discover sales cost **30%**, with processing included. Everything runs in your browser and nothing is sent anywhere.
 
 <div id="gbd" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0;max-width:680px">
   <p style="margin-bottom:4px"><strong>Product prices (USD)</strong></p>
@@ -19,7 +19,7 @@ Plan a Gumroad bundle or a discount code before you publish it. Add the prices o
   <table style="width:100%">
     <tr><th></th><th style="text-align:right">Bundle (one sale)</th><th style="text-align:right">Bought separately</th></tr>
     <tr><td>Buyer pays</td><td style="text-align:right" id="gbd-bpay"></td><td style="text-align:right" id="gbd-spay"></td></tr>
-    <tr><td>Gumroad fee</td><td style="text-align:right" id="gbd-bfee"></td><td style="text-align:right" id="gbd-sfee"></td></tr>
+    <tr><td>Fees (Gumroad + card processing)</td><td style="text-align:right" id="gbd-bfee"></td><td style="text-align:right" id="gbd-sfee"></td></tr>
     <tr><td>You keep</td><td style="text-align:right" id="gbd-bnet"></td><td style="text-align:right" id="gbd-snet"></td></tr>
     <tr><td>Effective fee</td><td style="text-align:right" id="gbd-bpct2"></td><td style="text-align:right" id="gbd-spct"></td></tr>
   </table>
@@ -34,7 +34,7 @@ Plan a Gumroad bundle or a discount code before you publish it. Add the prices o
 (function () {
   /*calc-start*/
   function round2(n) { return Math.round(n * 100) / 100; }
-  function directFee(p) { return p > 0 ? round2(p * 0.10 + 0.50) : 0; }
+  function directFee(p) { return p > 0 ? round2(round2(p * 0.10 + 0.50) + round2(p * 0.029 + 0.30)) : 0; }
   function discoverFee(p) { return p > 0 ? round2(p * 0.30) : 0; }
   function blendFee(p, s) { return (1 - s) * directFee(p) + s * discoverFee(p); }
   function calc(prices, mode, bprice, bpct, code, disc, x) {
@@ -49,7 +49,7 @@ Plan a Gumroad bundle or a discount code before you publish it. Add the prices o
     var need = bnet > 0 ? Math.ceil(x * avgNet / bnet - 1e-9) : null;
     return { n: prices.length, total: total, paid: paid, save: total - paid, savePct: total > 0 ? (total - paid) / total * 100 : 0,
       bfee: bfee, bnet: bnet, bpct: paid > 0 ? bfee / paid * 100 : null, sfee: sfee, snet: snet, spct: total > 0 ? sfee / total * 100 : null,
-      fixedSaved: (1 - s) * 0.50 * Math.max(prices.length - 1, 0), avgNet: avgNet, need: need, ratio: avgNet > 0 ? bnet / avgNet : null };
+      fixedSaved: (1 - s) * 0.80 * Math.max(prices.length - 1, 0), avgNet: avgNet, need: need, ratio: avgNet > 0 ? bnet / avgNet : null };
   }
   /*calc-end*/
   function money(n) { n = round2(n); return (n < 0 ? "-$" : "$") + Math.abs(n).toFixed(2); }
@@ -74,7 +74,7 @@ Plan a Gumroad bundle or a discount code before you publish it. Add the prices o
     if (!r.n) { set("gbd-save", "Add at least one product price."); set("gbd-feenote", ""); set("gbd-break", ""); return; }
     set("gbd-save", r.save >= 0 ? "Buyer saves " + money(r.save) + " (" + r.savePct.toFixed(1) + "%) versus buying all " + r.n + " products separately."
       : "The bundle costs " + money(-r.save) + " more than buying the products separately. Lower the bundle price.");
-    set("gbd-feenote", "On direct sales a bundle pays one $0.50 fixed fee instead of " + r.n + ", saving about " + money(r.fixedSaved) + " per buyer at your Discover share. You keep " + money(r.bnet) + " from the bundle versus " + money(r.snet) + " if the same buyer bought everything separately.");
+    set("gbd-feenote", "On direct sales a bundle pays one $0.50 Gumroad fee and one $0.30 card fee instead of " + r.n + " of each, saving about " + money(r.fixedSaved) + " per buyer at your Discover share. You keep " + money(r.bnet) + " from the bundle versus " + money(r.snet) + " if the same buyer bought everything separately.");
     var x = Math.floor(num("gbd-x", 0));
     set("gbd-break", r.need === null ? "The bundle earns nothing at this price."
       : r.need + " bundle sales earn at least as much as " + x + " separate product sales (about " + money(r.avgNet) + " kept on each). One bundle sale is worth " + r.ratio.toFixed(2) + " separate sales.");
@@ -93,22 +93,23 @@ Plan a Gumroad bundle or a discount code before you publish it. Add the prices o
 total            = sum of the product prices
 bundle price     = your bundle price, or total * (1 - discount %)
 buyer pays       = bundle price * (1 - offer code %)
-direct fee       = buyer pays * 10% + $0.50        (per sale)
-discover fee     = buyer pays * 30%                (per sale)
+direct fee       = (buyer pays * 10% + $0.50)
+                   + card processing (buyer pays * 2.9% + $0.30)   (per sale)
+discover fee     = buyer pays * 30%   (processing included, per sale)
 fee              = blend of the two by your Discover share
 bought separately: each product is its own sale and pays its own fee,
-                   including its own $0.50 on direct sales
+                   including its own $0.50 and $0.30 on direct sales
 bundle sales to replace X separate sales
                  = X * (average kept per separate sale) / (kept per bundle sale), rounded up
 ```
 
-Fees are rounded to the cent per sale. Gumroad is the merchant of record and handles sales tax and VAT, which aren't part of these fees. *Check [Gumroad's pricing page](https://gumroad.com/pricing) before relying on these numbers, since fees change.* For a single price, use the [Gumroad fee calculator](gumroad-fee-calculator).
+Card payments are assumed; PayPal payments carry PayPal's own fees instead of the 2.9% + $0.30. Fees are rounded to the cent per sale. Gumroad is the merchant of record and handles sales tax and VAT, which aren't part of these fees. *Check [Gumroad's pricing page](https://gumroad.com/pricing) and [Gumroad's fees help page](https://gumroad.com/help/article/66-gumroads-fees) before relying on these numbers, since fees change.* For a single price, use the [Gumroad fee calculator](gumroad-fee-calculator).
 
 ## FAQ
 
 ### How should I price a Gumroad bundle?
 
-Most bundles sit at 20-40% below the total of the products inside. The calculator shows what the buyer saves and what you keep, so you can find a discount that looks generous without cutting too deep. Because a bundle is one sale, it pays one $0.50 fixed fee instead of one per product, so part of the discount is paid for by fees you no longer pay.
+Most bundles sit at 20-40% below the total of the products inside. The calculator shows what the buyer saves and what you keep, so you can find a discount that looks generous without cutting too deep. Because a bundle is one sale, it pays one $0.50 Gumroad fee and one $0.30 card fee instead of one of each per product, so part of the discount is paid for by fees you no longer pay.
 
 ### Does a Gumroad discount code stack with a bundle price?
 
@@ -116,7 +117,7 @@ An offer code takes its percentage off whatever the buyer is paying for that pro
 
 ### Is the Gumroad fee charged on the price before or after the discount?
 
-After. The 10% (or 30% on Discover) is a share of the amount the buyer pays, and the $0.50 is added once per sale. A discount lowers the percentage part of the fee but not the $0.50.
+After. The 10% (or 30% on Discover) is a share of the amount the buyer pays, and the $0.50 is added once per sale. Card processing on direct sales (2.9% + $0.30) is also worked out on what the buyer pays. A discount lowers the percentage parts but not the $0.50 or the $0.30.
 
 ### How many bundle sales make up for lost separate sales?
 

@@ -40,7 +40,7 @@ Deploy it anywhere that runs Node, then set Gumroad's Ping URL to `https://your-
 ## Making it production-grade
 - **Dedupe** on `sale_id + event`, so resent pings don't alert twice.
 - **Separate events:** refunds, chargebacks, disputes, cancellations.
-- **Net after fees:** Gumroad keeps 10% + $0.50 on direct sales and 30% on Discover sales. Seeing the net number changes how you price.
+- **Net after fees:** Gumroad keeps 10% + $0.50 plus card processing (2.9% + $0.30) on direct sales, and 30% on Discover sales. Seeing the net number changes how you price.
 - **Referrer:** `sale.referrer` tells you which post or site sold the product. That's the cheapest marketing analytics you'll get.
 - **Mask emails** before posting them into a shared channel.
 - **Ledger:** append every event to a CSV, and guard cells that start with `=`, `+`, `-` or `@` so a malicious product name can't run a formula in Excel.
