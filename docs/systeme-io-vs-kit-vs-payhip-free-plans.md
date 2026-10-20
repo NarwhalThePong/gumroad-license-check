@@ -4,7 +4,6 @@ title: "systeme.io vs Kit vs Payhip in 2026: the cheapest free plan for selling 
 description: "Free plan limits, the cut each one takes per sale, and a worked $500 and $3,000-a-month example for systeme.io, Kit and Payhip, with Gumroad for reference, checked October 2026."
 ---
 
-<!-- affiliate-disclosure: none yet; add here if affiliate links are added -->
 **Disclosure:** We sell our own digital products on Gumroad, which we use as a reference point on this page, and some of our free calculators are linked here. We have no partnership with systeme.io, Kit, Payhip or Gumroad and aren't paid for any link here.
 
 If you're selling your first ebook, template or mini-course, you probably don't want a monthly bill yet. systeme.io, Kit and Payhip all let you sell for $0 a month. What differs is the cut each one takes per sale, how big your email list can get before you have to pay, and what else is included.

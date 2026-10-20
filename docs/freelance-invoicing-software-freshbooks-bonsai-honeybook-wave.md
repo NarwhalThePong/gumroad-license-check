@@ -5,7 +5,6 @@ description: "Plan prices, card and bank-transfer fees, and a worked $3,000-a-mo
 ---
 
 
-<!-- affiliate-disclosure: none yet; add here if affiliate links are added -->
 **Disclosure:** We make free calculators and sell our own spreadsheet kits on Gumroad; some are linked on this page. We have no partnership with FreshBooks, Bonsai, HoneyBook or Wave and aren't paid for any link here.
 
 Every invoicing tool has two prices: the plan, and the cut it takes when a client pays online. For most freelancers the second one is bigger, and it depends far more on *how* your client pays (card or bank transfer) than on which tool you pick.

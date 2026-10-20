@@ -4,7 +4,6 @@ title: "Teachable vs Podia vs Payhip vs Gumroad in 2026: where to sell an online
 description: "Plan prices, platform fees and a worked $500 and $3,000-a-month example for four course platforms, checked October 2026."
 ---
 
-<!-- affiliate-disclosure: none yet; add here if affiliate links are added -->
 **Disclosure:** We sell our own digital products on Gumroad, one of the four platforms compared here, and some of our free calculators are linked on this page. We have no partnership with Teachable, Podia, Payhip or Gumroad and aren't paid for any link here.
 
 A course platform charges you in up to three ways: a monthly plan, a percentage of each sale, and card processing. Which one is cheapest depends almost entirely on how much you sell. A free plan with a 5% fee wins when you're small; a flat plan with no fee wins once sales grow.

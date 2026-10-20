@@ -5,7 +5,6 @@ description: "Fees, plan limits and the real monthly cost of selling $500 and $3
 ---
 
 
-<!-- affiliate-disclosure: none yet; add here if affiliate links are added -->
 **Disclosure:** We sell our own digital products on Gumroad, and a few of them are linked at the end of this page. We have no partnership with Payhip, Sellfy, SendOwl or Gumroad and aren't paid for any link here.
 
 If you sell ebooks, templates, presets, spreadsheets or other downloads, the platform you choose decides how much of each sale you keep. Gumroad is the easiest place to start, but its percentage fee grows with your sales. Payhip, Sellfy and SendOwl take a different approach: a lower percentage, a flat monthly price, or both.
