@@ -4,7 +4,7 @@ title: "Bookkeeping for digital product sellers in 2026: Wave vs QuickBooks Solo
 description: "Why Gumroad payouts confuse bank-feed bookkeeping, what Wave and QuickBooks Solopreneur plans include, and the year-one cost of each, checked October 2026."
 ---
 
-**Disclosure:** We sell our own digital products and make free tools for sellers, and one of the options below is our own spreadsheet. We have no partnership with Wave or Intuit and aren't paid for any link.
+**Disclosure:** We sell our own digital products on Gumroad and Payhip and make free tools for sellers. One of the options below is our own spreadsheet, a few paid kits are linked at the end, and we earn the sale price if you buy one. We have no partnership with Wave or Intuit and aren't paid for any other link.
 
 If you sell templates, ebooks or presets on Gumroad, your bookkeeping problem is a little unusual. Gumroad takes its fees before it pays you, so the deposit that lands in your bank is the net amount. Your 1099-K and your Schedule C start from gross sales, and the fees are a deductible expense. Bank-feed accounting software only sees the deposit. So whatever you pick, you'll still need Gumroad's sales export to split each payout into gross sales, fees and refunds.
 
@@ -75,6 +75,7 @@ If you also freelance and get paid by card through invoices, the per-payment fee
 - [Quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator) (free)
 - **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq)** (our product, pay what you want from $9)
 - **[Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm)** (our product)
+- **[Gumroad Tax Report Kit](https://payhip.com/b/jJ7cr)** (our product, $12 on Payhip): a year-end report from your Gumroad sales exports, with gross, refunds, fees, net and the Schedule C lines, ready for your accountant
 
 ## Sources
 

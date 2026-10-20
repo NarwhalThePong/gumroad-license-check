@@ -9,6 +9,8 @@ Every January, Gumroad sellers in the US open a 1099-K and see a number bigger t
 
 *Not tax advice. Rules and thresholds change, so confirm with a tax professional.*
 
+*Disclosure: the Gumroad Seller Finance Tracker, the Gumroad Sales Dashboard Kit and the Gumroad Tax Report Kit linked below are our own paid products, and we earn the sale price if you buy one.*
+
 ## The four numbers you need
 
 1. **Gross sales**: what buyers paid for your products, before anything is deducted.
@@ -32,7 +34,7 @@ Gumroad lets you export your sales as a CSV for a date range from the sales area
 
 - Filter the CSV to the tax year using the purchase date.
 - Sum the sale price column for **gross**.
-- Sum the fee column. If there's no fee column, estimate each row: `price * 0.10 + 0.50` for direct sales, `price * 0.30` for Discover sales.
+- Sum the fee column. If there's no fee column, estimate each row: `price * 0.10 + 0.50 + price * 0.029 + 0.30` for direct card sales (Gumroad's fee plus card processing), `price * 0.30` for Discover sales. PayPal sales have PayPal's own processing fee instead of the 2.9% + $0.30.
 - Sum the refunded amounts for rows marked refunded.
 - Sum any tax column separately and keep it **out** of income.
 - Check: gross − refunds − fees should be close to your total payouts for the year, give or take payouts that crossed Dec 31.
@@ -47,6 +49,8 @@ Gumroad lets you export your sales as a CSV for a date range from the sales area
 ## Automating it
 
 If you'd rather not rebuild this spreadsheet every year, the **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30)** spreadsheet imports your sales CSV, does the fee math above, tracks refunds and sets aside a tax buffer as you go. For charts and per-product reports, there's the **[Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm/LAUNCH30)**.
+
+Want the four numbers without building the spreadsheet? The **[Gumroad Tax Report Kit](https://payhip.com/b/jJ7cr)** ($12, on Payhip) reads your Gumroad sales exports and prints gross sales, refunds and chargebacks, Gumroad fees and net for the tax year, keeps the sales tax and VAT Gumroad collected out of income, and fills in the Schedule C lines above so they reconcile to your 1099-K. Plain Python, runs offline on your own files.
 
 Related: [Gumroad fees in 2026, explained](gumroad-fees-explained).
 

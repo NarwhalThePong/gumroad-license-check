@@ -4,7 +4,7 @@ title: "Who collects sales tax and VAT on digital products? Gumroad, Lemon Squee
 description: "Merchant of record or not: who charges, collects and pays sales tax and VAT when you sell digital downloads on Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy, with one $20 sale to Germany, the UK and Pennsylvania worked out. Checked October 2026."
 ---
 
-**Disclosure:** We sell our own digital products on Gumroad and make free tools for sellers. We have no partnership with Lemon Squeezy, Payhip, Sellfy, Etsy, PayPal or Stripe and aren't paid for any link.
+**Disclosure:** We sell our own digital products on Gumroad and Payhip and make free tools for sellers; a few paid ones are linked at the end of this page, and we earn the sale price if you buy one. We have no partnership with Lemon Squeezy, Payhip, Sellfy, Etsy, PayPal or Stripe and aren't paid for any other link.
 
 **Not tax advice.** This guide sums up what each platform says on its own help pages and what a few tax authorities publish. Your situation depends on where you live and where your buyers are, so check with a tax professional before you rely on it.
 
@@ -105,6 +105,7 @@ What the table shows: the platforms that keep the most per sale (Sellfy, then Pa
 - [Gumroad 1099-K and taxes](gumroad-1099-k-taxes) (free guide): why the sales tax and VAT Gumroad collects isn't your income
 - **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq)** (our product, pay what you want from $9): splits each payout into gross sales, Gumroad fees, card processing and refunds
 - **[Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm)** (our product)
+- **[Gumroad Tax Report Kit](https://payhip.com/b/jJ7cr)** (our product, $12 on Payhip): reads your Gumroad sales exports and splits out the sales tax and VAT Gumroad collected, so it stays out of your income
 
 ## Sources
 
