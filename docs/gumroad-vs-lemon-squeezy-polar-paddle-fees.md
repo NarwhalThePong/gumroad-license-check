@@ -59,5 +59,6 @@ If you stay on Gumroad and want the rest built for you:
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Gumroad 1099-K and taxes](gumroad-1099-k-taxes)
 - [Sell access to a private GitHub repo on Gumroad](sell-private-github-repo-on-gumroad)
+- [Who collects sales tax and VAT on digital products? Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy](who-collects-sales-tax-vat-gumroad-lemon-squeezy-payhip-sellfy-etsy)
 
 Not affiliated with Gumroad, Lemon Squeezy, Polar or Paddle. Rates are as published on October 20, 2026.

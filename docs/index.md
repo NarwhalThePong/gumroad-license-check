@@ -46,6 +46,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Sell digital downloads from your own website: SendOwl vs Payhip vs Sellfy vs systeme.io](sell-digital-downloads-from-your-own-website): checkout and delivery tools for your own site, with the cost at $500 and $3,000 a month
 - [Bookkeeping for digital product sellers: Wave vs QuickBooks Solopreneur vs a spreadsheet](bookkeeping-for-digital-product-sellers-wave-quickbooks-spreadsheet): what each plan includes, why Gumroad payouts confuse bank-feed bookkeeping, and the year-one cost of each
 - [When do you get paid? Payout timing on Gumroad, Payhip, Etsy, Lemon Squeezy and Sellfy](when-do-you-get-paid-gumroad-payhip-etsy-lemon-squeezy-sellfy): payout schedules, holds, minimums and payout fees, with one sale traced to the bank on each platform
+- [Who collects sales tax and VAT on digital products? Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy](who-collects-sales-tax-vat-gumroad-lemon-squeezy-payhip-sellfy-etsy): merchant of record or not, who charges and pays the tax, with one $20 sale to Germany, the UK and Pennsylvania
 
 ## Free code
 

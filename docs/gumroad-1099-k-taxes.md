@@ -51,3 +51,5 @@ If you'd rather not rebuild this spreadsheet every year, the **[Gumroad Seller F
 Related: [Gumroad fees in 2026, explained](gumroad-fees-explained).
 
 Choosing bookkeeping software? See [Bookkeeping for digital product sellers](bookkeeping-for-digital-product-sellers-wave-quickbooks-spreadsheet).
+
+Who actually collects the sales tax and VAT? See [Who collects sales tax and VAT on digital products](who-collects-sales-tax-vat-gumroad-lemon-squeezy-payhip-sellfy-etsy).
