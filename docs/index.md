@@ -12,6 +12,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Sell access to a private GitHub repo on Gumroad](sell-private-github-repo-on-gumroad): invite on sale, remove on refund
 - [Get Gumroad sale alerts in Discord, Slack or Telegram](gumroad-sale-alerts-discord-slack-telegram)
 - [Sell a paid Discord on Gumroad and revoke roles on refund](gumroad-discord-roles-refunds)
+- [Gumroad fees in 2026, explained](gumroad-fees-explained): what you keep on a $5, $19 and $49 sale, and how to price around the fee
 
 ## Free code
 
