@@ -9,6 +9,7 @@ Practical, code-first guides for people who sell software, code and communities 
 ## Free tools
 
 - [Gumroad fee calculator](gumroad-fee-calculator): see what you keep on direct and Discover sales, and the price you need for a target payout
+- [Gumroad bundle & discount calculator](gumroad-bundle-discount-calculator): price a bundle or offer code and compare your payout with selling each product separately
 
 ## Guides
 

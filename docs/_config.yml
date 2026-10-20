@@ -8,6 +8,7 @@ plugins:
   - jekyll-seo-tag
 header_pages:
   - gumroad-fee-calculator.md
+  - gumroad-bundle-discount-calculator.md
   - refunded-gumroad-license-keys.md
   - sell-private-github-repo-on-gumroad.md
   - gumroad-sale-alerts-discord-slack-telegram.md
