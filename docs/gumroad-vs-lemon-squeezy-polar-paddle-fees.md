@@ -12,33 +12,33 @@ Prices below come from each company's public pricing page, checked on October 20
 
 | Platform | Standard fee | Notes |
 | --- | --- | --- |
-| [Gumroad](https://gumroad.com/pricing) | 10% + $0.50 | Sales through your profile or direct links. **30%** when a new buyer finds you through Gumroad Discover. No monthly fee. |
+| [Gumroad](https://gumroad.com/help/article/66-gumroads-fees) | 10% + $0.50, plus card processing (2.9% + $0.30) or PayPal fees | Sales through your profile or direct links. **30%**, processing included, when a new buyer finds you through Gumroad Discover. 5% + $0.50 (plus processing) once paid sales pass $20,000 in a month. No monthly fee. |
 | [Lemon Squeezy](https://www.lemonsqueezy.com/pricing) | 5% + $0.50 | No monthly fee. The pricing page says some payments may carry small additional fees. |
 | [Polar](https://polar.sh/docs/merchant-of-record/fees) | 5% + $0.50 (Starter) | Free plan for organizations created on or after May 27, 2026. +1.5% for non-US cards. Paid plans from $20/month lower the rate (Pro: 3.8% + $0.40). |
 | [Paddle](https://www.paddle.com/pricing) | 5% + $0.50 | No monthly fee. Paddle asks sellers with products under $10 to contact them for custom pricing. |
 
 ## What you keep on a $9, $29 and $99 sale
 
-Before tax, one-time purchase, standard plan, no extra fees:
+Before tax, one-time purchase, paid by card, standard plan. Gumroad direct includes Gumroad's 2.9% + $0.30 card processing:
 
 | Price | Gumroad direct | Gumroad Discover | Lemon Squeezy / Paddle / Polar (US card) | Polar (non-US card) |
 | --- | --- | --- | --- | --- |
-| $9 | $7.60 | $6.30 | $8.05 | $7.92 |
-| $29 | $25.60 | $20.30 | $27.05 | $26.62 |
-| $99 | $88.60 | $69.30 | $93.55 | about $92.07 |
+| $9 | $7.04 | $6.30 | $8.05 | $7.92 |
+| $29 | $24.46 | $20.30 | $27.05 | $26.62 |
+| $99 | $85.43 | $69.30 | $93.55 | about $92.07 |
 
-The gap between Gumroad direct and the 5% + $0.50 platforms is exactly 5% of the price: $0.45 on a $9 sale, $1.45 on $29 and $4.95 on $99. Polar's docs calculate the fee on the tax-inclusive total, so where VAT applies its fee is a little higher than the table shows.
+Once card processing is counted, Gumroad direct keeps $1.01 less than the 5% + $0.50 platforms on a $9 sale, $2.59 less on $29 and $8.12 less on $99. Polar's docs calculate the fee on the tax-inclusive total, so where VAT applies its fee is a little higher than the table shows.
 
 ## When Gumroad is still the better pick
 
 - **You want buyers you didn't bring.** Discover costs 30%, but it is the only one of the four with a marketplace that sends you new customers. 70% of a sale you would not otherwise have beats 95% of nothing.
-- **You sell cheap things.** On a $5 product the fixed $0.50 hurts everywhere, and Paddle asks you to negotiate below $10.
+- **You sell cheap things.** On a $5 product the fixed per-sale fee hurts everywhere, and Paddle asks you to negotiate below $10.
 - **You want it running tonight.** A product page, a PWYW price and a file upload take minutes, and the buyer flow is familiar.
 - **Volume is small.** Below a few hundred dollars a month, 5% is a few dollars. Your time setting up a second platform costs more.
 
 ## When the 5% platforms win
 
-- **Higher prices or steady volume.** At $99 a sale, 50 sales a month is about $247 a month you keep instead of paying in fees.
+- **Higher prices or steady volume.** At $99 a sale, 50 sales a month is about $406 a month you keep instead of paying in fees.
 - **Subscriptions and SaaS billing.** Lemon Squeezy, Polar and Paddle are built around recurring billing, seats and usage.
 - **You already have traffic.** If buyers come from your own site or audience, Discover's reach matters less.
 
