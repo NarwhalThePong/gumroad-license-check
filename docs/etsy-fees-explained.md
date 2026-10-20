@@ -141,5 +141,6 @@ Mostly. Etsy recalculates the processing fee and other applicable fees (such as 
 - [Etsy fee & profit calculator](etsy-fee-calculator): every fee, your profit, and the price you need
 - [Gumroad fees in 2026, explained](gumroad-fees-explained): if you also sell digital products on Gumroad
 - [Gumroad vs Lemon Squeezy vs Polar vs Paddle](gumroad-vs-lemon-squeezy-polar-paddle-fees)
+- [Gumroad vs Etsy vs Stripe vs PayPal vs Shopify fees](gumroad-vs-etsy-vs-stripe-vs-paypal-fees): selling digital products, with what you keep on a $10, $25 and $50 sale
 
 More tools and guides: [all guides and free tools](./). Not affiliated with Etsy. Not tax advice.

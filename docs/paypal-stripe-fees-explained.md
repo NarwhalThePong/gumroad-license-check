@@ -91,4 +91,6 @@ No. This page covers US standard rates. Other countries have their own rate tabl
 
 [Stripe pricing](https://stripe.com/pricing) and [PayPal merchant fees (US)](https://www.paypal.com/us/business/paypal-business-fees), checked Oct 20, 2026 (PayPal's page was last updated Oct 1, 2026). Fees can change at any time, so check the official pages and your own account before you rely on a number.
 
+Comparing platforms? See [Gumroad vs Etsy vs Stripe vs PayPal vs Shopify fees](gumroad-vs-etsy-vs-stripe-vs-paypal-fees) for what you keep on a $10, $25 and $50 digital product.
+
 More tools and guides: [all guides and free tools](./). Not affiliated with PayPal or Stripe. Not tax or financial advice.
