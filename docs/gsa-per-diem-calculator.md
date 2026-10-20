@@ -162,10 +162,17 @@ Example with the default inputs: New York City, leaving Tuesday November 3, 2026
 
 Sources: [GSA per diem rates](https://www.gsa.gov/travel/plan-book/per-diem-rates), [GSA M&IE breakdowns](https://www.gsa.gov/travel/plan-book/per-diem-rates/mie-breakdown), [GSA per diem FAQ](https://www.gsa.gov/travel/plan-book/per-diem-rates/frequently-asked-questions-per-diem), and the Federal Travel Regulation, [41 CFR 301-11.20](https://www.ecfr.gov/current/title-41/section-301-11.20) and [301-11.21](https://www.ecfr.gov/current/title-41/section-301-11.21). Rates loaded from GSA's per diem API and rules checked on October 20, 2026. This is general information; your agency's or employer's travel policy has the final word.
 
+## Tools from us
+
+- [Per Diem Travel Expense Tracker (Excel + Google Sheets)](https://payhip.com/b/ztfN3): log trips day by day at GSA FY2026 and FY2027 rates, with 75% first and last days, provided-meal deductions, lodging vs the GSA cap, and the 50% or 80% deductible meal amount from IRS Pub. 463. $9.
+- US Per Diem API: coming soon. GSA per diem rates by ZIP code or city for your own apps. Not available yet.
+
+*Disclosure: the Per Diem Travel Expense Tracker is our own paid product, and we earn the sale price if you buy it. Not affiliated with GSA or the IRS. Not tax advice.*
+
 ## Related tools and guides
 
 - [Self-employed per diem meal deduction calculator](self-employed-per-diem-meal-deduction-calculator) for the IRS standard meal allowance and the 50% deduction
 - [Freelance quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator)
 - [What to include on a freelance invoice](what-to-include-on-a-freelance-invoice) if you bill travel to clients
 
-*Disclosure: the calculators on this site are our own. We don't earn anything from the links above, and none are affiliate links. Not affiliated with GSA.* More guides: [Gumroad developer guides](./).
+*Disclosure: the calculators on this site are our own. We don't earn anything from the links in this list, and none are affiliate links. Not affiliated with GSA.* More guides: [Gumroad developer guides](./).

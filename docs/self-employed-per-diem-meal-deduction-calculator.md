@@ -155,6 +155,13 @@ Example with the default inputs: New York City, leaving Tuesday November 3, 2026
 
 Sources: [IRS Publication 463, Travel, Gift, and Car Expenses](https://www.irs.gov/publications/p463), [GSA per diem rates](https://www.gsa.gov/travel/plan-book/per-diem-rates) and the [GSA M&IE breakdown](https://www.gsa.gov/travel/plan-book/per-diem-rates/mie-breakdown). Rates loaded from GSA's per diem API on October 20, 2026. This is general information, not tax advice; check with a tax professional for your situation.
 
+## Tools from us
+
+- [Per Diem Travel Expense Tracker (Excel + Google Sheets)](https://payhip.com/b/ztfN3): log trips day by day at GSA FY2026 and FY2027 rates, with 75% first and last days, provided-meal deductions, lodging vs the GSA cap, and the 50% or 80% deductible meal amount from IRS Pub. 463. $9.
+- US Per Diem API: coming soon. GSA per diem rates by ZIP code or city for your own apps. Not available yet.
+
+*Disclosure: the Per Diem Travel Expense Tracker is our own paid product, and we earn the sale price if you buy it. Not affiliated with GSA or the IRS. Not tax advice.*
+
 ## Related tools and guides
 
 - [GSA per diem calculator](gsa-per-diem-calculator) for employer or federal travel reimbursement with lodging
@@ -163,4 +170,4 @@ Sources: [IRS Publication 463, Travel, Gift, and Car Expenses](https://www.irs.g
 - [What to include on a freelance invoice](what-to-include-on-a-freelance-invoice) if you bill travel to clients
 - [Freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave)
 
-*Disclosure: the calculators on this site are our own. We don't earn anything from the links above, and none are affiliate links. Not affiliated with the IRS or GSA.* More guides: [Gumroad developer guides](./).
+*Disclosure: the calculators on this site are our own. We don't earn anything from the links in this list, and none are affiliate links. Not affiliated with the IRS or GSA.* More guides: [Gumroad developer guides](./).
