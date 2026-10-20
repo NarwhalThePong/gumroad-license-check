@@ -50,6 +50,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Who collects sales tax and VAT on digital products? Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy](who-collects-sales-tax-vat-gumroad-lemon-squeezy-payhip-sellfy-etsy): merchant of record or not, who charges and pays the tax, with one $20 sale to Germany, the UK and Pennsylvania
 - [Refunds and chargebacks on digital products: what they cost on Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy](refunds-and-chargebacks-digital-products-gumroad-lemon-squeezy-payhip-sellfy-etsy): who issues the refund, which fees come back, and what a lost chargeback costs on a $20 sale
 - [Delivering digital files: file limits, download limits, PDF stamping and license keys on Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy](delivering-digital-files-gumroad-lemon-squeezy-payhip-sellfy-etsy): file size and download limits, PDF stamping, license keys, and whether past buyers get your updates
+- [Discount codes and sales on Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy: coupons, limits, fees and pay what you want](discount-codes-and-sales-gumroad-lemon-squeezy-payhip-sellfy-etsy): how codes, timed sales, bundles and pay what you want work on each, and what a 25% off code on a $20 product costs you
 
 ## Free code
 

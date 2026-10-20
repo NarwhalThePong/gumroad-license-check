@@ -132,4 +132,5 @@ Yes. Discover charges 30% with no fixed fee, so bundling saves less on fees for 
 - **[Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm/LAUNCH30)** turns your sales data into revenue, refund and per-product reports, so you can see whether the bundle is pulling its weight.
 - **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30)** imports your sales CSV, applies the fees to every row, and builds a P&L with a tax set-aside sheet.
 
+What does a discount code actually cost you, and how do codes work on other platforms? See [Discount codes and sales](discount-codes-and-sales-gumroad-lemon-squeezy-payhip-sellfy-etsy).
 More tools and guides: [Gumroad fee calculator](gumroad-fee-calculator), [Gumroad fees in 2026, explained](gumroad-fees-explained), [all Gumroad developer guides](./). Not affiliated with Gumroad.

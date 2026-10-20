@@ -55,4 +55,5 @@ Looking at other platforms? See [Gumroad alternatives: Payhip vs Sellfy vs SendO
 
 Selling a course instead of downloads? See [Teachable vs Podia vs Payhip vs Gumroad](teachable-vs-podia-vs-payhip-vs-gumroad-courses).
 
+What does a discount code actually cost you, and how do codes work on other platforms? See [Discount codes and sales](discount-codes-and-sales-gumroad-lemon-squeezy-payhip-sellfy-etsy).
 More guides: [Gumroad developer guides](./). Not affiliated with Gumroad.
