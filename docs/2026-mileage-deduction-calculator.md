@@ -195,9 +195,10 @@ Sources: [IRS standard mileage rates](https://www.irs.gov/tax-professionals/stan
 
 ## Tools from us
 
+- [Mileage Log 2026 (Excel + Google Sheets)](https://payhip.com/b/TUHGi): log every trip and get each one priced at the IRS rate for its date (72.5¢ to June 30, 76¢ from July 1, plus medical, military moving and charity rates), with monthly totals, the Schedule C line 9 total and a reimbursement sheet. $9.
 - [Per Diem Travel Expense Tracker (Excel + Google Sheets)](https://payhip.com/b/ztfN3): log trips day by day at GSA FY2026 and FY2027 rates, with 75% first and last days, provided-meal deductions, lodging vs the GSA cap, and the 50% or 80% deductible meal amount from IRS Pub. 463. $9.
 
-*Disclosure: the Per Diem Travel Expense Tracker is our own paid product, and we earn the sale price if you buy it. Not affiliated with the IRS or GSA. Not tax advice.*
+*Disclosure: the Mileage Log 2026 and the Per Diem Travel Expense Tracker are our own paid products, and we earn the sale price if you buy one. Not affiliated with the IRS or GSA. Not tax advice.*
 
 ## Related tools and guides
 
