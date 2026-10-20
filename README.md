@@ -49,6 +49,12 @@ These run in your browser; nothing is uploaded.
 - [Gumroad bundle and discount calculator](https://narwhalthepong.github.io/gumroad-license-check/gumroad-bundle-discount-calculator): bundle pricing, offer codes, buyer savings and fees.
 - [PayPal and Stripe fee calculator](https://narwhalthepong.github.io/gumroad-license-check/paypal-stripe-fee-calculator) and [Etsy fee calculator](https://narwhalthepong.github.io/gumroad-license-check/etsy-fee-calculator), if you sell on more than one platform.
 
+## WordPress plugin
+
+[`wordpress/license-gate-for-gumroad`](wordpress/license-gate-for-gumroad) is a free WordPress plugin built on the same check. Wrap any content in `[license_gate product_id="YOUR_PRODUCT_ID"]...[/license_gate]` (or use the "License Gate" block) and visitors only see it after entering a valid Gumroad license key. Refunded, chargebacked, disputed and ended-subscription keys stay locked, answers are cached, attempts are rate-limited per IP, and only a salted hash of the key is stored.
+
+Install: download `license-gate-for-gumroad-1.0.0.zip` from [Releases](https://github.com/NarwhalThePong/gumroad-license-check/releases), then Plugins > Add New > Upload Plugin in WordPress. Requires WordPress 6.3+ and PHP 7.4+. The plugin folder is licensed GPLv2 or later (see its `readme.txt`); the rest of this repo keeps its own license.
+
 ## Need more?
 This repo is intentionally small. The **[Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs)** adds:
 - a signed offline cache with a grace period, so your app works without internet

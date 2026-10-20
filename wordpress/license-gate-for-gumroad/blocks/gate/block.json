@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "license-gate-for-gumroad/gate",
+	"version": "1.0.0",
+	"title": "License Gate",
+	"category": "widgets",
+	"icon": "lock",
+	"description": "Hide the blocks inside until the visitor enters a valid Gumroad license key.",
+	"keywords": [ "gumroad", "license", "paywall", "members", "gate" ],
+	"textdomain": "license-gate-for-gumroad",
+	"attributes": {
+		"productId": {
+			"type": "string",
+			"default": ""
+		},
+		"message": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./editor.css"
+}

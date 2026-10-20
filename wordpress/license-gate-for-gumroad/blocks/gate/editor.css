@@ -1,0 +1,9 @@
+.lgfg-gate-editor {
+	border: 1px dashed #8c8f94;
+	padding: 12px 16px;
+}
+.lgfg-gate-editor__label {
+	font-size: 12px;
+	color: #50575e;
+	margin: 0 0 8px;
+}

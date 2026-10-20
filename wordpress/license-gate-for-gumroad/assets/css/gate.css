@@ -1,0 +1,24 @@
+.lgfg-gate {
+	border: 1px solid rgba(0, 0, 0, 0.15);
+	border-radius: 6px;
+	padding: 1em 1.25em;
+	margin: 1.5em 0;
+}
+.lgfg-feedback {
+	color: #b32d2e;
+	margin: 0.5em 0;
+}
+.lgfg-form {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5em;
+	align-items: center;
+}
+.lgfg-form label {
+	width: 100%;
+	font-weight: 600;
+}
+.lgfg-form input[type="text"] {
+	flex: 1 1 18em;
+	font-family: monospace;
+}
