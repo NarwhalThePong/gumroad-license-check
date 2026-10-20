@@ -148,4 +148,6 @@ Once you're sending invoices, the free [invoice late fee & payment terms calcula
 
 To send and track those invoices, compare [freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave).
 
+Traveling for work? The free [self-employed per diem meal deduction calculator (2026)](self-employed-per-diem-meal-deduction-calculator) finds the IRS standard meal allowance for any US city and your travel dates, and the 50% you can deduct.
+
 More tools and guides: [all guides and free tools](./).

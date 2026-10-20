@@ -372,6 +372,8 @@ You may owe an underpayment penalty, figured like interest on the amount that wa
 
 Yes. The IRS accepts more frequent payments as long as each period's total reaches the amount due by that period's deadline. Some freelancers pay a little after every invoice.
 
+Traveling for work? The free [self-employed per diem meal deduction calculator (2026)](self-employed-per-diem-meal-deduction-calculator) finds the IRS standard meal allowance for any US city and your travel dates, and the 50% you can deduct.
+
 More tools and guides: [all guides and free tools](./).
 
 *Not tax advice. Not affiliated with the IRS.*
