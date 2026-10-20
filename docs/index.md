@@ -6,6 +6,8 @@ description: "Practical guides for developers who sell software on Gumroad: lice
 
 Practical, code-first guides for people who sell software, code and communities on Gumroad. Each one covers a gotcha in Gumroad's API that most setups miss.
 
+> **Launch week:** code `LAUNCH30` takes 30% off every paid kit and the [all-kits bundle](https://paudrudis.gumroad.com/l/vtmohb/LAUNCH30) until October 26, 2026.
+
 ## Free tools
 
 - [Gumroad fee calculator](gumroad-fee-calculator): see what you keep on direct and Discover sales, and the price you need for a target payout
