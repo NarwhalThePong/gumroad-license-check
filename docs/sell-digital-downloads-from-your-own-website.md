@@ -145,3 +145,4 @@ All checked 2026-10-20 on each company's official site.
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl vs Gumroad](gumroad-alternatives-payhip-sellfy-sendowl)
 - [systeme.io vs Kit vs Payhip: the cheapest free plan for selling](systeme-io-vs-kit-vs-payhip-free-plans)
 - [Gumroad fees in 2026, explained](gumroad-fees-explained)
+- [Delivering digital files: file limits, download limits, PDF stamping and license keys](delivering-digital-files-gumroad-lemon-squeezy-payhip-sellfy-etsy)

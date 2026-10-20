@@ -67,5 +67,7 @@ If you want the production version, with a signed offline cache and grace period
 
 What does a refund or a chargeback actually cost you? See [Refunds and chargebacks on digital products](refunds-and-chargebacks-digital-products-gumroad-lemon-squeezy-payhip-sellfy-etsy).
 
+How big can your files be, and do past buyers get your updates? See [Delivering digital files](delivering-digital-files-gumroad-lemon-squeezy-payhip-sellfy-etsy).
+
 ---
 [All guides](./)
