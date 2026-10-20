@@ -124,3 +124,4 @@ All checked 2026-10-20 on each company's official page.
 
 - [What to include on a freelance invoice](what-to-include-on-a-freelance-invoice)
 - [PayPal and Stripe fees, explained](paypal-stripe-fees-explained)
+- [Bookkeeping for digital product sellers: Wave vs QuickBooks Solopreneur vs a spreadsheet](bookkeeping-for-digital-product-sellers-wave-quickbooks-spreadsheet)
