@@ -53,4 +53,6 @@ price_for_target_direct = (target + 0.80) / 0.871
 
 Looking at other platforms? See [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl) for fees and the real monthly cost at $500 and $3,000 a month.
 
+Selling a course instead of downloads? See [Teachable vs Podia vs Payhip vs Gumroad](teachable-vs-podia-vs-payhip-vs-gumroad-courses).
+
 More guides: [Gumroad developer guides](./). Not affiliated with Gumroad.

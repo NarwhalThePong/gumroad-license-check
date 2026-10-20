@@ -141,6 +141,7 @@ All checked 2026-10-20 on each company's official page.
 
 ## Related guides
 
+- Selling a course instead of downloads? See [Teachable vs Podia vs Payhip vs Gumroad](teachable-vs-podia-vs-payhip-vs-gumroad-courses).
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip and more at your own price and sales volume
 - [Gumroad fees in 2026, explained](gumroad-fees-explained)
 - [Gumroad vs Lemon Squeezy vs Polar vs Paddle](gumroad-vs-lemon-squeezy-polar-paddle-fees)

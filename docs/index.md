@@ -39,6 +39,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl): fees, plan limits and the real monthly cost at $500 and $3,000 a month in sales
 - [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite): free tiers, paid plans and selling fees compared
 - [Freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave): plan prices and card/bank fees, with a $3,000/month example
+- [Teachable vs Podia vs Payhip vs Gumroad: where to sell an online course](teachable-vs-podia-vs-payhip-vs-gumroad-courses): plan prices, platform and card fees, and the monthly cost at $500 and $3,000 in course sales
 
 ## Free code
 
