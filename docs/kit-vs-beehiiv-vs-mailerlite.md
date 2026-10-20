@@ -112,5 +112,6 @@ All checked 2026-10-20 on each company's official page.
 
 ## Related guides
 
+- Comparing Kit's free plan with an all-in-one tool or a store? See [systeme.io vs Kit vs Payhip free plans](systeme-io-vs-kit-vs-payhip-free-plans).
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl vs Gumroad](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Gumroad fees in 2026, explained](gumroad-fees-explained)

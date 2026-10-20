@@ -40,6 +40,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite): free tiers, paid plans and selling fees compared
 - [Freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave): plan prices and card/bank fees, with a $3,000/month example
 - [Teachable vs Podia vs Payhip vs Gumroad: where to sell an online course](teachable-vs-podia-vs-payhip-vs-gumroad-courses): plan prices, platform and card fees, and the monthly cost at $500 and $3,000 in course sales
+- [systeme.io vs Kit vs Payhip free plans (2026)](systeme-io-vs-kit-vs-payhip-free-plans): the cheapest $0-a-month plan for selling your first digital product, with the cost at $500 and $3,000 a month
 
 ## Free code
 
