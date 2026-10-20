@@ -109,6 +109,8 @@ Rates are the US standard rates as of Oct 20, 2026 (sources below). Every rate b
 
 <!-- TODO: link the Seller Fee Formulas for Google Sheets Gumroad product here once it is published ($9+): STRIPEFEE, PAYPALFEE, ETSYFEE, GUMROADFEE and price solvers as custom functions. -->
 
+Want the rates explained with worked examples? Read [PayPal & Stripe fees explained (2026)](paypal-stripe-fees-explained).
+
 Selling on Gumroad or Etsy too? See the free [Gumroad fee calculator](gumroad-fee-calculator) and the [Etsy fee & profit calculator](etsy-fee-calculator).
 
 ## Rates used (US, as of Oct 20, 2026)
