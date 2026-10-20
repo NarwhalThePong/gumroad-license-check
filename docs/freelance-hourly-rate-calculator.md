@@ -102,7 +102,7 @@ Work out what to charge as a freelancer. Enter the yearly income you want to tak
 })();
 </script>
 
-Once you've set a rate, keep track of what you bill. The **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli)** (Excel and Google Sheets) logs your hours at each client's rate, works out invoice due dates from your payment terms, flags overdue invoices on its own, and shows invoiced vs. paid by month with a monthly tax set-aside.
+Once you've set a rate, keep track of what you bill. The **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli/LAUNCH30)** (Excel and Google Sheets) logs your hours at each client's rate, works out invoice due dates from your payment terms, flags overdue invoices on its own, and shows invoiced vs. paid by month with a monthly tax set-aside.
 
 ## How the numbers are worked out
 

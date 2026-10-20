@@ -46,6 +46,6 @@ Gumroad lets you export your sales as a CSV for a date range from the sales area
 
 ## Automating it
 
-If you'd rather not rebuild this spreadsheet every year, the **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq)** spreadsheet imports your sales CSV, does the fee math above, tracks refunds and sets aside a tax buffer as you go. For charts and per-product reports, there's the **[Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm)**.
+If you'd rather not rebuild this spreadsheet every year, the **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30)** spreadsheet imports your sales CSV, does the fee math above, tracks refunds and sets aside a tax buffer as you go. For charts and per-product reports, there's the **[Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm/LAUNCH30)**.
 
 Related: [Gumroad fees in 2026, explained](gumroad-fees-explained).

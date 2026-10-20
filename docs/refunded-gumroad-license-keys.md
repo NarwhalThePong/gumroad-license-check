@@ -62,7 +62,7 @@ Both versions (zero dependencies, with tests) are in this MIT repo: **https://gi
 
 To spot-check a single key without code, use the free [Gumroad license key checker](gumroad-license-key-checker).
 
-If you want the production version, with a signed offline cache and grace period, activation limits, and a small proxy server so your product ID and logic stay off the client, I sell it as the **[Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs)**.
+If you want the production version, with a signed offline cache and grace period, activation limits, and a small proxy server so your product ID and logic stay off the client, I sell it as the **[Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs/LAUNCH30)**.
 
 
 ---

@@ -43,11 +43,11 @@ Practical, code-first guides for people who sell software, code and communities 
 
 ## Paid kits
 
-- [Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs): offline cache, activation limits, proxy server, Node/Python/Electron snippets
-- [Gumroad → GitHub Access Kit](https://paudrudis.gumroad.com/l/znsmji): sell private repo access with automatic invites and removal
-- [Gumroad → Discord Access Kit](https://paudrudis.gumroad.com/l/gskxf): roles from license keys, removed on refund
-- [Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx): verified sale alerts to Discord, Slack and Telegram
-- [Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm) and [Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq): reports and P&L
-- [Everything in one bundle](https://paudrudis.gumroad.com/l/vtmohb)
+- [Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs/LAUNCH30): offline cache, activation limits, proxy server, Node/Python/Electron snippets
+- [Gumroad → GitHub Access Kit](https://paudrudis.gumroad.com/l/znsmji/LAUNCH30): sell private repo access with automatic invites and removal
+- [Gumroad → Discord Access Kit](https://paudrudis.gumroad.com/l/gskxf/LAUNCH30): roles from license keys, removed on refund
+- [Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx/LAUNCH30): verified sale alerts to Discord, Slack and Telegram
+- [Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm/LAUNCH30) and [Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30): reports and P&L
+- [Everything in one bundle](https://paudrudis.gumroad.com/l/vtmohb/LAUNCH30)
 
 Not affiliated with Gumroad, GitHub or Discord.

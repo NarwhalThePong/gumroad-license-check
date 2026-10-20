@@ -98,6 +98,6 @@ Check a Gumroad license key without writing any code. Paste the product ID and t
 
 ## Checking keys in your own app
 
-This tool is for spot checks and support tickets. In a shipped app, do the same check in code, cache the result so the app still works offline, and keep the product ID and rules on a small server rather than in the client. The [Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs) does all of that, with a signed offline cache, a grace period and activation limits. If you'd rather start from free code, see the open source [gumroad-license-check](https://github.com/NarwhalThePong/gumroad-license-check).
+This tool is for spot checks and support tickets. In a shipped app, do the same check in code, cache the result so the app still works offline, and keep the product ID and rules on a small server rather than in the client. The [Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs/LAUNCH30) does all of that, with a signed offline cache, a grace period and activation limits. If you'd rather start from free code, see the open source [gumroad-license-check](https://github.com/NarwhalThePong/gumroad-license-check).
 
 Related: [Gumroad fee calculator](gumroad-fee-calculator) and [bundle & discount calculator](gumroad-bundle-discount-calculator).

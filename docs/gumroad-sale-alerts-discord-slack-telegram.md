@@ -46,7 +46,7 @@ Deploy it anywhere that runs Node, then set Gumroad's Ping URL to `https://your-
 - **Ledger:** append every event to a CSV, and guard cells that start with `=`, `+`, `-` or `@` so a malicious product name can't run a formula in Excel.
 
 ## Want the finished version?
-[Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx) does all of the above for Discord, Slack and Telegram at once, plus the CSV ledger. It has 13 tests and zero dependencies. To turn that ledger into a monthly P&L, see the [Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq).
+[Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx/LAUNCH30) does all of the above for Discord, Slack and Telegram at once, plus the CSV ledger. It has 13 tests and zero dependencies. To turn that ledger into a monthly P&L, see the [Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30).
 
 For license keys that ignore refunds, there's a free fix: [gumroad-license-check](https://github.com/NarwhalThePong/gumroad-license-check).
 

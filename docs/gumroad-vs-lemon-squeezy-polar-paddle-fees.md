@@ -48,9 +48,9 @@ Gumroad's license key API is simple, but its verify endpoint returns `success: t
 
 If you stay on Gumroad and want the rest built for you:
 
-- **[Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs)**: offline cache, activation limits and a proxy server for Node, Python and Electron apps.
-- **[Creator Payout Calculator Pro](https://paudrudis.gumroad.com/l/ijrzbz)**: direct and Discover payouts for any price, in your browser.
-- **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq)**: imports your sales CSV and applies the fees to every row.
+- **[Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs/LAUNCH30)**: offline cache, activation limits and a proxy server for Node, Python and Electron apps.
+- **[Creator Payout Calculator Pro](https://paudrudis.gumroad.com/l/ijrzbz/LAUNCH30)**: direct and Discover payouts for any price, in your browser.
+- **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30)**: imports your sales CSV and applies the fees to every row.
 
 ## Related guides
 

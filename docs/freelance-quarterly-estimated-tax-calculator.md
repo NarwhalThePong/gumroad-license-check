@@ -272,7 +272,7 @@ The starting numbers are only an example (a single freelancer with $60,000 of pr
 })();
 </script>
 
-To see where every invoice stands, the **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli)** (Excel and Google Sheets) logs your hours at each client's rate, works out invoice due dates, flags overdue invoices on its own, and shows invoiced vs. paid by month with a monthly tax set-aside. Still setting your prices? Try the free [freelance hourly rate calculator](freelance-hourly-rate-calculator). Client paying late? The [invoice late fee & payment terms calculator](invoice-late-fee-calculator) works out what they owe.
+To see where every invoice stands, the **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli/LAUNCH30)** (Excel and Google Sheets) logs your hours at each client's rate, works out invoice due dates, flags overdue invoices on its own, and shows invoiced vs. paid by month with a monthly tax set-aside. Still setting your prices? Try the free [freelance hourly rate calculator](freelance-hourly-rate-calculator). Client paying late? The [invoice late fee & payment terms calculator](invoice-late-fee-calculator) works out what they owe.
 
 ## Quarterly estimated tax in 2026, in plain language
 

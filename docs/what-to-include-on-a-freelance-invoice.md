@@ -58,13 +58,13 @@ Want to see what skipping a 2/10 Net 30 discount really costs, or how much a lat
 
 ## Track invoices and clients
 
-The **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli)** (Excel and Google Sheets) works out invoice due dates from your payment terms, flags overdue invoices on its own, logs hours at each client's rate, and shows invoiced vs. paid by month.
+The **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli/LAUNCH30)** (Excel and Google Sheets) works out invoice due dates from your payment terms, flags overdue invoices on its own, logs hours at each client's rate, and shows invoiced vs. paid by month.
 
 ## Related
 
 - [Invoice late fee & payment terms calculator](invoice-late-fee-calculator): due date, days late, late fee or interest and total due for Net 7 to Net 60, plus the cost of skipping an early-pay discount
 - [Freelance hourly rate calculator](freelance-hourly-rate-calculator): the rate you need to hit your take-home target
 - [Quarterly estimated tax calculator for freelancers (2026)](freelance-quarterly-estimated-tax-calculator): how much of each payment to set aside for tax
-- [Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli): track invoices, payments and clients
+- [Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli/LAUNCH30): track invoices, payments and clients
 
 More tools and guides: [all guides and free tools](./). Not legal or tax advice.
