@@ -27,6 +27,13 @@ if not res["valid"]:
 
 Tests: `npm test`, which runs the Node tests and Python's unittest.
 
+## Guides
+- [Block refunded and charged-back buyers in your license check](docs/refunded-gumroad-license-keys.md)
+- [Sell access to a private GitHub repo on Gumroad](docs/sell-private-github-repo-on-gumroad.md)
+- [Gumroad sale alerts in Discord, Slack or Telegram](docs/gumroad-sale-alerts-discord-slack-telegram.md)
+- [Sell a paid Discord on Gumroad and revoke roles on refund](docs/gumroad-discord-roles-refunds.md)
+- [Awesome Gumroad](https://github.com/NarwhalThePong/awesome-gumroad): curated open-source tools for building on Gumroad
+
 ## Need more?
 This repo is intentionally small. The **[Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs)** adds:
 - a signed offline cache with a grace period, so your app works without internet
@@ -37,6 +44,8 @@ This repo is intentionally small. The **[Gumroad License Kit](https://paudrudis.
 Other kits for Gumroad sellers:
 - [GitHub Access Kit](https://paudrudis.gumroad.com/l/znsmji): sell access to a private repo. Buyers are invited automatically and removed on refund.
 - [Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm): turn your Gumroad sales into reports.
+- [Discord Access Kit](https://paudrudis.gumroad.com/l/gskxf): give Discord roles from license keys and remove them on refund.
+- [Ping Relay](https://paudrudis.gumroad.com/l/tdohx): verified sale alerts to Discord, Slack and Telegram.
 - [All kits bundle](https://paudrudis.gumroad.com/l/vtmohb)
 
 ## License
