@@ -107,7 +107,7 @@ Rates are the US standard rates as of Oct 20, 2026 (sources below). Every rate b
 })();
 </script>
 
-<!-- TODO: link the Seller Fee Formulas for Google Sheets Gumroad product here once it is published ($9+): STRIPEFEE, PAYPALFEE, ETSYFEE, GUMROADFEE and price solvers as custom functions. -->
+**Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `STRIPEFEE`, `PAYPALFEE`, `ETSYFEE` and `GUMROADFEE`, plus price solvers that find the price you need for a target profit. Every rate is an optional argument, and they work on a whole column at once. *Disclosure: this is our own paid product, and we earn the sale price if you buy it.*
 
 Want the rates explained with worked examples? Read [PayPal & Stripe fees explained (2026)](paypal-stripe-fees-explained).
 

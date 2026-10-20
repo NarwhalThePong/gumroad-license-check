@@ -8,7 +8,7 @@ If you sell a digital product (a template, ebook, preset, course or code) the pl
 
 **Skip the math:** the free [Gumroad fee calculator](gumroad-fee-calculator), [Etsy fee & profit calculator](etsy-fee-calculator) and [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator) do these sums for any price.
 
-<!-- TODO: link the Seller Fee Formulas for Google Sheets Gumroad product here once it is published ($9+): GUMROADFEE, ETSYFEE, STRIPEFEE, PAYPALFEE and price solvers as custom functions. -->
+**Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `STRIPEFEE`, `PAYPALFEE`, `ETSYFEE` and `GUMROADFEE`, plus price solvers that find the price you need for a target profit. Every rate is an optional argument, and they work on a whole column at once. *Disclosure: this is our own paid product, and we earn the sale price if you buy it.*
 
 ## The fees at a glance (US, as of Oct 20, 2026)
 
@@ -83,7 +83,7 @@ No. Every platform has different rates by country, and negotiated or volume pric
 
 Checked Oct 20, 2026: [Gumroad pricing](https://gumroad.com/pricing), [Gumroad Help: Gumroad's fees](https://gumroad.com/help/article/66-gumroads-fees), [Etsy Help: fee basics](https://help.etsy.com/hc/en-us/articles/360035902374-What-are-the-Fees-and-Taxes-for-Selling-on-Etsy), [Etsy Help: payment processing fees](https://help.etsy.com/hc/en-us/articles/115015628847-What-are-Payment-Processing-Fees-for-Selling-on-Etsy), [Etsy Help: how Offsite Ads work](https://help.etsy.com/hc/en-us/articles/360000338367-How-Etsy-s-Offsite-Ads-Work), [Stripe pricing](https://stripe.com/pricing), [PayPal merchant fees (US)](https://www.paypal.com/us/business/paypal-business-fees) (last updated Oct 1, 2026) and [Shopify pricing](https://www.shopify.com/pricing). Fees can change at any time, so check the official pages and your own account before you rely on a number.
 
-<!-- TODO: link the Etsy seller tracker Gumroad product here once it is published. -->
+**Selling on Etsy?** The [Etsy Seller Profit Tracker](https://payhip.com/b/HR0AO) (Excel and Google Sheets, $9) logs each order and works out its Etsy fees, cost of goods, profit and margin, with a monthly profit and loss. *Disclosure: this is our own paid product, and we earn the sale price if you buy it.*
 
 ## Related
 

@@ -8,7 +8,7 @@ Selling on Etsy costs more than the headline 6.5%. A typical US order pays four 
 
 **Want your own numbers?** Use the free **[Etsy fee & profit calculator](etsy-fee-calculator)**: enter your price, shipping and costs to see every fee, your profit and margin, and the price you need for a target margin.
 
-<!-- TODO: Etsy tracker Gumroad link -->
+**Logging lots of orders?** The [Etsy Seller Profit Tracker](https://payhip.com/b/HR0AO) (Excel and Google Sheets, $9) works out these four fees on every order you log, plus cost of goods, profit, margin and a monthly profit and loss. *Disclosure: this is our own paid product, and we earn the sale price if you buy it. Not affiliated with Etsy.*
 
 ## The fees at a glance (US sellers, October 2026)
 

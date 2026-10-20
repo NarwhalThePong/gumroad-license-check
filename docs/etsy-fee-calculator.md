@@ -128,7 +128,7 @@ See what an Etsy sale actually pays you. Enter the item price, what you charge f
 })();
 </script>
 
-<!-- TODO: link the paid Etsy Seller Profit Tracker here (Gumroad URL) once it is published. Do not link it before then. -->
+**Track every order, not just one:** the [Etsy Seller Profit Tracker](https://payhip.com/b/HR0AO) (Excel and Google Sheets, $9) works out the listing, transaction, processing and Offsite Ads fees on every order you log, turns materials, packaging and labor into a unit cost, and adds a pricing calculator for a target margin, a monthly profit and loss and a tax set-aside. *Disclosure: this is our own paid product, and we earn the sale price if you buy it. Not affiliated with Etsy.*
 
 New to Etsy fees? Read **[Etsy fees explained (2026)](etsy-fees-explained)** for what each fee is, what it's charged on, and worked examples.
 
