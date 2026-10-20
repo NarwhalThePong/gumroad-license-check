@@ -13,6 +13,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Get Gumroad sale alerts in Discord, Slack or Telegram](gumroad-sale-alerts-discord-slack-telegram)
 - [Sell a paid Discord on Gumroad and revoke roles on refund](gumroad-discord-roles-refunds)
 - [Gumroad fees in 2026, explained](gumroad-fees-explained): what you keep on a $5, $19 and $49 sale, and how to price around the fee
+- [Gumroad 1099-K and taxes](gumroad-1099-k-taxes): reconcile gross sales, fees and refunds for Schedule C
 
 ## Free code
 
