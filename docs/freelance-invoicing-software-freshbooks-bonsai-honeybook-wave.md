@@ -5,7 +5,7 @@ description: "Plan prices, card and bank-transfer fees, and a worked $3,000-a-mo
 ---
 
 
-**Disclosure:** We make free calculators and sell our own spreadsheet kits on Gumroad; some are linked on this page. We have no partnership with FreshBooks, Bonsai, HoneyBook or Wave and aren't paid for any link here.
+**Disclosure:** We make free calculators and sell our own spreadsheet kits on Gumroad and Payhip; some are linked on this page, and we earn the sale price if you buy one. We have no partnership with FreshBooks, Bonsai, HoneyBook or Wave and aren't paid for any link here.
 
 Every invoicing tool has two prices: the plan, and the cut it takes when a client pays online. For most freelancers the second one is bigger, and it depends far more on *how* your client pays (card or bank transfer) than on which tool you pick.
 
@@ -119,6 +119,10 @@ All checked 2026-10-20 on each company's official page.
 - [Freelance hourly rate calculator](freelance-hourly-rate-calculator)
 - [Quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator)
 - [PayPal and Stripe fee calculator](paypal-stripe-fee-calculator)
+
+## Spreadsheets from us
+
+Prefer a spreadsheet to a monthly plan? The **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli)** (Excel and Google Sheets) works out invoice due dates from your payment terms, flags overdue invoices on its own, logs hours at each client's rate, and shows invoiced vs. paid by month. It tracks invoices; it doesn't send them or take card payments. To plan the tax side for the whole year, the **[Freelancer Quarterly Tax Planner 2026](https://payhip.com/b/UspdI)** (Excel and Google Sheets, $9) logs each payment and expense, works out the share of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates.
 
 ## Related guides
 

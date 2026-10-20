@@ -167,6 +167,10 @@ Work out when an invoice is due and what a late payment costs. Enter the invoice
 
 To keep on top of who owes you what, the **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli/LAUNCH30)** (Excel and Google Sheets) works out invoice due dates from your payment terms, flags overdue invoices on its own, logs hours at each client's rate, and shows invoiced vs. paid by month with a monthly tax set-aside. Not sure what to charge in the first place? Try the free [freelance hourly rate calculator](freelance-hourly-rate-calculator). And to know how much of each payment to keep for tax, there's the [quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator).
 
+To plan the tax side for the whole year, the **[Freelancer Quarterly Tax Planner 2026](https://payhip.com/b/UspdI)** (Excel and Google Sheets, $9) logs each payment and expense, works out the share of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates.
+
+*Disclosure: the Freelancer Invoice & Client Tracker and the Freelancer Quarterly Tax Planner 2026 are our own paid products, and we earn the sale price if you buy one.*
+
 ## How the numbers are worked out
 
 ```

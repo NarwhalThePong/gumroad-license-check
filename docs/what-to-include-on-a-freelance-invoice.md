@@ -58,7 +58,9 @@ Want to see what skipping a 2/10 Net 30 discount really costs, or how much a lat
 
 ## Track invoices and clients
 
-The **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli/LAUNCH30)** (Excel and Google Sheets) works out invoice due dates from your payment terms, flags overdue invoices on its own, logs hours at each client's rate, and shows invoiced vs. paid by month.
+The **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli/LAUNCH30)** (Excel and Google Sheets) works out invoice due dates from your payment terms, flags overdue invoices on its own, logs hours at each client's rate, and shows invoiced vs. paid by month. To plan the tax side for the whole year, the **[Freelancer Quarterly Tax Planner 2026](https://payhip.com/b/UspdI)** (Excel and Google Sheets, $9) logs each payment and expense, works out the share of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates.
+
+*Disclosure: the Freelancer Invoice & Client Tracker and the Freelancer Quarterly Tax Planner 2026 are our own paid products, and we earn the sale price if you buy one.*
 
 ## Related
 
@@ -66,6 +68,7 @@ The **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlr
 - [Freelance hourly rate calculator](freelance-hourly-rate-calculator): the rate you need to hit your take-home target
 - [Quarterly estimated tax calculator for freelancers (2026)](freelance-quarterly-estimated-tax-calculator): how much of each payment to set aside for tax
 - [Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli/LAUNCH30): track invoices, payments and clients
+- [Freelancer Quarterly Tax Planner 2026](https://payhip.com/b/UspdI): quarterly tax set-aside, safe-harbor payments and 2026 due dates
 - [Freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave): plan prices and card/bank fees compared
 - [Self-employed per diem meal deduction calculator (2026)](self-employed-per-diem-meal-deduction-calculator): the IRS meal allowance for work trips and the 50% you can deduct
 

@@ -78,6 +78,10 @@ For worked examples and pricing tactics, read [Gumroad fees in 2026, explained](
 - **[Creator Payout Calculator Pro](https://paudrudis.gumroad.com/l/ijrzbz/LAUNCH30)** shows your direct and Discover payout in the browser while you set prices.
 - **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30)** imports your sales CSV, applies the fees to every row, and builds a P&L with a tax set-aside sheet.
 
+**Working in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds `GUMROADFEE`, `GUMROADPAYOUT` and `GUMROADPRICE` (the price you need to keep a target amount) with the same direct and Discover rates as this calculator, plus Etsy, Stripe and PayPal formulas. Every rate is an optional argument, and they work on a whole column at once.
+
+*Disclosure: Creator Payout Calculator Pro, the Gumroad Seller Finance Tracker and Seller Fee Formulas for Google Sheets are our own paid products, and we earn the sale price if you buy one.*
+
 Comparing platforms? The [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator) puts Gumroad next to Payhip, Ko-fi, Lemon Squeezy, Paddle, Polar, Etsy, Stripe and PayPal.
 
 Pricing a bundle or a discount code? Try the [Gumroad bundle & discount calculator](gumroad-bundle-discount-calculator). Taking payments with PayPal or Stripe? Use the [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator). More guides: [Gumroad developer guides](./). Not affiliated with Gumroad.

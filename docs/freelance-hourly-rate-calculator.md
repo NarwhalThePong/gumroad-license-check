@@ -104,6 +104,10 @@ Work out what to charge as a freelancer. Enter the yearly income you want to tak
 
 Once you've set a rate, keep track of what you bill. The **[Freelancer Invoice & Client Tracker](https://paudrudis.gumroad.com/l/xjlrli/LAUNCH30)** (Excel and Google Sheets) logs your hours at each client's rate, works out invoice due dates from your payment terms, flags overdue invoices on its own, and shows invoiced vs. paid by month with a monthly tax set-aside.
 
+To plan the tax side for the whole year, the **[Freelancer Quarterly Tax Planner 2026](https://payhip.com/b/UspdI)** (Excel and Google Sheets, $9) logs each payment and expense, works out the share of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates.
+
+*Disclosure: the Freelancer Invoice & Client Tracker and the Freelancer Quarterly Tax Planner 2026 are our own paid products, and we earn the sale price if you buy one.*
+
 ## How the numbers are worked out
 
 ```

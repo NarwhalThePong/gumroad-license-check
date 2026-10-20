@@ -160,8 +160,10 @@ What the table leaves out: sales tax and VAT (Gumroad, Lemon Squeezy, Paddle, Po
 - [Freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave)
 - [Gumroad vs Lemon Squeezy vs Polar vs Paddle](gumroad-vs-lemon-squeezy-polar-paddle-fees)
 
+**Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `ETSYFEE`, `STRIPEFEE` and `PAYPALFEE`, plus price solvers that find the price you need for a target profit. Every rate is an optional argument, and they work on a whole column at once.
+
 ## Selling on Gumroad?
 
 **[Creator Payout Calculator Pro](https://paudrudis.gumroad.com/l/ijrzbz)** shows your direct and Discover payout in the browser while you set prices.
 
-*Disclosure: Creator Payout Calculator Pro and the calculators on this site are our own products. We don't earn anything from the platforms listed, and none of the links above are affiliate links. Not affiliated with Gumroad, Payhip, Ko-fi, Lemon Squeezy, Paddle, Polar, Etsy, Stripe or PayPal.* More guides: [Gumroad developer guides](./).
+*Disclosure: Creator Payout Calculator Pro, Seller Fee Formulas for Google Sheets and the calculators on this site are our own products, and we earn the sale price if you buy a paid one. We don't earn anything from the platforms listed, and none of the links above are affiliate links. Not affiliated with Gumroad, Payhip, Ko-fi, Lemon Squeezy, Paddle, Polar, Etsy, Stripe or PayPal.* More guides: [Gumroad developer guides](./).
