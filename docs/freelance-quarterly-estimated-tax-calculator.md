@@ -8,6 +8,8 @@ How much of each client payment should you put aside for tax, and what do you se
 
 The starting numbers are only an example (a single freelancer with $60,000 of profit and no other job). Replace them with your own.
 
+<style>#qet table th, #qet table td { padding: 6px 6px; }</style>
+
 <div id="qet" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0;max-width:720px">
   <div style="display:flex;flex-wrap:wrap;gap:4px 24px">
     <p style="flex:1 1 200px;margin:0 0 8px"><label>How do you want to enter profit?<br><select id="qet-mode" style="width:100%;max-width:220px">
