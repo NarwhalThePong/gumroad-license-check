@@ -118,6 +118,7 @@ Worked examples use US card rates. International cards cost more on most platfor
 
 ## Related guides
 
+- Selling from your own site? See [Sell digital downloads from your own website](sell-digital-downloads-from-your-own-website).
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl vs Gumroad](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Kit vs beehiiv vs MailerLite for selling digital products](kit-vs-beehiiv-vs-mailerlite)
 - [Teachable vs Podia vs Payhip vs Gumroad for online courses](teachable-vs-podia-vs-payhip-vs-gumroad-courses)

@@ -140,6 +140,7 @@ All checked 2026-10-20 on each company's official page.
 
 ## Related guides
 
+- Selling from your own site? See [Sell digital downloads from your own website](sell-digital-downloads-from-your-own-website).
 - Not ready for a monthly plan? See [systeme.io vs Kit vs Payhip: the cheapest free plan for selling](systeme-io-vs-kit-vs-payhip-free-plans).
 - Selling a course instead of downloads? See [Teachable vs Podia vs Payhip vs Gumroad](teachable-vs-podia-vs-payhip-vs-gumroad-courses).
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip and more at your own price and sales volume

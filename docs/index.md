@@ -42,6 +42,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave): plan prices and card/bank fees, with a $3,000/month example
 - [Teachable vs Podia vs Payhip vs Gumroad: where to sell an online course](teachable-vs-podia-vs-payhip-vs-gumroad-courses): plan prices, platform and card fees, and the monthly cost at $500 and $3,000 in course sales
 - [systeme.io vs Kit vs Payhip free plans (2026)](systeme-io-vs-kit-vs-payhip-free-plans): the cheapest $0-a-month plan for selling your first digital product, with the cost at $500 and $3,000 a month
+- [Sell digital downloads from your own website: SendOwl vs Payhip vs Sellfy vs systeme.io](sell-digital-downloads-from-your-own-website): checkout and delivery tools for your own site, with the cost at $500 and $3,000 a month
 
 ## Free code
 
