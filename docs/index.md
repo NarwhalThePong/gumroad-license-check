@@ -29,6 +29,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Sync Gumroad sales to Google Sheets automatically](sync-gumroad-sales-to-google-sheets): a free Apps Script that keeps refunds up to date
 - [Gumroad Ping (webhook) reference](gumroad-ping-webhook): every field, refund and cancellation events, retries, and verifying unsigned pings (Node and Python)
 - [Etsy fees explained (2026)](etsy-fees-explained): listing, transaction, processing and Offsite Ads fees for US sellers, with worked examples
+- [What to include on a freelance invoice (2026 checklist)](what-to-include-on-a-freelance-invoice): every field a freelance invoice needs, payment terms and late fees, with a sample invoice
 
 ## Free code
 
