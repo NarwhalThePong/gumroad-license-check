@@ -1,0 +1,4 @@
+{ "name": "gumroad-license-check", "version": "1.0.0", "description": "Zero-dependency Gumroad license key check that rejects refunded, charged-back and disputed purchases.",
+  "type": "module", "main": "node/index.mjs", "license": "MIT", "author": "Pau Drudis", "engines": { "node": ">=18" },
+  "scripts": { "test": "node node/test.mjs && cd python && python3 -m unittest -q" },
+  "keywords": ["gumroad", "license-key", "licensing", "software-licensing", "refund"] }

@@ -1,0 +1,2 @@
+Description: Zero-dependency Gumroad license key check for Node and Python that rejects refunded, charged-back and disputed purchases.
+Topics: gumroad, license-key, license-verification, software-licensing, licensing, nodejs, python, indie-hacker, digital-products, zero-dependency
