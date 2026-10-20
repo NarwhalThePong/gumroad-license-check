@@ -4,7 +4,7 @@ title: "systeme.io vs Kit vs Payhip in 2026: the cheapest free plan for selling 
 description: "Free plan limits, the cut each one takes per sale, and a worked $500 and $3,000-a-month example for systeme.io, Kit and Payhip, with Gumroad for reference, checked October 2026."
 ---
 
-**Disclosure:** We sell our own digital products on Gumroad, which we use as a reference point on this page, and some of our free calculators are linked here. We have no partnership with systeme.io, Kit, Payhip or Gumroad and aren't paid for any link here.
+**Disclosure:** We sell our own digital products on Gumroad, which we use as a reference point on this page, and on Payhip, which we compare here. Some of our free calculators and two of our paid spreadsheets are linked on this page, and we earn the sale price if you buy one. We have no partnership with systeme.io, Kit, Payhip or Gumroad, and none of them pays us for a link here.
 
 If you're selling your first ebook, template or mini-course, you probably don't want a monthly bill yet. systeme.io, Kit and Payhip all let you sell for $0 a month. What differs is the cut each one takes per sale, how big your email list can get before you have to pay, and what else is included.
 
@@ -80,7 +80,7 @@ Want to check your own numbers? Our [seller fee comparison calculator](seller-fe
 - Every sale costs 3.5% + 30¢ on every plan, so the cut grows with your revenue.
 - Email sequences and visual automations are paid features.
 
-**Payhip**
+**Payhip** (where we also sell some of our products)
 - 5% per sale on the free plan is the highest platform cut of the three.
 - You still pay Stripe or PayPal processing on top.
 
@@ -115,6 +115,13 @@ Worked examples use US card rates. International cards cost more on most platfor
 - [Seller fee comparison calculator](seller-fee-comparison-calculator): what you keep on Gumroad, Payhip and other platforms at your own price.
 - [PayPal and Stripe fee calculator](paypal-stripe-fee-calculator): card and PayPal processing on any price.
 - [Gumroad fee calculator](gumroad-fee-calculator): fee, payout and effective rate for direct and Discover sales.
+
+## Spreadsheets from us
+
+- **[Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR)** ($9, on Payhip): custom functions such as `STRIPEFEE`, `PAYPALFEE` and `GUMROADFEE`, plus `BREAKEVENPRICE`, which finds the price you need for a target profit under any percentage-plus-fixed fee (for example Kit's 3.5% + 30¢ or Payhip's 5%). (Our product.)
+- **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq)** (pay what you want from $9): imports your Gumroad sales CSV and splits gross sales, Gumroad fees, card processing and refunds into a profit and loss sheet with a tax set-aside. (Our product.)
+
+*Disclosure: Seller Fee Formulas for Google Sheets and the Gumroad Seller Finance Tracker are our own paid products, and we earn the sale price if you buy one.*
 
 ## Related guides
 

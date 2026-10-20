@@ -4,7 +4,7 @@ title: "Teachable vs Podia vs Payhip vs Gumroad in 2026: where to sell an online
 description: "Plan prices, platform fees and a worked $500 and $3,000-a-month example for four course platforms, checked October 2026."
 ---
 
-**Disclosure:** We sell our own digital products on Gumroad, one of the four platforms compared here, and some of our free calculators are linked on this page. We have no partnership with Teachable, Podia, Payhip or Gumroad and aren't paid for any link here.
+**Disclosure:** We sell our own digital products on Gumroad and Payhip, two of the four platforms compared here. Some of our free calculators and two of our paid spreadsheets are linked on this page, and we earn the sale price if you buy one. We have no partnership with Teachable, Podia, Payhip or Gumroad, and none of them pays us for a link here.
 
 A course platform charges you in up to three ways: a monthly plan, a percentage of each sale, and card processing. Which one is cheapest depends almost entirely on how much you sell. A free plan with a 5% fee wins when you're small; a flat plan with no fee wins once sales grow.
 
@@ -93,7 +93,7 @@ Want to check your own numbers? Our [Gumroad fee calculator](gumroad-fee-calcula
 - Affiliate marketing, upsells and PayPal checkout start on Shaker.
 - Refunds: Podia refunds only if you ask within 72 hours of your most recent payment, and no partial refunds on yearly plans.
 
-**Payhip**
+**Payhip** (where we also sell some of our products)
 - Hosting videos on Payhip costs $5 a month for 16 hours; longer libraries need more, or you embed from YouTube or Vimeo.
 - We didn't find a mobile student app on its pricing or course pages.
 - Pro ($99 a month) only pays off above $3,500 a month in sales.
@@ -128,6 +128,13 @@ Worked examples use US card rates. International cards cost more on every platfo
 
 - [Gumroad fee calculator](gumroad-fee-calculator): fee, payout and effective rate for direct and Discover sales.
 - [PayPal and Stripe fee calculator](paypal-stripe-fee-calculator): card and PayPal processing on any price.
+
+## Spreadsheets from us
+
+- **[Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR)** ($9, on Payhip): custom functions such as `STRIPEFEE`, `PAYPALFEE` and `GUMROADFEE`, plus `BREAKEVENPRICE`, which finds the price you need for a target profit under any percentage-plus-fixed fee (for example Teachable Starter's 7.5% or Payhip's 5%). (Our product.)
+- **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq)** (pay what you want from $9): imports your Gumroad sales CSV and splits gross sales, Gumroad fees, card processing and refunds into a profit and loss sheet with a tax set-aside. (Our product.)
+
+*Disclosure: Seller Fee Formulas for Google Sheets and the Gumroad Seller Finance Tracker are our own paid products, and we earn the sale price if you buy one.*
 
 ## Related guides
 
