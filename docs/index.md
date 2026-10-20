@@ -21,6 +21,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): the fee, payout and effective rate for Stripe and every PayPal payment type, and the price to charge to net a set amount
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): what you keep on Gumroad, Payhip, Ko-fi, Lemon Squeezy, Paddle, Polar, Etsy, Stripe and PayPal, sorted by net, plus the price to keep a target amount
 - [Self-employed per diem meal deduction calculator (2026)](self-employed-per-diem-meal-deduction-calculator): the IRS standard meal allowance for any US city and travel dates, with the 3/4 first/last day rule and the 50% deductible amount
+- [GSA per diem calculator (2026)](gsa-per-diem-calculator): lodging maximum per night and M&IE for any US city and trip dates, with 75% first and last days and deductions for meals provided
 
 ## Guides
 
