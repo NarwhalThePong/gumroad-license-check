@@ -4,7 +4,7 @@ title: "Sync Gumroad sales to Google Sheets automatically (free, no Zapier)"
 description: "A copy-paste Google Apps Script that pulls your Gumroad sales into a Google Sheet every hour, keeps refunds up to date, and blocks formula injection from buyer fields."
 ---
 
-Gumroad lets you export sales as a CSV, but that is a manual download. If you want a sheet that fills itself, you don't need Zapier or a server. A short Google Apps Script can read the Gumroad Sales API on a timer, for free, inside your own Google account.
+Gumroad lets you export sales as a CSV, but that is a manual download (if you already have one, the free [Gumroad sales CSV analyzer](gumroad-sales-csv-analyzer) totals it by product, month and referrer in your browser). If you want a sheet that fills itself, you don't need Zapier or a server. A short Google Apps Script can read the Gumroad Sales API on a timer, for free, inside your own Google account.
 
 This version does three things most quick setups skip:
 
