@@ -54,6 +54,8 @@ Want the four numbers without building the spreadsheet? The **[Gumroad Tax Repor
 
 Related: [Gumroad fees in 2026, explained](gumroad-fees-explained).
 
+Your net Gumroad profit on Schedule C is also subject to self-employment tax once it reaches $400. The free [self-employment tax calculator (2026)](self-employment-tax-calculator) works out the Social Security and Medicare amount and the half you can deduct.
+
 Choosing bookkeeping software? See [Bookkeeping for digital product sellers](bookkeeping-for-digital-product-sellers-wave-quickbooks-spreadsheet).
 
 Who actually collects the sales tax and VAT? See [Who collects sales tax and VAT on digital products](who-collects-sales-tax-vat-gumroad-lemon-squeezy-payhip-sellfy-etsy).

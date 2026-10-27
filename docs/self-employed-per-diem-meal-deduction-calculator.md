@@ -167,6 +167,7 @@ Sources: [IRS Publication 463, Travel, Gift, and Car Expenses](https://www.irs.g
 - [GSA per diem calculator](gsa-per-diem-calculator) for employer or federal travel reimbursement with lodging
 - [2026 mileage deduction calculator](2026-mileage-deduction-calculator) for driving to the trip at the split-year IRS mileage rates
 - [Freelance quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator) to set aside tax on what's left after deductions
+- [Self-employment tax calculator (2026)](self-employment-tax-calculator) for the Social Security and Medicare tax on your net profit
 - [Freelance hourly rate calculator](freelance-hourly-rate-calculator) to price travel time into your rate
 - [What to include on a freelance invoice](what-to-include-on-a-freelance-invoice) if you bill travel to clients
 - [Freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave)

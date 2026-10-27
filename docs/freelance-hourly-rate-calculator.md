@@ -124,7 +124,7 @@ check a rate:
 
 With the starting values (take home $60,000, $6,000 of costs, 30% tax, 6 weeks off, 40 hours a week, 65% billable, 10% buffer) you need about $101,905 of revenue over 1,196 billable hours, which is **$85.21 an hour** or $681.64 for an 8-hour day.
 
-The tax rate is a single flat estimate to keep the math simple. Real income tax is progressive, and in the US self-employed people also pay self-employment tax for Social Security and Medicare, so ask a tax professional or use your last return to pick a realistic number. *Not tax or financial advice.*
+The tax rate is a single flat estimate to keep the math simple. Real income tax is progressive, and in the US self-employed people also pay self-employment tax for Social Security and Medicare (the free [self-employment tax calculator (2026)](self-employment-tax-calculator) shows that part on its own), so ask a tax professional or use your last return to pick a realistic number. *Not tax or financial advice.*
 
 ## FAQ
 
@@ -148,7 +148,7 @@ Estimate the billable hours the project will take, multiply by your hourly rate,
 
 A salary hides costs an employer pays for you, such as paid time off, equipment, and in the US the employer's half of Social Security and Medicare. That's why a freelance hourly rate has to be well above a salary divided by 2,080 hours. Enter the salary you'd take home as an employee under "Income you want to take home" to see the rate that matches it.
 
-Once you're sending invoices, the free [invoice late fee & payment terms calculator](invoice-late-fee-calculator) works out due dates, late fees and early-payment discounts like 2/10 Net 30. To see how much of each payment to put aside for tax and what to send the IRS each quarter, use the free [quarterly estimated tax calculator for freelancers](freelance-quarterly-estimated-tax-calculator).
+Once you're sending invoices, the free [invoice late fee & payment terms calculator](invoice-late-fee-calculator) works out due dates, late fees and early-payment discounts like 2/10 Net 30. To see how much of each payment to put aside for tax and what to send the IRS each quarter, use the free [quarterly estimated tax calculator for freelancers](freelance-quarterly-estimated-tax-calculator). For just the 15.3% Social Security and Medicare part, see the [self-employment tax calculator (2026)](self-employment-tax-calculator).
 
 To send and track those invoices, compare [freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave).
 

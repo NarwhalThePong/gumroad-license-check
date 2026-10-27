@@ -205,6 +205,7 @@ Sources: [IRS standard mileage rates](https://www.irs.gov/tax-professionals/stan
 - [Self-employed per diem meal deduction calculator](self-employed-per-diem-meal-deduction-calculator) for meals on overnight work trips
 - [GSA per diem calculator](gsa-per-diem-calculator) for lodging and M&IE on employer or federal travel
 - [Freelance quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator) to see what a bigger deduction does to your quarterly payments
+- [Self-employment tax calculator (2026)](self-employment-tax-calculator) to see how much Social Security and Medicare tax a bigger deduction saves
 - [Home office deduction calculator](home-office-deduction-calculator) to compare the simplified and regular home office methods
 
 *Disclosure: the calculators on this site are our own. We don't earn anything from the links in this list, and none are affiliate links.* More guides: [Gumroad developer guides](./).
