@@ -380,6 +380,8 @@ Saving for retirement? The free [SEP IRA vs Solo 401(k) calculator (2026)](self-
 
 Want just the self-employment tax? The free [self-employment tax calculator (2026)](self-employment-tax-calculator) breaks out the Social Security and Medicare parts, the $184,500 wage base with a W-2 job, and the 0.9% Additional Medicare Tax.
 
+Want the Section 199A 20% deduction? The free [QBI deduction calculator (2026)](qbi-deduction-calculator) shows Form 8995 / 8995-A for freelancers, including the SSTB phase-out.
+
 More tools and guides: [all guides and free tools](./).
 
 *Not tax advice. Not affiliated with the IRS.*

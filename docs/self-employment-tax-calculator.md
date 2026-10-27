@@ -139,6 +139,7 @@ No. For a sole proprietor, SEP IRA and Solo 401(k) contributions lower income ta
 
 ## Related tools and guides
 
+- [QBI deduction calculator](qbi-deduction-calculator) for the Section 199A 20% Qualified Business Income deduction (Form 8995)
 - [Freelance quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator) to add income tax and get your four 2026 payments and the safe-harbor minimum
 - [SEP IRA vs Solo 401(k) calculator](self-employed-retirement-contribution-calculator) for the most you can contribute and deduct
 - [Home office deduction calculator](home-office-deduction-calculator) to compare the simplified and regular home office methods
