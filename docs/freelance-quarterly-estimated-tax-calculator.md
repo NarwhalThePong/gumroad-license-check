@@ -376,6 +376,8 @@ Yes. The IRS accepts more frequent payments as long as each period's total reach
 
 Traveling for work? The free [self-employed per diem meal deduction calculator (2026)](self-employed-per-diem-meal-deduction-calculator) finds the IRS standard meal allowance for any US city and your travel dates, and the 50% you can deduct.
 
+Saving for retirement? The free [SEP IRA vs Solo 401(k) calculator (2026)](self-employed-retirement-contribution-calculator) shows the most you can contribute and deduct, which also lowers the income tax part of your quarterly payments.
+
 More tools and guides: [all guides and free tools](./).
 
 *Not tax advice. Not affiliated with the IRS.*

@@ -155,5 +155,6 @@ Sources: [IRS simplified option for home office deduction](https://www.irs.gov/b
 - [2026 mileage deduction calculator](2026-mileage-deduction-calculator) for car expenses at the split-year IRS rates
 - [Self-employed per diem meal deduction calculator](self-employed-per-diem-meal-deduction-calculator) for meals on overnight work trips
 - [Freelance quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator) to see what a bigger deduction does to your quarterly payments
+- [SEP IRA vs Solo 401(k) calculator](self-employed-retirement-contribution-calculator) for the biggest self-employed deduction most freelancers miss
 
 *Disclosure: the calculators on this site are our own. We don't earn anything from the links in this list, and none are affiliate links.* More guides: [Gumroad developer guides](./).
