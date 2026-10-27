@@ -23,6 +23,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [Self-employed per diem meal deduction calculator (2026)](self-employed-per-diem-meal-deduction-calculator): the IRS standard meal allowance for any US city and travel dates, with the 3/4 first/last day rule and the 50% deductible amount
 - [GSA per diem calculator (2026)](gsa-per-diem-calculator): lodging maximum per night and M&IE for any US city and trip dates, with 75% first and last days and deductions for meals provided
 - [2026 mileage deduction calculator](2026-mileage-deduction-calculator): business, medical, moving and charity miles priced by date at the split-year IRS rates (72.5 cents to June 30, 76 cents from July 1), with a paste-in trip log
+- [Home office deduction calculator](home-office-deduction-calculator): simplified $5 per sq ft (up to 300 sq ft) vs the regular Form 8829 method side by side, with depreciation, the income limit and carryovers
 
 ## Guides
 
