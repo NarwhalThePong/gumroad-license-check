@@ -118,6 +118,7 @@ Sources: [IRS Publication 560, Retirement Plans for Small Business](https://www.
 ## Related tools and guides
 
 - [Freelance quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator) to see how a retirement deduction changes your quarterly payments
+- [Self-employment tax calculator](self-employment-tax-calculator) for the Social Security and Medicare parts, the wage base and the 0.9% Additional Medicare Tax
 - [Home office deduction calculator](home-office-deduction-calculator) to compare the simplified and regular home office methods
 - [2026 mileage deduction calculator](2026-mileage-deduction-calculator) for car expenses at the split-year IRS rates
 - [Freelance hourly rate calculator](freelance-hourly-rate-calculator) to price your work with retirement savings built in

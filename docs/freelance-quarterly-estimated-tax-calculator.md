@@ -378,6 +378,8 @@ Traveling for work? The free [self-employed per diem meal deduction calculator (
 
 Saving for retirement? The free [SEP IRA vs Solo 401(k) calculator (2026)](self-employed-retirement-contribution-calculator) shows the most you can contribute and deduct, which also lowers the income tax part of your quarterly payments.
 
+Want just the self-employment tax? The free [self-employment tax calculator (2026)](self-employment-tax-calculator) breaks out the Social Security and Medicare parts, the $184,500 wage base with a W-2 job, and the 0.9% Additional Medicare Tax.
+
 More tools and guides: [all guides and free tools](./).
 
 *Not tax advice. Not affiliated with the IRS.*

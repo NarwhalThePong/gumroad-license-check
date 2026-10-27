@@ -25,6 +25,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [2026 mileage deduction calculator](2026-mileage-deduction-calculator): business, medical, moving and charity miles priced by date at the split-year IRS rates (72.5 cents to June 30, 76 cents from July 1), with a paste-in trip log
 - [Home office deduction calculator](home-office-deduction-calculator): simplified $5 per sq ft (up to 300 sq ft) vs the regular Form 8829 method side by side, with depreciation, the income limit and carryovers
 - [SEP IRA vs Solo 401(k) calculator (2026)](self-employed-retirement-contribution-calculator): the most a freelancer or sole proprietor can contribute to each plan, with self-employment tax, the 20% employer limit, the $24,500 deferral, age 50+ and 60-63 catch-ups and the $72,000 cap
+- [Self-employment tax calculator (2026)](self-employment-tax-calculator): Social Security tax up to the $184,500 wage base (less any W-2 wages), 2.9% Medicare, the 0.9% Additional Medicare Tax by filing status, the deductible half and the quarterly share
 
 ## Guides
 
