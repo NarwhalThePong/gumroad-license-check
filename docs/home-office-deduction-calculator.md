@@ -146,8 +146,9 @@ Sources: [IRS simplified option for home office deduction](https://www.irs.gov/b
 
 - [Mileage Log 2026 (Excel + Google Sheets)](https://payhip.com/b/TUHGi): log business, medical and charity trips by date at the split-year 2026 IRS rates (72.5 cents to June 30, 76 cents from July 1), with parking and tolls and a year summary. $9.
 - [Per Diem Travel Expense Tracker (Excel + Google Sheets)](https://payhip.com/b/ztfN3): log work trips day by day at GSA FY2026 and FY2027 rates, with the 50% or 80% deductible meal amount from IRS Pub. 463. $9.
+- [Home Office Deduction Worksheet (Excel + Google Sheets)](https://payhip.com/b/8bG3C): log every bill and get the simplified and regular (Form 8829) deductions side by side, with depreciation, the income limit and carryovers. $9.
 
-*Disclosure: both spreadsheets are our own paid products, and we earn the sale price if you buy one. Not affiliated with the IRS. Not tax advice.*
+*Disclosure: all three spreadsheets are our own paid products, and we earn the sale price if you buy one. Not affiliated with the IRS. Not tax advice.*
 
 ## Related tools and guides
 
