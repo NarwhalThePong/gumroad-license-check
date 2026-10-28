@@ -208,6 +208,7 @@ Kajabi's plans cost more, but it charges no transaction fee. At low sales a chea
 
 - [Teachable fee calculator (2026)](teachable-fee-calculator): the 7.5% Starter fee vs Builder and Growth
 - [Podia fee calculator (2026)](podia-fee-calculator): the 5% Mover fee vs Shaker and Earthquaker
+- [Thinkific fee calculator (2026)](thinkific-fee-calculator): no transaction fee with Thinkific Payments, $109 to $499 plans, and a 2% to 0.5% fee for your own Stripe
 - [Teachable vs Podia vs Payhip vs Gumroad: where to sell an online course](teachable-vs-podia-vs-payhip-vs-gumroad-courses): plan prices and the real monthly cost at $500 and $3,000 in sales
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): what you keep on each platform, sorted by net
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator)
