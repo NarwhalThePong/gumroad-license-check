@@ -55,7 +55,7 @@ await fetch(url, { method: 'DELETE', headers: { Authorization: `Bot ${BOT_TOKEN}
 ## Free check, or the full thing
 The refund-aware license check on its own is free and MIT licensed: [gumroad-license-check](https://github.com/NarwhalThePong/gumroad-license-check).
 
-If you'd rather not wire up the rest yourself, the [Gumroad → Discord Access Kit](https://paudrudis.gumroad.com/l/gskxf/LAUNCH30) packages all of it: the ping endpoint, the linking form, one-key-per-account, the nightly reconcile and 12 tests, with zero dependencies.
+If you'd rather not wire up the rest yourself, the [Gumroad → Discord Access Kit](https://paudrudis.gumroad.com/l/gskxf) packages all of it: the ping endpoint, the linking form, one-key-per-account, the nightly reconcile and 12 tests, with zero dependencies.
 
 ---
 [All guides](./)

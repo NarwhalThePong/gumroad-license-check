@@ -44,7 +44,7 @@ Before removing, check the person doesn't still own another product that grants 
 
 ## Done-for-you version
 
-The [Gumroad → GitHub Access Kit](https://paudrudis.gumroad.com/l/znsmji/LAUNCH30) packages all of this: invite on sale, removal on refund, chargeback and ended membership, Sales API verification, retry-safe handling, a backfill and reconcile command, and optional Discord or Slack alerts. It runs on Cloudflare Workers' free tier or any Node 18+ host, with zero dependencies and 19 tests.
+The [Gumroad → GitHub Access Kit](https://paudrudis.gumroad.com/l/znsmji) packages all of this: invite on sale, removal on refund, chargeback and ended membership, Sales API verification, retry-safe handling, a backfill and reconcile command, and optional Discord or Slack alerts. It runs on Cloudflare Workers' free tier or any Node 18+ host, with zero dependencies and 19 tests.
 
 If you gate an app with license keys instead, start with the free [refund-aware license check](refunded-gumroad-license-keys).
 

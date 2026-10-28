@@ -6,8 +6,6 @@ description: "Practical guides for developers who sell software on Gumroad: lice
 
 Practical, code-first guides for people who sell software, code and communities on Gumroad. Each one covers a gotcha in Gumroad's API that most setups miss.
 
-> **Launch week:** code `LAUNCH30` takes 30% off every paid kit and the [all-kits bundle](https://paudrudis.gumroad.com/l/vtmohb/LAUNCH30) until October 26, 2026.
-
 ## Free tools
 
 - [Gumroad fee calculator](gumroad-fee-calculator): see what you keep on direct and Discover sales, and the price you need for a target payout
@@ -65,11 +63,11 @@ Practical, code-first guides for people who sell software, code and communities 
 
 ## Paid kits
 
-- [Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs/LAUNCH30): offline cache, activation limits, proxy server, Node/Python/Electron snippets
-- [Gumroad → GitHub Access Kit](https://paudrudis.gumroad.com/l/znsmji/LAUNCH30): sell private repo access with automatic invites and removal
-- [Gumroad → Discord Access Kit](https://paudrudis.gumroad.com/l/gskxf/LAUNCH30): roles from license keys, removed on refund
-- [Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx/LAUNCH30): verified sale alerts to Discord, Slack and Telegram
-- [Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm/LAUNCH30) and [Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30): reports and P&L
-- [Everything in one bundle](https://paudrudis.gumroad.com/l/vtmohb/LAUNCH30)
+- [Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs): offline cache, activation limits, proxy server, Node/Python/Electron snippets
+- [Gumroad → GitHub Access Kit](https://paudrudis.gumroad.com/l/znsmji): sell private repo access with automatic invites and removal
+- [Gumroad → Discord Access Kit](https://paudrudis.gumroad.com/l/gskxf): roles from license keys, removed on refund
+- [Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx): verified sale alerts to Discord, Slack and Telegram
+- [Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm) and [Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq): reports and P&L
+- [Everything in one bundle](https://paudrudis.gumroad.com/l/vtmohb)
 
 Not affiliated with Gumroad, GitHub or Discord.

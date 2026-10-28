@@ -254,8 +254,8 @@ Both examples were tested against local mock pings and a mocked Sales API. Here'
 
 *Disclosure: the paid kits below are our own products, and we earn the sale price if you buy one.*
 
-- **[Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx/LAUNCH30)** ($9+): a ready-made receiver that verifies every ping against the Sales API, dedupes, and posts sales, refunds and disputes to Discord, Slack and Telegram, with a CSV ledger.
-- **[Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs/LAUNCH30)** ($19+): license checks with an offline cache, activation limits and a proxy server, so refunds turn keys off.
+- **[Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx)** ($9+): a ready-made receiver that verifies every ping against the Sales API, dedupes, and posts sales, refunds and disputes to Discord, Slack and Telegram, with a CSV ledger.
+- **[Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs)** ($19+): license checks with an offline cache, activation limits and a proxy server, so refunds turn keys off.
 - **[n8n Workflows for Gumroad Sellers](https://payhip.com/b/st5cr)** ($19, on Payhip): four importable n8n workflows that verify each ping against the Sales API before acting: sale alerts with a Google Sheets log, refund and chargeback access revokes, a weekly digest and a monthly CSV export.
 - **[gumroad-license-check](https://github.com/NarwhalThePong/gumroad-license-check)** (free, MIT): the refund-aware license check on its own.
 

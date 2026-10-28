@@ -224,6 +224,6 @@ To get the CSV: in Gumroad, open **Sales**, click the **Export** icon, choose a 
 
 ## Want this automatically every day?
 
-This page is for a quick look at one export. If you want the same report rebuilt from the Gumroad API on a schedule, with refund rate and daily trends, the [Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm/LAUNCH30) does it with one command. For a live spreadsheet instead, see [Sync Gumroad sales to Google Sheets automatically](sync-gumroad-sales-to-google-sheets), and for tax season, [Gumroad 1099-K and taxes](gumroad-1099-k-taxes).
+This page is for a quick look at one export. If you want the same report rebuilt from the Gumroad API on a schedule, with refund rate and daily trends, the [Gumroad Sales Dashboard Kit](https://paudrudis.gumroad.com/l/btvjm) does it with one command. For a live spreadsheet instead, see [Sync Gumroad sales to Google Sheets automatically](sync-gumroad-sales-to-google-sheets), and for tax season, [Gumroad 1099-K and taxes](gumroad-1099-k-taxes).
 
 Related: [Gumroad fee calculator](gumroad-fee-calculator), [bundle & discount calculator](gumroad-bundle-discount-calculator) and [license key checker](gumroad-license-key-checker).

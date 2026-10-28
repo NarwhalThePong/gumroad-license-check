@@ -46,7 +46,7 @@ Deploy it anywhere that runs Node, then set Gumroad's Ping URL to `https://your-
 - **Ledger:** append every event to a CSV, and guard cells that start with `=`, `+`, `-` or `@` so a malicious product name can't run a formula in Excel.
 
 ## Want the finished version?
-[Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx/LAUNCH30) does all of the above for Discord, Slack and Telegram at once, plus the CSV ledger. It has 13 tests and zero dependencies. To turn that ledger into a monthly P&L, see the [Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30).
+[Gumroad Ping Relay](https://paudrudis.gumroad.com/l/tdohx) does all of the above for Discord, Slack and Telegram at once, plus the CSV ledger. It has 13 tests and zero dependencies. To turn that ledger into a monthly P&L, see the [Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq).
 
 Already run n8n? [n8n Workflows for Gumroad Sellers](https://payhip.com/b/st5cr) ($19, on Payhip) does the same verified alerts as an importable workflow, plus access revokes on refunds and chargebacks, a weekly sales digest and a monthly CSV export.
 

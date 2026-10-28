@@ -75,8 +75,8 @@ For worked examples and pricing tactics, read [Gumroad fees in 2026, explained](
 
 ## Want this on every Gumroad page?
 
-- **[Creator Payout Calculator Pro](https://paudrudis.gumroad.com/l/ijrzbz/LAUNCH30)** shows your direct and Discover payout in the browser while you set prices.
-- **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq/LAUNCH30)** imports your sales CSV, applies the fees to every row, and builds a P&L with a tax set-aside sheet.
+- **[Creator Payout Calculator Pro](https://paudrudis.gumroad.com/l/ijrzbz)** shows your direct and Discover payout in the browser while you set prices.
+- **[Gumroad Seller Finance Tracker](https://paudrudis.gumroad.com/l/sudmq)** imports your sales CSV, applies the fees to every row, and builds a P&L with a tax set-aside sheet.
 
 **Working in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds `GUMROADFEE`, `GUMROADPAYOUT` and `GUMROADPRICE` (the price you need to keep a target amount) with the same direct and Discover rates as this calculator, plus Etsy, Stripe and PayPal formulas. Every rate is an optional argument, and they work on a whole column at once.
 

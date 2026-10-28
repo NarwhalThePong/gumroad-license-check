@@ -56,8 +56,6 @@ These run in your browser; nothing is uploaded.
 Install: download `license-gate-for-gumroad-1.0.0.zip` from [Releases](https://github.com/NarwhalThePong/gumroad-license-check/releases), then Plugins > Add New > Upload Plugin in WordPress. Requires WordPress 6.3+ and PHP 7.4+. The plugin folder is licensed GPLv2 or later (see its `readme.txt`); the rest of this repo keeps its own license.
 
 ## Need more?
-> **Launch week:** code `LAUNCH30` takes 30% off every kit and the [all-kits bundle](https://paudrudis.gumroad.com/l/vtmohb/LAUNCH30) until October 26, 2026.
-
 This repo is intentionally small. The **[Gumroad License Kit](https://paudrudis.gumroad.com/l/dufcs)** adds:
 - a signed offline cache with a grace period, so your app works without internet
 - activation counting and limits, so one key can't run on unlimited machines
