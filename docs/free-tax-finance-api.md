@@ -12,7 +12,7 @@ The calculators on this site also run as three small **free JSON APIs**. They us
 | Seller Fee API | `https://seller-fee-api.narwhalapis.workers.dev` | Fee, net payout and effective rate for Gumroad (direct, high volume, Discover), Etsy, Stripe and PayPal (each payment type), plus the price you need to keep a target amount |
 | US Per Diem API (GSA FY2026/FY2027) | `https://us-per-diem-api.narwhalapis.workers.dev` | GSA lodging and M&IE rates by ZIP, city or state, and trip totals with the 75% first and last day rule |
 
-The Freelancer Tax API is also listed on RapidAPI with a free plan: [US Freelancer Tax API on RapidAPI](https://rapidapi.com/narwhalapis/api/us-freelancer-tax-api-self-employment-quarterly-tax-2026).
+All three APIs are also listed on RapidAPI with a free plan: [US Freelancer Tax API on RapidAPI](https://rapidapi.com/narwhalapis/api/us-freelancer-tax-api-self-employment-quarterly-tax-2026), [Seller Fee API on RapidAPI](https://rapidapi.com/narwhalapis/api/seller-fee-api-gumroad-etsy-stripe-paypal-fees) and [US Per Diem API on RapidAPI](https://rapidapi.com/narwhalapis/api/us-per-diem-api-gsa-lodging-m-ie-rates-2026).
 
 ## Freelancer tax examples
 
