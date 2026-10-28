@@ -6,6 +6,9 @@ description: "Free 2026 SEP IRA vs Solo 401(k) contribution calculator for freel
 
 If you work for yourself, you can put money for retirement into a **SEP IRA** or a **Solo 401(k)** and deduct it. Both let you contribute as the "employer", up to 20% of your net self-employment earnings. A Solo 401(k) also lets you contribute as the "employee", up to $24,500 for 2026 plus catch-up if you're 50 or older, so it usually allows much more at the same income. This calculator follows the IRS Publication 560 worksheet for a sole proprietor or single-member LLC and shows the most each plan allows. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 <div id="rc" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0">
   <table><tbody>
     <tr><td>2026 net profit from self-employment (Schedule C line 31, or your share from Schedule K-1)</td><td><input id="rc-netProfit" type="number" min="0" step="100" value="100000"></td></tr>

@@ -6,6 +6,9 @@ description: "Free 2026 self-employment tax calculator for freelancers and sole 
 
 If you freelance or run a sole proprietorship, you pay **self-employment tax** on your profit: 12.4% for Social Security and 2.9% for Medicare, the employee and employer halves that a job would split with you. This calculator follows Schedule SE and Form 8959 for tax year 2026. It shows each part of the tax, how a W-2 job uses up part of the $184,500 Social Security wage base, the 0.9% Additional Medicare Tax for high earners, the half you can deduct, and how much of each quarterly estimated payment goes to self-employment tax. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 <div id="se" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0">
   <table><tbody>
     <tr><td>2026 net profit from self-employment (Schedule C line 31, or your share from Schedule K-1)</td><td><input id="se-netProfit" type="number" step="100" value="80000"></td></tr>

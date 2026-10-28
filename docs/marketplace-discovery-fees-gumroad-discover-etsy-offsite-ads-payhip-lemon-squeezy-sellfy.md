@@ -6,6 +6,9 @@ description: "Which selling platforms can bring you buyers you didn't find yours
 
 **Disclosure:** We sell our own digital products on Gumroad and make free tools for sellers. We have no partnership with Lemon Squeezy, Payhip, Sellfy, Etsy or Stripe and aren't paid for any link.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 Most selling platforms are a checkout: they take payment and deliver the file, and every buyer is someone you sent there yourself. A few also run a marketplace, a place where shoppers browse and search across many sellers, so a stranger can find your product without ever hearing of you. That reach usually has a price, and the price is charged per sale, not up front. Here's which of the five platforms bring you buyers, what it costs when they do, and how to get listed.
 
 We read each company's own help pages, docs and pricing pages on October 20, 2026. Rules and fees change, and where a company's own pages disagree or don't say something, we tell you, so check the linked pages before you rely on them.

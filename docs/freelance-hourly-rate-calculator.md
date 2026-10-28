@@ -6,6 +6,9 @@ description: "Free freelance rate calculator. Enter the income you want to take 
 
 Work out what to charge as a freelancer. Enter the yearly income you want to take home, what your business costs to run, how much time off you plan, and how many of your working hours you can actually bill to clients. The calculator works backwards to the **hourly rate**, **day rate** and **monthly revenue** you need, after tax and expenses. You can also check a rate you already charge to see what it pays you over a year. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 <div id="frc" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0;max-width:720px">
   <div style="display:flex;flex-wrap:wrap;gap:4px 24px">
     <p style="flex:1 1 200px;margin:0 0 8px"><label>Income you want to take home per year, after tax ($)<br><input id="frc-take" type="number" min="0" step="100" value="60000" inputmode="decimal" style="width:100%;max-width:160px"></label></p>

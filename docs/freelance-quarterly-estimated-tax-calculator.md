@@ -6,6 +6,9 @@ description: "Free 2026 quarterly estimated tax calculator for US freelancers an
 
 How much of each client payment should you put aside for tax, and what do you send the IRS each quarter? Enter your expected 2026 freelance profit (or what you've made so far this year), your filing status, any W-2 job, and last year's tax. The calculator estimates your **self-employment tax** and **federal income tax** with the 2026 rates, the **percentage of every payment to set aside**, your **four quarterly payments**, the **safe-harbor minimum** that avoids the underpayment penalty, and the **2026 due dates**. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 The starting numbers are only an example (a single freelancer with $60,000 of profit and no other job). Replace them with your own.
 
 <style>#qet table th, #qet table td { padding: 6px 6px; }</style>

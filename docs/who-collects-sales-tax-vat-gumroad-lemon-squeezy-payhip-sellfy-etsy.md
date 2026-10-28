@@ -6,6 +6,9 @@ description: "Merchant of record or not: who charges, collects and pays sales ta
 
 **Disclosure:** We sell our own digital products on Gumroad and Payhip and make free tools for sellers; a few paid ones are linked at the end of this page, and we earn the sale price if you buy one. We have no partnership with Lemon Squeezy, Payhip, Sellfy, Etsy, PayPal or Stripe and aren't paid for any other link.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 **Not tax advice.** This guide sums up what each platform says on its own help pages and what a few tax authorities publish. Your situation depends on where you live and where your buyers are, so check with a tax professional before you rely on it.
 
 Sell one PDF to a buyer in Germany and, in principle, German VAT is due on it, even if you live in Ohio. The question is who has to charge it and send it to the tax office: you, or the platform you sell through. Some platforms take the whole job off your hands as **merchant of record** (they are the seller in the eyes of the tax office). Others pay the money straight into your own PayPal or Stripe account and leave the tax with you.

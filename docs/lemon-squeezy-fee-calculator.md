@@ -6,6 +6,9 @@ description: "Free Lemon Squeezy fee calculator. Enter your price, buyer locatio
 
 Lemon Squeezy charges **5% + 50¢ per sale**, with no monthly fee. Some sales cost more: **+1.5% if the buyer is outside the US, +1.5% if they pay with PayPal, and +0.5% on subscription payments**. The fee is taken from the whole order total, including any VAT or sales tax Lemon Squeezy collects, so tax makes the fee a little bigger even though the tax itself isn't yours. Enter your numbers below to see each fee and what you keep. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 <div id="lsf" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0">
   <div style="display:flex;flex-wrap:wrap;gap:0 16px">
     <p style="flex:1 1 200px;margin:0 0 8px"><label>Price per sale before tax (USD)<br><input id="lsf-price" type="number" min="0" step="0.01" value="20" inputmode="decimal" style="width:100%;max-width:160px"></label></p>

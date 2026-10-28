@@ -6,6 +6,9 @@ description: "Free Gumroad bundle pricing and discount code calculator. Add your
 
 Plan a Gumroad bundle or a discount code before you publish it. Add the prices of the products in the bundle, set a bundle price or a discount, and see what the buyer saves, what Gumroad takes and what you keep compared with selling each product on its own. Direct sales cost **10% + $0.50 plus 2.9% + $0.30 card processing** per sale, which Gumroad charges on top; Gumroad Discover sales cost **30%**, with processing included. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 <div id="gbd" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0;max-width:680px">
   <p style="margin-bottom:4px"><strong>Product prices (USD)</strong></p>
   <div id="gbd-rows"></div>

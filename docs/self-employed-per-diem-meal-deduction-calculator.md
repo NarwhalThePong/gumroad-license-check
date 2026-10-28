@@ -6,6 +6,9 @@ description: "Free per diem calculator for freelancers and sole proprietors. Pic
 
 If you're self-employed and travel away from home for business, the IRS lets you deduct meals with the **standard meal allowance** instead of saving every receipt: the federal per diem rate for meals and incidental expenses (M&IE) in the place you stay. Pick where you're going and your dates, and this calculator adds up the allowance day by day and shows the part you can usually deduct. It uses the official GSA rates for the continental US for federal fiscal years 2026 and 2027 (travel from October 1, 2025 to September 30, 2027). Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 <div id="pdc" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0">
   <p><label>State<br><select id="pdc-state"></select></label></p>
   <p><label>City or county where you sleep<br><select id="pdc-dest" style="max-width:100%"></select></label></p>

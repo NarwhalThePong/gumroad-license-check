@@ -6,6 +6,9 @@ description: "Free GSA per diem calculator for business travel. Pick a US city a
 
 Planning a work trip or checking an expense report? Pick where the work is and your travel dates, and this calculator adds up the federal **per diem**: the GSA lodging maximum for each night (it changes by month in many cities), the meals and incidental expenses (M&IE) rate at 75% on the first and last day, and the deduction for any meals you were given. It uses the official GSA rates for the continental US for federal fiscal years 2026 and 2027 (travel from October 1, 2025 to September 30, 2027), so it works for federal travelers, contractors and the many companies that reimburse at GSA rates. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 <div id="gpd" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0">
   <p><label>State<br><select id="gpd-state"></select></label></p>
   <p><label>City or county where the work is<br><select id="gpd-dest" style="max-width:100%"></select></label></p>

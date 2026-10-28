@@ -6,6 +6,9 @@ description: "Free invoice late fee and payment terms calculator. Enter the invo
 
 Work out when an invoice is due and what a late payment costs. Enter the invoice amount, the invoice date and your payment terms, then the date it was paid (or leave it as today if it's still open). The calculator shows the **due date**, **days late**, the **late fee or interest**, the **total due** and the **effective annual rate** of the fee. Below it, a second panel prices an early-payment discount such as **2/10 Net 30**. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 <div id="ilf" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0;max-width:720px">
   <div style="display:flex;flex-wrap:wrap;gap:4px 24px">
     <p style="flex:1 1 200px;margin:0 0 8px"><label>Invoice amount ($)<br><input id="ilf-amt" type="number" min="0" step="0.01" value="1000" inputmode="decimal" style="width:100%;max-width:160px"></label></p>

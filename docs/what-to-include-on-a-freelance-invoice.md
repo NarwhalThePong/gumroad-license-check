@@ -6,6 +6,9 @@ description: "A practical checklist of everything a freelance invoice should sho
 
 A clear invoice gets paid faster and causes fewer "quick question about this" emails. This checklist covers what a freelance invoice should include, in the order most clients read it, plus a sample invoice you can copy.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 **Free tools for the numbers:** [invoice late fee & payment terms calculator](invoice-late-fee-calculator), [freelance hourly rate calculator](freelance-hourly-rate-calculator) and [quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator).
 
 ## The checklist

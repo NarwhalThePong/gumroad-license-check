@@ -6,6 +6,9 @@ description: "How to set up discount codes, timed sales, bundle and upsell disco
 
 **Disclosure:** We sell our own digital products on Gumroad and make free tools for sellers. We have no partnership with Lemon Squeezy, Payhip, Sellfy, Etsy, Stripe or PayPal and aren't paid for any link.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 A discount code is the cheapest marketing you can run, but each platform builds it differently: some let you cap the number of uses, some can show a crossed-out price without a code, some won't let a sale and pay-what-you-want sit on the same product, and Etsy has its own rules about what counts as a real sale. Here's how the five platforms handle it, and what a discount actually costs you once fees are taken out.
 
 We read each company's own help pages, developer docs and pricing pages on October 20, 2026. Features and fees change, and where a company's own pages disagree or don't say something, we tell you, so check the linked pages before you rely on them.

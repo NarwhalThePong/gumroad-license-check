@@ -6,6 +6,9 @@ description: "Who issues the refund, which fees come back, what a chargeback cos
 
 **Disclosure:** We sell our own digital products on Gumroad and make free tools for sellers. We have no partnership with Lemon Squeezy, Payhip, Sellfy, Etsy, PayPal or Stripe and aren't paid for any link.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 Sooner or later a buyer asks for their money back, or skips asking and goes to their bank. The first is a **refund**: you (or the platform) send the money back. The second is a **chargeback** (also called a dispute): the card company or PayPal pulls the payment back, and someone has to answer it with evidence. On most platforms a refund costs you a few cents to a couple of dollars, while a lost chargeback can cost more than the sale itself.
 
 We read each company's own help pages, fee pages and terms on October 20, 2026. Rules and fees change, so check the linked pages before you rely on them.

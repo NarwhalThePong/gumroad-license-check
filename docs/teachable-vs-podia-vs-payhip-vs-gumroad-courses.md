@@ -6,6 +6,9 @@ description: "Plan prices, platform fees and a worked $500 and $3,000-a-month ex
 
 **Disclosure:** We sell our own digital products on Gumroad and Payhip, two of the four platforms compared here. Some of our free calculators and two of our paid spreadsheets are linked on this page, and we earn the sale price if you buy one. We have no partnership with Teachable, Podia, Payhip or Gumroad, and none of them pays us for a link here.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 A course platform charges you in up to three ways: a monthly plan, a percentage of each sale, and card processing. Which one is cheapest depends almost entirely on how much you sell. A free plan with a 5% fee wins when you're small; a flat plan with no fee wins once sales grow.
 
 We compared the published pricing of Teachable, Podia, Payhip and Gumroad on October 20, 2026. We left out limited-time promotions because they expire. Prices change, so check the linked pricing page before you decide.

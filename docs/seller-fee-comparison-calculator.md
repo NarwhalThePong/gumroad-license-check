@@ -6,6 +6,9 @@ description: "Free seller fee comparison calculator. Enter a price and monthly s
 
 Enter a price and how many sales you make a month. The table shows the fee per sale, what you keep per sale and per month, and the lowest price that leaves you a target amount, for 13 ways to sell a digital product. Rows are sorted by what you keep each month, so plans with a monthly fee only rise to the top once your volume pays for them. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 <div id="sfc" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0">
   <p><label>Price per sale (USD)<br><input id="sfc-price" type="number" min="0" step="0.01" value="19" style="width:140px;font-size:1.1em"></label></p>
   <p><label>Sales per month<br><input id="sfc-qty" type="number" min="0" step="1" value="10" style="width:140px"></label></p>

@@ -6,6 +6,9 @@ description: "Free Etsy fee and profit calculator for US sellers. Enter your pri
 
 See what an Etsy sale actually pays you. Enter the item price, what you charge for shipping, what the item costs you to make and what the shipping label costs, and the calculator adds up every Etsy fee on the order: the **$0.20 listing fee** per item sold, the **6.5% transaction fee** on the item price, shipping and gift wrap, **payment processing of 3% + $0.25** (US shops), and the **Offsite Ads fee** (15%, or 12%, capped at $100) if the order came from an Etsy ad on another site. Then it shows your payout, profit and margin, and solves for the price you need to hit a target margin or profit. All rates can be edited. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 <div id="efc" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0;max-width:720px">
   <div style="display:flex;flex-wrap:wrap;gap:4px 24px">
     <p style="flex:1 1 200px;margin:0 0 8px"><label>Item price, per item ($)<br><input id="efc-price" type="number" min="0" step="0.01" value="28" inputmode="decimal" style="width:100%;max-width:160px"></label></p>

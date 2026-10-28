@@ -6,6 +6,9 @@ description: "Gumroad's 10% + $0.50 fee plus 2.9% + $0.30 card processing hits c
 
 Gumroad's pricing looks simple: **10% + $0.50 per sale** on direct sales, plus **2.9% + $0.30 card processing** charged on top, and **30%** (processing included) when the sale comes through Gumroad Discover, its marketplace. Gumroad is also merchant of record, so it handles sales tax and VAT. In practice, the flat $0.80 per sale ($0.50 + $0.30) is what decides whether a cheap product is worth selling.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 *Rates from [Gumroad's fees help page](https://gumroad.com/help/article/66-gumroads-fees), checked October 20, 2026. Fees change, so confirm there before relying on these numbers.*
 
 ## What you keep

@@ -6,6 +6,9 @@ description: "Free 2026 Qualified Business Income (QBI) deduction calculator for
 
 If you freelance or run a pass-through business, Section 199A lets you deduct up to **20% of your qualified business income (QBI)** on Form 8995 or 8995-A. Most freelancers (consulting, design, writing, law, health, accounting, financial services) are a **specified service trade or business (SSTB)**, so the deduction phases out once taxable income crosses the 2026 threshold and is gone above the upper limit. This calculator follows the 2026 Form 8995 instructions for tax year 2026. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 <div id="qbi" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0">
   <table><tbody>
     <tr><td>Qualified business income (QBI) for 2026</td><td><input id="qbi-qbi" type="number" step="100" value="80000"></td></tr>

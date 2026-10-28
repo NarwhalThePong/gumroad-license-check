@@ -7,6 +7,9 @@ description: "Your Gumroad 1099-K shows gross sales, not what hit your bank. How
 
 Every January, Gumroad sellers in the US open a 1099-K and see a number bigger than anything that landed in their bank account. That's expected. The 1099-K reports **gross** payments. Fees, refunds and the sales tax/VAT Gumroad collected on your behalf are not taken out. Your job is to show the IRS how you get from that gross figure to your real profit.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 *Not tax advice. Rules and thresholds change, so confirm with a tax professional.*
 
 *Disclosure: the Gumroad Seller Finance Tracker, the Gumroad Sales Dashboard Kit and the Gumroad Tax Report Kit linked below are our own paid products, and we earn the sale price if you buy one.*

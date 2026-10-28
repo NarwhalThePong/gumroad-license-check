@@ -6,6 +6,9 @@ description: "Why Gumroad payouts confuse bank-feed bookkeeping, what Wave and Q
 
 **Disclosure:** We sell our own digital products on Gumroad and Payhip and make free tools for sellers. One of the options below is our own spreadsheet, a few paid kits are linked at the end, and we earn the sale price if you buy one. We have no partnership with Wave or Intuit and aren't paid for any other link.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 If you sell templates, ebooks or presets on Gumroad, your bookkeeping problem is a little unusual. Gumroad takes its fees before it pays you, so the deposit that lands in your bank is the net amount. Your 1099-K and your Schedule C start from gross sales, and the fees are a deductible expense. Bank-feed accounting software only sees the deposit. So whatever you pick, you'll still need Gumroad's sales export to split each payout into gross sales, fees and refunds.
 
 We read Wave's pricing page, QuickBooks Solopreneur's plan page and the QuickBooks Payments rates page on October 20, 2026, and left out limited-time promotions. Prices change, so check the linked pages before you sign up.

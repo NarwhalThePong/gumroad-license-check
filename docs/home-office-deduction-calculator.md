@@ -6,6 +6,9 @@ description: "Free home office deduction calculator for the self-employed. Compa
 
 The IRS gives self-employed people two ways to figure the home office deduction. The **simplified method** is $5 for each square foot of the office, up to 300 square feet, so it tops out at $1,500. The **regular method** deducts the office's share of your actual home costs: rent or mortgage interest, real estate taxes, insurance, utilities, repairs and depreciation, figured on Form 8829. You can pick whichever is better each year. This calculator runs both and shows which one gives the bigger deduction. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Want this as a spreadsheet you keep?** The [Home Office Deduction Worksheet (Excel + Google Sheets)](https://payhip.com/b/8bG3C) ($9) logs every bill and works out the simplified and regular (Form 8829) deductions side by side, with depreciation, the income limit and carryovers. *Our own paid product; not tax advice.*
+
 <div id="ho" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0">
   <table><tbody>
     <tr><td>Office area (sq ft)</td><td><input id="ho-officeSqft" type="number" min="0" step="1" value="200"></td></tr>

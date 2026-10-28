@@ -6,6 +6,9 @@ description: "Free Gumroad fee calculator. Enter a price to see your payout on d
 
 Type a price to see what you keep on a Gumroad sale. Direct sales (your own links) cost **10% + $0.50 plus 2.9% + $0.30 card processing**, which Gumroad charges on top. Sales that come through Gumroad Discover cost **30%**, with processing included. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 <div id="gfc" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0;max-width:640px">
   <p><label>Price per sale (USD)<br><input id="gfc-price" type="number" min="0" step="0.01" value="19" style="width:140px;font-size:1.1em"></label></p>
   <p><label>Sales per month<br><input id="gfc-qty" type="number" min="0" step="1" value="10" style="width:140px"></label></p>

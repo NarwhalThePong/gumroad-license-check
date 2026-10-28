@@ -6,6 +6,9 @@ description: "Side-by-side fees for selling software and digital products in 202
 
 All four handle checkout and act as merchant of record, so they collect and remit sales tax and VAT for you. The real differences are the fee, how buyers find you, and what you have to build yourself.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 Prices below come from each company's public pricing page, checked on October 20, 2026. Fees change, so confirm on the linked page before you decide.
 
 ## The headline rates

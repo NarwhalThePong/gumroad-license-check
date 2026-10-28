@@ -7,6 +7,9 @@ description: "How each one puts a checkout on your own site, what can be embedde
 
 **Disclosure:** We sell our own digital products and make free tools for sellers; some are linked on this page. We have no partnership with any company compared here and aren't paid for any link.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 If you already have a blog, a portfolio or a WordPress site, you may not want to send buyers off to a marketplace page. You want a buy button on your own page, a checkout that works, and a file that reaches the buyer automatically. SendOwl, Payhip, Sellfy and systeme.io can all do that, but in different ways: some put the checkout in a pop-up on your page, some send the buyer to a hosted checkout, and one of them has no embeddable checkout at all.
 
 We read each platform's pricing page and help articles on October 20, 2026, with Gumroad as a reference point. We left out limited-time promotions. Prices and features change, so check the linked pages before you decide.

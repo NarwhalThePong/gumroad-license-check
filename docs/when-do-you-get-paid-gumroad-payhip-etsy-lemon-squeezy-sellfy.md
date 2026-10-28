@@ -6,6 +6,9 @@ description: "Payout schedules, holding periods, minimums and payout fees for di
 
 **Disclosure:** We sell our own digital products on Gumroad and make free tools for sellers. We have no partnership with Payhip, Etsy, Lemon Squeezy, Sellfy, PayPal or Stripe and aren't paid for any link.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 Fees get all the attention, but for a new seller the bigger surprise is often timing. Some platforms hold your money for a week or two and pay out on a fixed day. Others never hold it at all, because the sale goes straight into your own PayPal or Stripe account. If you're counting on the first $100 to pay a bill, that difference matters.
 
 We read each company's own help pages on October 20, 2026. Schedules change, so check the linked pages before you rely on a date.

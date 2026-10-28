@@ -6,6 +6,9 @@ description: "Free plan limits, the cut each one takes per sale, and a worked $5
 
 **Disclosure:** We sell our own digital products on Gumroad, which we use as a reference point on this page, and on Payhip, which we compare here. Some of our free calculators and two of our paid spreadsheets are linked on this page, and we earn the sale price if you buy one. We have no partnership with systeme.io, Kit, Payhip or Gumroad, and none of them pays us for a link here.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 If you're selling your first ebook, template or mini-course, you probably don't want a monthly bill yet. systeme.io, Kit and Payhip all let you sell for $0 a month. What differs is the cut each one takes per sale, how big your email list can get before you have to pay, and what else is included.
 
 We compared the published pricing of all three on October 20, 2026, with Gumroad as a reference point. We left out limited-time promotions because they expire. Prices change, so check the linked pricing page before you decide.

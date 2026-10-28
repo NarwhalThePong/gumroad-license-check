@@ -7,6 +7,9 @@ description: "Free plan limits, paid prices at 1,000 to 10,000 subscribers, and 
 
 **Disclosure:** We sell our own digital products on Gumroad, and a few of them are linked at the end of this page. We have no partnership with Kit, beehiiv or MailerLite and aren't paid for any link here.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 If you sell templates, ebooks, presets or courses, your email list is where most sales start. Kit (formerly ConvertKit), beehiiv and MailerLite all let you build that list, and all three now let you sell digital products directly too. They price very differently, though: by list size, by plan, and by a cut of each sale.
 
 We compared the published pricing of all three on October 20, 2026. Prices change, so check the linked pricing page before you decide.

@@ -6,6 +6,9 @@ description: "Free 2026 PayPal and Stripe fee calculator for US sellers. Enter a
 
 What does PayPal or Stripe take from a payment, and what should you charge to end up with a set amount? Enter the amount and pick the payment method. The calculator shows the **fee**, your **payout** and the **effective fee %**, compares every method side by side, and solves for the **price to charge to net $X**. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 Rates are the US standard rates as of Oct 20, 2026 (sources below). Every rate box can be edited, so you can plug in your own pricing if it's different.
 
 <div id="ppsf" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0;max-width:720px">

@@ -7,6 +7,9 @@ description: "Plan prices, card and bank-transfer fees, and a worked $3,000-a-mo
 
 **Disclosure:** We make free calculators and sell our own spreadsheet kits on Gumroad and Payhip; some are linked on this page, and we earn the sale price if you buy one. We have no partnership with FreshBooks, Bonsai, HoneyBook or Wave and aren't paid for any link here.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 Every invoicing tool has two prices: the plan, and the cut it takes when a client pays online. For most freelancers the second one is bigger, and it depends far more on *how* your client pays (card or bank transfer) than on which tool you pick.
 
 We compared the published pricing of FreshBooks, Bonsai, HoneyBook and Wave on October 20, 2026. We left out limited-time promotions because they expire. Prices change, so check the linked pricing page before you decide.

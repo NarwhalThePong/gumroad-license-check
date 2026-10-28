@@ -6,6 +6,9 @@ description: "Gumroad, Etsy, Stripe, PayPal and Shopify fees for US sellers of d
 
 If you sell a digital product (a template, ebook, preset, course or code) the platform's cut decides how much of each sale you keep. This page puts the **US standard fees as of Oct 20, 2026** for Gumroad, Etsy, Stripe, PayPal and Shopify side by side, then works through a $10, $25 and $50 sale.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 **Skip the math:** the free [Gumroad fee calculator](gumroad-fee-calculator), [Etsy fee & profit calculator](etsy-fee-calculator) and [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator) do these sums for any price.
 
 **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `STRIPEFEE`, `PAYPALFEE`, `ETSYFEE` and `GUMROADFEE`, plus price solvers that find the price you need for a target profit. Every rate is an optional argument, and they work on a whole column at once. *Disclosure: this is our own paid product, and we earn the sale price if you buy it.*

@@ -6,6 +6,9 @@ description: "Free 2026 mileage deduction calculator. The IRS business rate chan
 
 The IRS changed the standard mileage rate in the middle of 2026. Business miles driven **January 1 to June 30, 2026** are worth **72.5 cents** a mile, and miles driven **July 1 to December 31, 2026** are worth **76 cents**. Medical and military moving miles went from 20.5 to 23.5 cents, and charity stays at 14 cents. That means one rate times your yearly miles gives the wrong 2026 number. This calculator prices every mile by the date you drove it. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 <div id="mil" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0">
   <p><label><input type="radio" name="mil-mode" id="mil-mode-split" value="split" checked> Quick: my 2026 miles before and after July 1</label><br>
      <label><input type="radio" name="mil-mode" id="mil-mode-log" value="log"> Trip log: paste dated trips (2025 or 2026)</label></p>

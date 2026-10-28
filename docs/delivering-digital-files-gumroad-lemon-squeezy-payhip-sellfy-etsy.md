@@ -6,6 +6,9 @@ description: "How Gumroad, Lemon Squeezy, Payhip, Sellfy and Etsy deliver your f
 
 **Disclosure:** We sell our own digital products on Gumroad and make free tools for sellers. We have no partnership with Lemon Squeezy, Payhip, Sellfy or Etsy and aren't paid for any link.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 Fees get most of the attention, but delivery is what your buyer actually sees: a download that's too big for the platform, a limit that locks out a buyer with a new laptop, or a fixed file that never reaches the people who already paid. Here's how the five platforms handle it.
 
 We read each company's own help pages, docs and pricing pages on October 20, 2026. Limits change, and where two of a company's own pages disagree we say so, so check the linked pages before you rely on them.

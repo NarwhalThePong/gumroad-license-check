@@ -6,6 +6,9 @@ description: "Free Payhip fee calculator. Enter your price and monthly sales to 
 
 Payhip charges a transaction fee that depends on your plan: **5% on Free, 2% on Plus ($29 a month) and 0% on Pro ($99 a month)**. Stripe or PayPal then take their own processing fee on every sale, on every plan. Enter your price and how many sales you make a month to see each fee, what you keep, and which plan costs you the least. Everything runs in your browser and nothing is sent anywhere.
 
+<!-- paid-cta -->
+> **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount. *Our own paid product.*
+
 <div id="phf" style="border:1px solid #ddd;border-radius:8px;padding:16px;margin:16px 0">
   <div style="display:flex;flex-wrap:wrap;gap:0 16px">
     <p style="flex:1 1 200px;margin:0 0 8px"><label>Price per sale (USD)<br><input id="phf-price" type="number" min="0" step="0.01" value="19" inputmode="decimal" style="width:100%;max-width:160px"></label></p>

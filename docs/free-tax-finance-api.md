@@ -6,6 +6,9 @@ description: "Three free JSON APIs for 2026: US freelancer tax (self-employment 
 
 The calculators on this site also run as three small **free JSON APIs**. They use the same math as the pages (same tests), so you can put 2026 self-employment tax, quarterly estimates, the QBI deduction, platform fees or GSA per diem rates into your own app, spreadsheet, invoice tool or AI agent. Each API answers `GET` with query parameters or `POST` with a JSON body, and sends CORS headers so it works from the browser. No API key is needed. Hit `/` on any of them to get a list of endpoints and a working example.
 
+<!-- paid-cta -->
+> **Planning the whole tax year?** The [Freelancer Quarterly Tax Planner 2026 (Excel + Google Sheets)](https://payhip.com/b/UspdI) ($9) logs each payment and expense, works out how much of every dollar to set aside, the safe-harbor and full quarterly payments, and tracks what you've paid against the 2026 due dates. *Our own paid product; not tax advice.*
+
 | API | Base URL | What it covers |
 |---|---|---|
 | US Freelancer Tax API (2026) | `https://us-freelancer-tax-api.narwhalapis.workers.dev` | Self-employment tax, quarterly estimated tax, 2026 due dates, IRS mileage (split-year rates), home office (simplified vs Form 8829), SEP IRA / Solo 401(k) limits, QBI (Section 199A) deduction |
