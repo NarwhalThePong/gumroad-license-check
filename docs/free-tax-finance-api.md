@@ -14,6 +14,68 @@ The calculators on this site also run as three small **free JSON APIs**. They us
 
 All three APIs are also listed on RapidAPI with a free plan: [US Freelancer Tax API on RapidAPI](https://rapidapi.com/narwhalapis/api/us-freelancer-tax-api-self-employment-quarterly-tax-2026), [Seller Fee API on RapidAPI](https://rapidapi.com/narwhalapis/api/seller-fee-api-gumroad-etsy-stripe-paypal-fees) and [US Per Diem API on RapidAPI](https://rapidapi.com/narwhalapis/api/us-per-diem-api-gsa-lodging-m-ie-rates-2026).
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Free tax, seller fee and per diem JSON APIs (2026)",
+  "description": "Three free, no-key JSON APIs for US freelancer tax, platform seller fees and GSA per diem rates, with OpenAPI specs and curl examples.",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "WebAPI",
+        "name": "US Freelancer Tax API (2026)",
+        "description": "Self-employment tax, quarterly estimated tax, 2026 due dates, IRS mileage (split-year rates), home office (simplified vs Form 8829), SEP IRA / Solo 401(k) limits and the QBI (Section 199A) deduction. Free JSON, no API key.",
+        "url": "https://us-freelancer-tax-api.narwhalapis.workers.dev",
+        "documentation": "https://narwhalthepong.github.io/gumroad-license-check/free-tax-finance-api",
+        "provider": { "@type": "Organization", "name": "NarwhalAPIs" },
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+        "potentialAction": {
+          "@type": "ConsumeAction",
+          "target": "https://us-freelancer-tax-api.narwhalapis.workers.dev/openapi.json"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "WebAPI",
+        "name": "Seller Fee API",
+        "description": "Fee, net payout and effective rate for Gumroad (direct, high volume, Discover), Etsy, Stripe and PayPal, plus the price needed to keep a target amount. Free JSON, no API key.",
+        "url": "https://seller-fee-api.narwhalapis.workers.dev",
+        "documentation": "https://narwhalthepong.github.io/gumroad-license-check/free-tax-finance-api",
+        "provider": { "@type": "Organization", "name": "NarwhalAPIs" },
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+        "potentialAction": {
+          "@type": "ConsumeAction",
+          "target": "https://seller-fee-api.narwhalapis.workers.dev/openapi.json"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "WebAPI",
+        "name": "US Per Diem API (GSA FY2026/FY2027)",
+        "description": "Official GSA lodging and M&IE per diem rates by ZIP, city or state, and trip totals with the 75% first and last day rule. Free JSON, no API key.",
+        "url": "https://us-per-diem-api.narwhalapis.workers.dev",
+        "documentation": "https://narwhalthepong.github.io/gumroad-license-check/free-tax-finance-api",
+        "provider": { "@type": "Organization", "name": "NarwhalAPIs" },
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+        "potentialAction": {
+          "@type": "ConsumeAction",
+          "target": "https://us-per-diem-api.narwhalapis.workers.dev/openapi.json"
+        }
+      }
+    }
+  ]
+}
+</script>
+
 ## Freelancer tax examples
 
 Self-employment tax on $80,000 of net profit:
