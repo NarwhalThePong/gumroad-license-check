@@ -69,5 +69,7 @@ Other kits for Gumroad sellers:
 - [Ping Relay](https://paudrudis.gumroad.com/l/tdohx): verified sale alerts to Discord, Slack and Telegram.
 - [All kits bundle](https://paudrudis.gumroad.com/l/vtmohb)
 
+Working out fees? [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR), $9: `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE`, `ETSYFEE` and price solvers for a whole column at once.
+
 ## License
 MIT © Pau Drudis. Not affiliated with Gumroad.
