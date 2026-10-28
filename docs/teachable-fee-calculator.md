@@ -177,6 +177,7 @@ It depends on how much you sell. At low sales, a free plan with a percentage fee
 
 - [Teachable vs Podia vs Payhip vs Gumroad: where to sell an online course](teachable-vs-podia-vs-payhip-vs-gumroad-courses): plan prices and the real monthly cost at $500 and $3,000 in sales
 - [Podia fee calculator (2026)](podia-fee-calculator): the 5% Mover fee vs Shaker and Earthquaker
+- [Kajabi fee calculator (2026)](kajabi-fee-calculator): no transaction fee, but $179 to $499 plans and 2.7% to 2.9% + 30¢ card rates
 - [Payhip fee calculator (2026)](payhip-fee-calculator): Payhip's 5%, 2% or 0% fee on Free, Plus and Pro
 - [Gumroad fee calculator](gumroad-fee-calculator): fee, payout and effective rate for direct and Discover sales
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): what you keep on each platform, sorted by net
