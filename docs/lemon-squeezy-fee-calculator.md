@@ -191,6 +191,7 @@ On a direct sale, usually yes. Gumroad charges 10% + $0.50 plus card processing 
 
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Lemon Squeezy next to Gumroad, Payhip, Ko-fi, Paddle, Polar, Etsy, Stripe and PayPal at your price and volume
 - [Gumroad vs Lemon Squeezy vs Polar vs Paddle](gumroad-vs-lemon-squeezy-polar-paddle-fees): fees in 2026 and what you keep
+- [Polar fee calculator (2026)](polar-fee-calculator): Polar's 5% + 50¢ Starter fee next to its $20, $100 and $400 plans with lower rates
 - [Whop fee calculator (2026)](whop-fee-calculator): Whop's 2.7% + 30¢ with the 3% Discord app fee and payout fees
 - [Payhip fee calculator (2026)](payhip-fee-calculator) and [Gumroad fee calculator](gumroad-fee-calculator)
 - [When do you get paid? Payout timing on Gumroad, Payhip, Etsy, Lemon Squeezy and Sellfy](when-do-you-get-paid-gumroad-payhip-etsy-lemon-squeezy-sellfy)
