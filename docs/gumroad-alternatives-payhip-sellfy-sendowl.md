@@ -149,6 +149,7 @@ All checked 2026-10-20 on each company's official page.
 - Selling a course instead of downloads? See [Teachable vs Podia vs Payhip vs Gumroad](teachable-vs-podia-vs-payhip-vs-gumroad-courses).
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip and more at your own price and sales volume
 - [Payhip fee calculator (2026)](payhip-fee-calculator): what you keep on Payhip Free, Plus and Pro, and when each upgrade pays off
+- [Sellfy fee calculator (2026)](sellfy-fee-calculator): which Sellfy plan your yearly sales need, the plan cost per sale and what you keep after Stripe or PayPal
 - [Gumroad fees in 2026, explained](gumroad-fees-explained)
 - [Gumroad vs Lemon Squeezy vs Polar vs Paddle](gumroad-vs-lemon-squeezy-polar-paddle-fees)
 - [Kit vs beehiiv vs MailerLite for selling digital products](kit-vs-beehiiv-vs-mailerlite)
