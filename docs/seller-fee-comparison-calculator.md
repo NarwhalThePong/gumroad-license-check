@@ -160,6 +160,7 @@ What the table leaves out: sales tax and VAT (Gumroad, Lemon Squeezy, Paddle, Po
 - [Free seller fee API for developers](free-tax-finance-api): the same fee math as a free JSON API (`/v1/fee`, `/v1/compare`, `/v1/price`)
 - [Payhip fee calculator (2026)](payhip-fee-calculator): Payhip Free vs Plus vs Pro at your price and volume, with the break-even sales for each upgrade
 - [Lemon Squeezy fee calculator (2026)](lemon-squeezy-fee-calculator): Lemon Squeezy's 5% + 50¢ with the international, PayPal and subscription surcharges, fees on VAT and payout fees
+- [Patreon fee calculator (2026)](patreon-fee-calculator): Patreon's 10% or legacy platform fee plus processing, currency conversion and payout fees for memberships
 - [Gumroad fee calculator](gumroad-fee-calculator), [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator) and [Etsy fee & profit calculator](etsy-fee-calculator) for one platform in detail
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite)
