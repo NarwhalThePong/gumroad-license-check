@@ -50,7 +50,7 @@ await fetch(url, { method: 'DELETE', headers: { Authorization: `Bot ${BOT_TOKEN}
 
 ## Two more things people miss
 - **Key sharing.** Store `sale_id → discord_id` and refuse to link the same sale to a second account.
-- **Missed pings.** Hosts restart, and pings get dropped. Run a nightly job that re-checks every linked sale and revokes anything inactive.
+- **Missed pings.** Hosts restart, and pings get dropped (see how retries work in the [Gumroad Ping webhook reference](gumroad-ping-webhook)). Run a nightly job that re-checks every linked sale and revokes anything inactive.
 
 ## Free check, or the full thing
 The refund-aware license check on its own is free and MIT licensed: [gumroad-license-check](https://github.com/NarwhalThePong/gumroad-license-check).

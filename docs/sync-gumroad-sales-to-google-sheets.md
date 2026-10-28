@@ -130,5 +130,6 @@ Raw rows answer "did I sell anything?" For monthly totals, fees, refunds and tax
 - [Gumroad fees in 2026, explained](gumroad-fees-explained)
 - [Gumroad 1099-K and taxes](gumroad-1099-k-taxes)
 - [Get Gumroad sale alerts in Discord, Slack or Telegram](gumroad-sale-alerts-discord-slack-telegram)
+- [Gumroad Ping (webhook) reference: fields, events, retries and verification](gumroad-ping-webhook)
 
 Not affiliated with Gumroad or Google.

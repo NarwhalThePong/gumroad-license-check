@@ -38,7 +38,7 @@ http.createServer((req, res) => {
 Deploy it anywhere that runs Node, then set Gumroad's Ping URL to `https://your-host/?secret=...`.
 
 ## Making it production-grade
-- **Dedupe** on `sale_id + event`, so resent pings don't alert twice.
+- **Dedupe** on `sale_id + event`, so resent pings don't alert twice. Every field, event and retry rule is in the [Gumroad Ping webhook reference](gumroad-ping-webhook).
 - **Separate events:** refunds, chargebacks, disputes, cancellations.
 - **Net after fees:** Gumroad keeps 10% + $0.50 plus card processing (2.9% + $0.30) on direct sales, and 30% on Discover sales. Seeing the net number changes how you price.
 - **Referrer:** `sale.referrer` tells you which post or site sold the product. That's the cheapest marketing analytics you'll get.

@@ -168,7 +168,7 @@ Sources: [GSA per diem rates](https://www.gsa.gov/travel/plan-book/per-diem-rate
 ## Tools from us
 
 - [Per Diem Travel Expense Tracker (Excel + Google Sheets)](https://payhip.com/b/ztfN3): log trips day by day at GSA FY2026 and FY2027 rates, with 75% first and last days, provided-meal deductions, lodging vs the GSA cap, and the 50% or 80% deductible meal amount from IRS Pub. 463. $9.
-- US Per Diem API: coming soon. GSA per diem rates by ZIP code or city for your own apps. Not available yet.
+- [US Per Diem API](free-tax-finance-api): free JSON API with GSA FY2026/FY2027 lodging and M&IE rates by ZIP, city or state, plus trip totals with the 75% first and last day rule. No API key. Base URL `https://us-per-diem-api.narwhalapis.workers.dev` ([OpenAPI](https://us-per-diem-api.narwhalapis.workers.dev/openapi.json)).
 
 *Disclosure: the Per Diem Travel Expense Tracker is our own paid product, and we earn the sale price if you buy it. Not affiliated with GSA or the IRS. Not tax advice.*
 
