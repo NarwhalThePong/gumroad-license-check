@@ -132,7 +132,7 @@ Hover a platform name to see the exact rate used. "Price to keep target" include
 | PayPal Checkout | 3.49% + $0.49, plus 1.50% for international payments | [PayPal merchant fees](https://www.paypal.com/us/business/paypal-business-fees) |
 | Etsy | $0.20 listing, 6.5% transaction, 3% + $0.25 payment processing (US bank account) | [Etsy fee basics](https://help.etsy.com/hc/en-us/articles/360035902374-What-are-Etsy-s-Fees), [Etsy payment processing fees](https://help.etsy.com/hc/en-us/articles/115015628847-What-are-Payment-Processing-Fees-for-Selling-on-Etsy) |
 | Payhip | Free: 5%. Plus: $29/month + 2%. Pro: $99/month, no transaction fee. Stripe or PayPal fees on top on every plan | [Payhip pricing](https://payhip.com/pricing) |
-| Ko-fi | 5% service fee, plus normal card processing fees | [Ko-fi pricing](https://ko-fi.com/gold) |
+| Ko-fi | 5% service fee, plus normal card processing fees | [Ko-fi pricing](https://ko-fi.com/gold), [Ko-fi fee calculator](ko-fi-fee-calculator) |
 | Lemon Squeezy | 5% + $0.50 | [Lemon Squeezy pricing](https://www.lemonsqueezy.com/pricing) |
 | Paddle | 5% + $0.50 | [Paddle pricing](https://www.paddle.com/pricing) |
 | Polar | Starter: 5% + $0.50. Pro: $20/month + 3.8% + $0.40. +1.5% for non-US cards | [Polar fees](https://polar.sh/docs/merchant-of-record/fees) |
