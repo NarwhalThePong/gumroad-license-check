@@ -130,6 +130,7 @@ Worked examples use US card rates. International cards cost more on every platfo
 ## Free tools for sellers
 
 - [Teachable fee calculator](teachable-fee-calculator): the 7.5% Starter fee, processing and plan cost per sale and per month.
+- [Podia fee calculator](podia-fee-calculator): the 5% Mover fee, processing and plan cost per sale and per month, and when Shaker pays off.
 - [Gumroad fee calculator](gumroad-fee-calculator): fee, payout and effective rate for direct and Discover sales.
 - [PayPal and Stripe fee calculator](paypal-stripe-fee-calculator): card and PayPal processing on any price.
 
