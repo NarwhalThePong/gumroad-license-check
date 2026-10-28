@@ -230,6 +230,7 @@ For memberships, Ko-fi's free plan takes 5% plus Stripe or PayPal fees, and Ko-f
 ## Related tools and guides
 
 - [Ko-fi fee calculator (2026)](ko-fi-fee-calculator): Ko-fi's 0% tip / 5% service fee and whether Ko-fi Gold pays off
+- [Buy Me a Coffee fee calculator (2026)](buy-me-a-coffee-fee-calculator): the flat 5% platform fee plus Stripe processing and payout fees
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip, Ko-fi, Lemon Squeezy, Paddle, Polar, Etsy, Stripe and PayPal at your price and volume
 - [Payhip fee calculator (2026)](payhip-fee-calculator) and [Lemon Squeezy fee calculator (2026)](lemon-squeezy-fee-calculator)
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator)
