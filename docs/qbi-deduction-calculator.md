@@ -211,6 +211,7 @@ Below the threshold you still get the full 20% (subject to the taxable-income ca
 
 ## Related tools and guides
 
+- [Free tax APIs for developers](free-tax-finance-api): the same QBI math as a free JSON API (`/v1/qbi`), plus self-employment and quarterly tax
 - [Self-employment tax calculator](self-employment-tax-calculator) for Social Security, Medicare, the wage base and the 0.9% Additional Medicare Tax
 - [Freelance quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator) to add income tax and get your four 2026 payments
 - [SEP IRA vs Solo 401(k) calculator](self-employed-retirement-contribution-calculator) — a bigger retirement deduction lowers taxable income and can keep you under the QBI threshold

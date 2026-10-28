@@ -171,6 +171,7 @@ Sources: [GSA per diem rates](https://www.gsa.gov/travel/plan-book/per-diem-rate
 
 ## Related tools and guides
 
+- [Free per diem API for developers](free-tax-finance-api): GSA lodging and M&IE rates and trip totals as a free JSON API
 - [Self-employed per diem meal deduction calculator](self-employed-per-diem-meal-deduction-calculator) for the IRS standard meal allowance and the 50% deduction
 - [2026 mileage deduction calculator](2026-mileage-deduction-calculator) for driving to the trip at the split-year IRS mileage rates
 - [Freelance quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator)

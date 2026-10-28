@@ -27,6 +27,7 @@ Practical, code-first guides for people who sell software, code and communities 
 - [SEP IRA vs Solo 401(k) calculator (2026)](self-employed-retirement-contribution-calculator): the most a freelancer or sole proprietor can contribute to each plan, with self-employment tax, the 20% employer limit, the $24,500 deferral, age 50+ and 60-63 catch-ups and the $72,000 cap
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): Social Security tax up to the $184,500 wage base (less any W-2 wages), 2.9% Medicare, the 0.9% Additional Medicare Tax by filing status, the deductible half and the quarterly share
 - [QBI deduction calculator (2026)](qbi-deduction-calculator): Section 199A 20% Qualified Business Income deduction for freelancers, with the Form 8995 thresholds ($201,750 / $403,500), SSTB phase-out and the W-2 wage / UBIA limit
+- [Free tax & seller fee APIs for developers (2026)](free-tax-finance-api): the calculators above as free JSON APIs (self-employment tax, quarterly estimates, QBI, mileage, home office, retirement, seller fees, GSA per diem) with curl examples, no key needed
 
 ## Guides
 
