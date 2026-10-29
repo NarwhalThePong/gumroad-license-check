@@ -148,5 +148,6 @@ No. For a sole proprietor, SEP IRA and Solo 401(k) contributions lower income ta
 - [Home office deduction calculator](home-office-deduction-calculator) to compare the simplified and regular home office methods
 - [2026 mileage deduction calculator](2026-mileage-deduction-calculator) for car expenses at the split-year IRS rates
 - [Freelance hourly rate calculator](freelance-hourly-rate-calculator) to price your work with tax built in
+- [Fiverr fee calculator (2026)](fiverr-fee-calculator) for the 20% Fiverr takes from each order before this tax applies
 
 *Disclosure: the calculators on this site are our own. We don't earn anything from the links in this list, and none are affiliate links.* More guides: [Gumroad developer guides](./).
