@@ -165,6 +165,7 @@ Divide the amount you want by what each ticket leaves you, adding the Plus subsc
 ## Related tools and guides
 
 - [Eventbrite fee calculator (2026)](eventbrite-fee-calculator): 3.7% + $1.79 per paid ticket plus 2.9% processing, whether you absorb the fees or pass them on
+- [Humanitix fee calculator (2026)](humanitix-fee-calculator): a 5% + $1.29 booking fee per paid ticket with card processing included, passed on to buyers by default
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): what card payments cost on PayPal and Stripe
 - [Square fee calculator (2026)](square-fee-calculator): what card payments cost on Square, online and in person
 
