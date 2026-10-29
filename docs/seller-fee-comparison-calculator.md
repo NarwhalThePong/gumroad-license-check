@@ -167,6 +167,7 @@ What the table leaves out: sales tax and VAT (Gumroad, Lemon Squeezy, Paddle, Po
 - [Venmo fee calculator (2026)](venmo-fee-calculator): Venmo's 2.99% goods-and-services fee or 1.9% + $0.10 on a business profile, plus Instant Transfer costs
 - [Cash App for Business fee calculator (2026)](cash-app-fee-calculator): Cash App's 2.6% + $0.15 per business payment or 3% with Tap to Pay, plus Instant transfer costs
 - [Square fee calculator (2026)](square-fee-calculator): Square's 2.6% + 15¢ in person or 3.3% + 30¢ online on Square Free, what Plus and Premium save, plus Instant transfer costs
+- [Shopify fee calculator (2026)](shopify-fee-calculator): Shopify Payments' 2.9% + 30¢ online or 2.6% + 10¢ in person on Basic, what Grow and Advanced save, and the 2% fee for third-party providers
 - [Gumroad fee calculator](gumroad-fee-calculator), [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator) and [Etsy fee & profit calculator](etsy-fee-calculator) for one platform in detail
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite)

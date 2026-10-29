@@ -168,4 +168,6 @@ Getting paid on Cash App? The free [Cash App for Business fee calculator (2026)]
 
 Taking card payments with Square? The free [Square fee calculator (2026)](square-fee-calculator) works out Square's in-person, online, invoice and keyed-in fees on Square Free, Plus and Premium, plus Instant transfer costs.
 
+Selling on a Shopify store? The free [Shopify fee calculator (2026)](shopify-fee-calculator) works out Shopify Payments' online, premium-card and in-person fees on Basic, Grow and Advanced, plus the extra fee for third-party payment providers.
+
 More tools and guides: [all guides and free tools](./). Not affiliated with PayPal or Stripe. Not tax or financial advice.

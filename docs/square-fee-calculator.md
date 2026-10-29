@@ -225,6 +225,7 @@ Add the fixed fee to what you want to keep, divide by one minus the rate, and ro
 ## Related tools and guides
 
 - [Cash App for Business fee calculator (2026)](cash-app-fee-calculator): Cash App's 2.6% + $0.15 business payment fee and 3% Tap to Pay fee, plus Instant transfer costs
+- [Shopify fee calculator (2026)](shopify-fee-calculator): Shopify Payments card fees on Basic, Grow and Advanced, from 2.6% + 10¢ in person to 3.5% + 30¢ for premium cards online
 - [Venmo fee calculator (2026)](venmo-fee-calculator): Venmo's 2.99% goods-and-services fee against its business profile's 1.9% + $0.10
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): PayPal's own goods-and-services and checkout fees, next to Stripe's card fees
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip, Ko-fi, Lemon Squeezy, Etsy and more side by side
