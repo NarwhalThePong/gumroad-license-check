@@ -173,6 +173,7 @@ Divide the amount you want by what each ticket leaves you and round up. At $25 a
 - [Luma fee calculator (2026)](luma-fee-calculator): a 5% platform fee on paid tickets plus Stripe's 2.9% + $0.30, or 0% on Luma Plus
 - [Eventbrite fee calculator (2026)](eventbrite-fee-calculator): 3.7% + $1.79 per paid ticket plus 2.9% processing, whether you absorb the fees or pass them on
 - [Donorbox fee calculator (2026)](donorbox-fee-calculator): platform and processing fees on donations for US nonprofits
+- [Tito fee calculator (2026)](tito-fee-calculator): 3% per paid ticket plus Stripe's 2.9% + $0.30 per order, always absorbed by the organizer
 
 **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `STRIPEFEE`, `PAYPALFEE` and `GUMROADFEE`, plus `BREAKEVENPRICE`, which finds the price you need for a target profit under any percentage-plus-fixed fee. Every rate is an optional argument, and they work on a whole column at once.
 
