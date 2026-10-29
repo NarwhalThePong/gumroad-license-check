@@ -174,6 +174,7 @@ For $12.04 or less, add $2.95 to what you want to keep. For more, divide what yo
 - [Mercari fee calculator (2026)](mercari-fee-calculator): Mercari's flat 10% selling fee on the item price and buyer-paid shipping, and free versus buyer-paid shipping
 - [Grailed fee calculator (2026)](grailed-fee-calculator): Grailed's 6% or 9% seller commission plus 3.49% + $0.49 processing, and the $120 price line
 - [eBay fee calculator (2026)](ebay-fee-calculator): eBay's 13.6% final value fee for most categories plus $0.30 or $0.40 per order, charged on shipping and sales tax too
+- [Whatnot fee calculator (2026)](whatnot-fee-calculator): Whatnot's 8% commission on the item price only plus 2.9% + $0.30 processing, with lower rates as your sales grow
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): the 15.3% tax on what you keep from your sales
 
 **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `STRIPEFEE`, `PAYPALFEE` and `GUMROADFEE`, plus `BREAKEVENPRICE`, which finds the price you need for a target profit under any percentage-plus-fixed fee. Every rate is an optional argument, and they work on a whole column at once.
