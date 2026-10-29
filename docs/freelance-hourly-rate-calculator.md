@@ -154,6 +154,8 @@ A salary hides costs an employer pays for you, such as paid time off, equipment,
 Once you're sending invoices, the free [invoice late fee & payment terms calculator](invoice-late-fee-calculator) works out due dates, late fees and early-payment discounts like 2/10 Net 30. To see how much of each payment to put aside for tax and what to send the IRS each quarter, use the free [quarterly estimated tax calculator for freelancers](freelance-quarterly-estimated-tax-calculator). For just the 15.3% Social Security and Medicare part, see the [self-employment tax calculator (2026)](self-employment-tax-calculator).
 Selling services on a marketplace instead? The free [Fiverr fee calculator (2026)](fiverr-fee-calculator) shows Fiverr's flat 20% cut, the withdrawal fee by payout method, and the price to charge to keep a set amount.
 
+Freelancing on Upwork? The free [Upwork fee calculator (2026)](upwork-fee-calculator) shows the 0% to 15% service fee on your contract, Connects and withdrawal costs, and the rate to bill to keep a set amount.
+
 To send and track those invoices, compare [freelance invoicing software: FreshBooks vs Bonsai vs HoneyBook vs Wave (2026)](freelance-invoicing-software-freshbooks-bonsai-honeybook-wave).
 
 Traveling for work? The free [self-employed per diem meal deduction calculator (2026)](self-employed-per-diem-meal-deduction-calculator) finds the IRS standard meal allowance for any US city and your travel dates, and the 50% you can deduct.

@@ -165,6 +165,7 @@ Because the fee is a flat 20%, divide your target by 0.8. To earn $80 after Five
 ## Related tools and guides
 
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): what you keep on each platform, sorted by net
+- [Upwork fee calculator (2026)](upwork-fee-calculator): Upwork's 0% to 15% service fee, Connects and withdrawal fees, for comparing the two marketplaces
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): the 15.3% Social Security and Medicare tax on your Fiverr earnings
 - [Freelance hourly rate calculator (2026)](freelance-hourly-rate-calculator): the rate to charge once tax and time off are built in
 - [Freelance quarterly estimated tax calculator (2026)](freelance-quarterly-estimated-tax-calculator) and [what to include on a freelance invoice](what-to-include-on-a-freelance-invoice)
