@@ -170,6 +170,7 @@ Ko-fi takes 0% on one-off tips on its free plan and 5% on memberships and shop s
 
 - [Ko-fi fee calculator (2026)](ko-fi-fee-calculator): Ko-fi's 0% tip / 5% service fee and whether Ko-fi Gold pays off
 - [Patreon fee calculator (2026)](patreon-fee-calculator): the 10% standard plan, legacy plans, processing and payout fees
+- [Kickstarter fee calculator (2026)](kickstarter-fee-calculator): Kickstarter's 5% fee plus 3% + $0.30 per pledge processing (5% + $0.08 under $10), charged only if the project is funded
 - [Substack fee calculator (2026)](substack-fee-calculator): Substack's 10% fee, Stripe card and 0.7% Billing fees on monthly and annual plans
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip, Ko-fi, Lemon Squeezy, Paddle, Polar, Etsy, Stripe and PayPal at your price and volume
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator)
