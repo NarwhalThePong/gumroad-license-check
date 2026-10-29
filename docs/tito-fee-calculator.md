@@ -177,6 +177,7 @@ Divide the amount you want by what each order leaves you and round up. At $25 a 
 - [Humanitix fee calculator (2026)](humanitix-fee-calculator): a 5% + $1.29 booking fee per paid ticket with card processing included, passed on to buyers by default
 - [Luma fee calculator (2026)](luma-fee-calculator): a 5% platform fee on paid tickets plus Stripe's 2.9% + $0.30, or 0% on Luma Plus
 - [Eventbrite fee calculator (2026)](eventbrite-fee-calculator): 3.7% + $1.79 per paid ticket plus 2.9% processing, whether you absorb the fees or pass them on
+- [Airbnb host fee calculator (2026)](airbnb-host-fee-calculator): the 15.5% single fee taken from your payout vs the 3% split fee plus the guest's 14.1% to 16.5%, on nightly price and cleaning fees
 
 **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `STRIPEFEE`, `PAYPALFEE` and `GUMROADFEE`, plus `BREAKEVENPRICE`, which finds the price you need for a target profit under any percentage-plus-fixed fee. Every rate is an optional argument, and they work on a whole column at once.
 
