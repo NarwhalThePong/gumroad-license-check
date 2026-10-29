@@ -146,6 +146,7 @@ Divide the amount you want to keep by what each donation leaves after fees, whic
 ## Related tools and guides
 
 - [Indiegogo fee calculator (2026)](indiegogo-fee-calculator): Indiegogo's 5% platform fee plus 3% + $0.20 per payment, with no fees if the goal isn't reached
+- [Givebutter fee calculator (2026)](givebutter-fee-calculator): free with donor tips on, or a 3% platform fee plus 2.9% + $0.30 per card donation with tips off
 - [Kickstarter fee calculator (2026)](kickstarter-fee-calculator): Kickstarter's 5% fee plus 3% + $0.30 per pledge, charged only if the project is funded
 - [Buy Me a Coffee fee calculator (2026)](buy-me-a-coffee-fee-calculator): the flat 5% platform fee plus Stripe processing for tips and memberships
 - [Ko-fi fee calculator (2026)](ko-fi-fee-calculator): Ko-fi's 0% tip / 5% service fee and whether Ko-fi Gold pays off
