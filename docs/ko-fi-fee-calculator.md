@@ -195,6 +195,7 @@ Often, for tips and low-fee shop sales, because Ko-fi's service fee is 0–5% wi
 
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Ko-fi next to Gumroad, Payhip, Lemon Squeezy, Paddle, Polar, Etsy, Stripe and PayPal at your price and volume
 - [Buy Me a Coffee fee calculator (2026)](buy-me-a-coffee-fee-calculator): Buy Me a Coffee's flat 5% plus Stripe fees, to compare with Ko-fi
+- [Bandcamp fee calculator (2026)](bandcamp-fee-calculator): Bandcamp's 15% or 10% revenue share and processing fees, for musicians comparing it with a Ko-fi shop
 - [Payhip fee calculator (2026)](payhip-fee-calculator) and [Lemon Squeezy fee calculator (2026)](lemon-squeezy-fee-calculator)
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): the processing fee that comes off every Ko-fi sale
 - [When do you get paid? Payout timing on Gumroad, Payhip, Etsy, Lemon Squeezy and Sellfy](when-do-you-get-paid-gumroad-payhip-etsy-lemon-squeezy-sellfy)

@@ -158,4 +158,6 @@ Not quite. Adding 2.9% to $100 gives $102.90, but the fee is charged on $102.90,
 
 Selling on a platform instead? Compare them all in the [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator).
 
+Selling music? The free [Bandcamp fee calculator (2026)](bandcamp-fee-calculator) adds Bandcamp's 15% or 10% revenue share on top of the Stripe or PayPal processing fee.
+
 More tools and guides: [all guides and free tools](./). Not affiliated with PayPal or Stripe. Not tax or financial advice.
