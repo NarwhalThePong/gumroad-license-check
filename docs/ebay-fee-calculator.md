@@ -215,6 +215,7 @@ In most categories with no shipping or tax, add $0.40 to what you want to keep a
 - [Reverb fee calculator (2026)](reverb-fee-calculator): Reverb's 5% selling fee on item and shipping ($0.50 minimum, $500 maximum) plus 3.19% + $0.49 processing for music gear sellers
 - [Discogs fee calculator (2026)](discogs-fee-calculator): Discogs' 9% selling fee on item and shipping ($0.10 minimum, $150 maximum per item) plus PayPal's 3.49% + $0.49 on the whole payment, for record sellers
 - [StockX fee calculator (2026)](stockx-fee-calculator): StockX's 9% to 7% transaction fee by Seller Level ($5 minimum) plus 3% processing and $5 seller shipping, for sneaker and streetwear sellers
+- [TCGplayer fee calculator (2026)](tcgplayer-fee-calculator): TCGplayer's 10.75% commission on the card and shipping (capped at $75 per card) plus the 2.5% + $0.30 transaction fee on the order total with tax, for trading card sellers
 - [Depop fee calculator (2026)](depop-fee-calculator): Depop's 3.3% + $0.45 processing fee with no selling fee for US sellers
 - [Etsy fee calculator (2026)](etsy-fee-calculator): Etsy's listing, transaction and payment processing fees on each sale
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): the 15.3% tax on what you keep from your sales
