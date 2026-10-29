@@ -157,6 +157,7 @@ Divide the amount you want to keep by what each pledge leaves after fees, which 
 ## Related tools and guides
 
 - [Kickstarter fee calculator (2026)](kickstarter-fee-calculator): Kickstarter's 5% fee plus 3% + $0.30 per pledge, charged only if the project is funded
+- [GoFundMe fee calculator (2026)](gofundme-fee-calculator): no platform fee, just 2.9% + $0.30 per donation (2.2% + $0.30 for certified charities)
 - [Patreon fee calculator (2026)](patreon-fee-calculator): Patreon's platform fee plus processing on ongoing memberships
 - [Seller fee comparison calculator](seller-fee-comparison-calculator): compare what you keep across marketplaces and payment processors
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): the 15.3% tax on what you keep from your campaign

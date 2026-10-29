@@ -159,6 +159,7 @@ Divide the amount you want to keep by what each pledge leaves after fees, which 
 
 - [Patreon fee calculator (2026)](patreon-fee-calculator): Patreon's platform fee plus processing on ongoing memberships
 - [Indiegogo fee calculator (2026)](indiegogo-fee-calculator): Indiegogo's 5% platform fee plus 3% + $0.20 per payment processing, with no fees if the goal isn't reached
+- [GoFundMe fee calculator (2026)](gofundme-fee-calculator): no platform fee, just 2.9% + $0.30 per donation (2.2% + $0.30 for certified charities)
 - [Buy Me a Coffee fee calculator (2026)](buy-me-a-coffee-fee-calculator): the flat 5% platform fee plus Stripe processing on support and memberships
 - [Seller fee comparison calculator](seller-fee-comparison-calculator): compare what you keep across marketplaces and payment processors
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): the 15.3% tax on what you keep from your campaign
