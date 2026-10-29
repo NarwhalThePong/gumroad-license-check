@@ -193,6 +193,7 @@ Under the $120 line, divide what you want to keep plus $0.49 by about 0.9051. Fo
 
 - [Mercari fee calculator (2026)](mercari-fee-calculator): Mercari's flat 10% selling fee on the item price and buyer-paid shipping, and free versus buyer-paid shipping
 - [eBay fee calculator (2026)](ebay-fee-calculator): eBay's 13.6% final value fee for most categories plus $0.30 or $0.40 per order, charged on shipping and sales tax too
+- [StockX fee calculator (2026)](stockx-fee-calculator): StockX's 9% to 7% transaction fee by Seller Level ($5 minimum) plus 3% processing and $5 seller shipping, for sneaker and streetwear sellers
 - [Poshmark fee calculator (2026)](poshmark-fee-calculator): Poshmark's flat $2.95 fee under $15 or 20% from $15, and the $15 price cliff
 - [Depop fee calculator (2026)](depop-fee-calculator): Depop's 3.3% + $0.45 processing fee with no selling fee for US sellers, plus 12% on boosted sales
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip, Ko-fi, Lemon Squeezy, Etsy and more side by side
