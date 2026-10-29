@@ -160,4 +160,6 @@ Selling on a platform instead? Compare them all in the [Seller fee comparison ca
 
 Selling music? The free [Bandcamp fee calculator (2026)](bandcamp-fee-calculator) adds Bandcamp's 15% or 10% revenue share on top of the Stripe or PayPal processing fee.
 
+Selling games or assets? The free [itch.io fee calculator (2026)](itch-io-fee-calculator) adds itch.io's open revenue share (default 10%) on top of the $0.30 + 2.9% PayPal or Stripe fee.
+
 More tools and guides: [all guides and free tools](./). Not affiliated with PayPal or Stripe. Not tax or financial advice.
