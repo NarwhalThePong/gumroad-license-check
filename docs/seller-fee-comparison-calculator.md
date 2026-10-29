@@ -169,6 +169,7 @@ What the table leaves out: sales tax and VAT (Gumroad, Lemon Squeezy, Paddle, Po
 - [Square fee calculator (2026)](square-fee-calculator): Square's 2.6% + 15¢ in person or 3.3% + 30¢ online on Square Free, what Plus and Premium save, plus Instant transfer costs
 - [Shopify fee calculator (2026)](shopify-fee-calculator): Shopify Payments' 2.9% + 30¢ online or 2.6% + 10¢ in person on Basic, what Grow and Advanced save, and the 2% fee for third-party providers
 - [Poshmark fee calculator (2026)](poshmark-fee-calculator): Poshmark's flat $2.95 under $15 or 20% from $15 for reselling clothes and accessories, and the $15 price cliff
+- [Depop fee calculator (2026)](depop-fee-calculator): Depop's 3.3% + $0.45 processing fee with no selling fee for US sellers, and the 12% fee on boosted sales
 - [Gumroad fee calculator](gumroad-fee-calculator), [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator) and [Etsy fee & profit calculator](etsy-fee-calculator) for one platform in detail
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite)

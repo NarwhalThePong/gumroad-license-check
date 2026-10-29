@@ -184,3 +184,5 @@ Thinking of selling elsewhere too? See Etsy next to Gumroad, Payhip and others i
 Also selling through PayPal or Stripe? Try the [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator). More tools and guides: [all guides and free tools](./). Not affiliated with Etsy. Not tax advice.
 
 Reselling secondhand clothes too? The free [Poshmark fee calculator (2026)](poshmark-fee-calculator) shows what you keep after Poshmark's flat $2.95 fee under $15 or 20% from $15.
+
+Selling on Depop as well? The free [Depop fee calculator (2026)](depop-fee-calculator) shows what you keep after Depop's 3.3% + $0.45 processing fee and the 12% fee on boosted sales.
