@@ -211,6 +211,7 @@ Stan's $29 Creator plan costs less than Kajabi's cheapest plan and has no transa
 - [Kajabi fee calculator (2026)](kajabi-fee-calculator): no transaction fee, but $179 to $499 plans and 2.7% to 2.9% + 30¢ card rates
 - [Podia fee calculator (2026)](podia-fee-calculator): the 5% Mover fee vs Shaker and Earthquaker
 - [Whop fee calculator (2026)](whop-fee-calculator): the 2.7% + 30¢ card fee and the 3% app fee
+- [Skool fee calculator (2026)](skool-fee-calculator): Hobby $9 + 10% vs Pro $99 + 2.9% for paid communities
 - [Thinkific fee calculator (2026)](thinkific-fee-calculator): no transaction fee with Thinkific Payments, $109 to $499 plans, and a 2% to 0.5% fee for your own Stripe
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): what you keep on each platform, sorted by net
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator)

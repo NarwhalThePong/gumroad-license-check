@@ -185,6 +185,7 @@ Often yes for a plain card sale, since 2.7% + 30¢ is below Gumroad's 10% + 50¢
 - [Lemon Squeezy fee calculator (2026)](lemon-squeezy-fee-calculator): the 5% + 50¢ fee with its surcharges and payout fees
 - [Patreon fee calculator (2026)](patreon-fee-calculator) and [Ko-fi fee calculator (2026)](ko-fi-fee-calculator) for memberships
 - [Stan Store fee calculator (2026)](stan-store-fee-calculator): 0% transaction fee, $29 Creator or $99 Creator Pro, plus Stripe or PayPal fees
+- [Skool fee calculator (2026)](skool-fee-calculator): Hobby $9 + 10% vs Pro $99 + 2.9% for paid communities
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator)
 
 **Doing this math in a spreadsheet?** [Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR) ($9) adds custom functions such as `STRIPEFEE`, `PAYPALFEE` and `GUMROADFEE`, plus `BREAKEVENPRICE`, which finds the price you need for a target profit under any percentage-plus-fixed fee, such as Whop's 5.7% + 30¢ on a Discord sale. Every rate is an optional argument, and they work on a whole column at once.
