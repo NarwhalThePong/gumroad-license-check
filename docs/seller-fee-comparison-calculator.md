@@ -164,6 +164,7 @@ What the table leaves out: sales tax and VAT (Gumroad, Lemon Squeezy, Paddle, Po
 - [Sellfy fee calculator (2026)](sellfy-fee-calculator): Sellfy's 0% fee with flat plan prices and yearly sales caps, and the plan cost per sale at your volume
 - [Whop fee calculator (2026)](whop-fee-calculator): Whop's 2.7% + 30¢ processing plus the 3% Discord app fee, add-ons and payout fees
 - [itch.io fee calculator (2026)](itch-io-fee-calculator): itch.io's pick-your-own 0% to 100% revenue share (default 10%) plus $0.30 + 2.9% processing, for games and assets
+- [Venmo fee calculator (2026)](venmo-fee-calculator): Venmo's 2.99% goods-and-services fee or 1.9% + $0.10 on a business profile, plus Instant Transfer costs
 - [Gumroad fee calculator](gumroad-fee-calculator), [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator) and [Etsy fee & profit calculator](etsy-fee-calculator) for one platform in detail
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite)

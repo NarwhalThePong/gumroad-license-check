@@ -162,4 +162,6 @@ Selling music? The free [Bandcamp fee calculator (2026)](bandcamp-fee-calculator
 
 Selling games or assets? The free [itch.io fee calculator (2026)](itch-io-fee-calculator) adds itch.io's open revenue share (default 10%) on top of the $0.30 + 2.9% PayPal or Stripe fee.
 
+Getting paid on Venmo? The free [Venmo fee calculator (2026)](venmo-fee-calculator) compares the 2.99% goods-and-services fee with the business profile's 1.9% + $0.10 and adds Instant Transfer's 1.75%.
+
 More tools and guides: [all guides and free tools](./). Not affiliated with PayPal or Stripe. Not tax or financial advice.
