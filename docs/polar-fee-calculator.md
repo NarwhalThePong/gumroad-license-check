@@ -205,6 +205,7 @@ Polar's Starter fee of 5% + 50¢ is the same as Lemon Squeezy's base fee, and bo
 ## Related tools and guides
 
 - [Gumroad vs Lemon Squeezy vs Polar vs Paddle fees](gumroad-vs-lemon-squeezy-polar-paddle-fees): merchant-of-record fees side by side
+- [Paddle fee calculator (2026)](paddle-fee-calculator): Paddle's flat 5% + 50¢ with no monthly plans
 - [Lemon Squeezy fee calculator (2026)](lemon-squeezy-fee-calculator): 5% + 50¢ and its add-ons
 - [Gumroad fee calculator (2026)](gumroad-fee-calculator)
 - [Whop fee calculator (2026)](whop-fee-calculator): the 2.7% + 30¢ card fee and the 3% app fee

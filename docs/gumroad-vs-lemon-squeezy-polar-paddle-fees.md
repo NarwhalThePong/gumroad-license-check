@@ -60,6 +60,7 @@ If you stay on Gumroad and want the rest built for you:
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): all of these platforms at your own price and sales volume
 - [Lemon Squeezy fee calculator (2026)](lemon-squeezy-fee-calculator): Lemon Squeezy's surcharges (+1.5% international, +1.5% PayPal, +0.5% subscriptions), fees on VAT and payout fees
 - [Polar fee calculator (2026)](polar-fee-calculator): Polar's Starter, Pro, Growth and Scale rates, payout fees and when a paid plan pays off
+- [Paddle fee calculator (2026)](paddle-fee-calculator): Paddle's 5% + 50¢ on your own price, tax and sales, with payout costs
 - [Gumroad fees in 2026, explained](gumroad-fees-explained)
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Gumroad 1099-K and taxes](gumroad-1099-k-taxes)
