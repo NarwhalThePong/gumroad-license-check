@@ -159,6 +159,7 @@ Divide what you want to keep by 1 minus the percentage, after adding any fixed f
 
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): PayPal's own goods-and-services and checkout fees, next to Stripe's card fees
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip, Ko-fi, Lemon Squeezy, Etsy and more side by side
+- [Cash App for Business fee calculator (2026)](cash-app-fee-calculator): Cash App's 2.6% + $0.15 business payment fee and 3% Tap to Pay fee, side by side with Instant transfer costs
 - [Freelance hourly rate calculator](freelance-hourly-rate-calculator): set a rate that covers fees, taxes and time off
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): the 15.3% tax on what you keep from Venmo sales
 - [Gumroad 1099-K taxes](gumroad-1099-k-taxes): how payment platforms report your sales to the IRS

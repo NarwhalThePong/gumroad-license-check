@@ -164,4 +164,6 @@ Selling games or assets? The free [itch.io fee calculator (2026)](itch-io-fee-ca
 
 Getting paid on Venmo? The free [Venmo fee calculator (2026)](venmo-fee-calculator) compares the 2.99% goods-and-services fee with the business profile's 1.9% + $0.10 and adds Instant Transfer's 1.75%.
 
+Getting paid on Cash App? The free [Cash App for Business fee calculator (2026)](cash-app-fee-calculator) works out the 2.6% + $0.15 business payment fee, the 3% Tap to Pay fee and Instant transfer costs.
+
 More tools and guides: [all guides and free tools](./). Not affiliated with PayPal or Stripe. Not tax or financial advice.
