@@ -163,6 +163,7 @@ Divide the amount you want by what each ticket leaves you, then round up. Absorb
 ## Related tools and guides
 
 - [Donorbox fee calculator (2026)](donorbox-fee-calculator): a 2.95% platform fee on the free Standard plan or 1.75% on Pro, plus Stripe or PayPal processing
+- [Luma fee calculator (2026)](luma-fee-calculator): a 5% platform fee on paid tickets plus Stripe's 2.9% + $0.30, or 0% on Luma Plus
 - [Square fee calculator (2026)](square-fee-calculator): what card payments cost on Square, online and in person
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): what card payments cost on PayPal and Stripe
 
