@@ -233,6 +233,7 @@ For memberships, Ko-fi's free plan takes 5% plus Stripe or PayPal fees, and Ko-f
 - [Bandcamp fee calculator (2026)](bandcamp-fee-calculator): Bandcamp's 15% digital / 10% merch share plus processing, for musicians selling music next to a Patreon
 - [Buy Me a Coffee fee calculator (2026)](buy-me-a-coffee-fee-calculator): the flat 5% platform fee plus Stripe processing and payout fees
 - [Kickstarter fee calculator (2026)](kickstarter-fee-calculator): Kickstarter's 5% fee plus 3% + $0.30 per pledge processing (5% + $0.08 under $10), charged only if the project is funded
+- [Indiegogo fee calculator (2026)](indiegogo-fee-calculator): Indiegogo's 5% platform fee plus 3% + $0.20 per payment processing, with no fees if the goal isn't reached
 - [Substack fee calculator (2026)](substack-fee-calculator): Substack's 10% fee, Stripe card and 0.7% Billing fees on monthly and annual plans
 - [Memberful fee calculator (2026)](memberful-fee-calculator): $49 a month + 4.9% on your own site, and the revenue where it beats a 10% fee
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip, Ko-fi, Lemon Squeezy, Paddle, Polar, Etsy, Stripe and PayPal at your price and volume
