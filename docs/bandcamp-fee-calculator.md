@@ -190,6 +190,7 @@ Use the calculator's price-to-keep box. As a rule of thumb for digital sales ove
 - [Patreon fee calculator (2026)](patreon-fee-calculator): Patreon's platform and processing fees, for fan memberships next to Bandcamp sales
 - [Ko-fi fee calculator (2026)](ko-fi-fee-calculator): Ko-fi's 0% tip / 5% service fee on shop sales and memberships
 - [itch.io fee calculator (2026)](itch-io-fee-calculator): itch.io's open revenue share and processing fees, for soundtracks and games sold next to Bandcamp
+- [Discogs fee calculator (2026)](discogs-fee-calculator): Discogs' 9% selling fee on item and shipping ($0.10 minimum, $150 maximum per item) plus PayPal's 3.49% + $0.49 on the whole payment, for record sellers
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): the card and PayPal fees behind every Bandcamp sale
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip, Ko-fi, Lemon Squeezy, Etsy and more side by side
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): the 15.3% tax on what you keep from music sales

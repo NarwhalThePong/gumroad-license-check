@@ -176,6 +176,7 @@ With no shipping or tax, add $0.49 to what you want to keep and divide by 0.9181
 - [eBay fee calculator (2026)](ebay-fee-calculator): eBay's 13.6% final value fee for most categories plus $0.30 or $0.40 per order, charged on shipping and sales tax too
 - [Mercari fee calculator (2026)](mercari-fee-calculator): Mercari's flat 10% selling fee on the item price and buyer-paid shipping
 - [Whatnot fee calculator (2026)](whatnot-fee-calculator): Whatnot's 8% commission on the item price only plus 2.9% + $0.30 processing, with lower rates as your sales grow
+- [Discogs fee calculator (2026)](discogs-fee-calculator): Discogs' 9% selling fee on item and shipping ($0.10 minimum, $150 maximum per item) plus PayPal's 3.49% + $0.49 on the whole payment, for record sellers
 - [Seller fee comparison calculator](seller-fee-comparison-calculator): compare what you keep across marketplaces and payment processors
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): the 15.3% tax on what you keep from your sales
 

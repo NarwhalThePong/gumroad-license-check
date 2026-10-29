@@ -213,6 +213,7 @@ In most categories with no shipping or tax, add $0.40 to what you want to keep a
 - [Grailed fee calculator (2026)](grailed-fee-calculator): Grailed's 6% or 9% seller commission plus 3.49% + $0.49 processing, and the $120 price line
 - [Whatnot fee calculator (2026)](whatnot-fee-calculator): Whatnot's 8% commission on the item price only plus 2.9% + $0.30 processing, with lower rates as your sales grow
 - [Reverb fee calculator (2026)](reverb-fee-calculator): Reverb's 5% selling fee on item and shipping ($0.50 minimum, $500 maximum) plus 3.19% + $0.49 processing for music gear sellers
+- [Discogs fee calculator (2026)](discogs-fee-calculator): Discogs' 9% selling fee on item and shipping ($0.10 minimum, $150 maximum per item) plus PayPal's 3.49% + $0.49 on the whole payment, for record sellers
 - [Depop fee calculator (2026)](depop-fee-calculator): Depop's 3.3% + $0.45 processing fee with no selling fee for US sellers
 - [Etsy fee calculator (2026)](etsy-fee-calculator): Etsy's listing, transaction and payment processing fees on each sale
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): the 15.3% tax on what you keep from your sales
