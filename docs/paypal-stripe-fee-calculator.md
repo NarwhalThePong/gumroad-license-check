@@ -170,4 +170,6 @@ Taking card payments with Square? The free [Square fee calculator (2026)](square
 
 Selling on a Shopify store? The free [Shopify fee calculator (2026)](shopify-fee-calculator) works out Shopify Payments' online, premium-card and in-person fees on Basic, Grow and Advanced, plus the extra fee for third-party payment providers.
 
+Reselling clothes on Poshmark? The free [Poshmark fee calculator (2026)](poshmark-fee-calculator) works out the flat $2.95 fee under $15 or 20% from $15, what you keep and the price to list at for a set take-home.
+
 More tools and guides: [all guides and free tools](./). Not affiliated with PayPal or Stripe. Not tax or financial advice.

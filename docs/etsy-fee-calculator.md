@@ -182,3 +182,5 @@ If many of your orders come from Offsite Ads, price for the worst case: switch t
 Thinking of selling elsewhere too? See Etsy next to Gumroad, Payhip and others in the [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator).
 
 Also selling through PayPal or Stripe? Try the [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator). More tools and guides: [all guides and free tools](./). Not affiliated with Etsy. Not tax advice.
+
+Reselling secondhand clothes too? The free [Poshmark fee calculator (2026)](poshmark-fee-calculator) shows what you keep after Poshmark's flat $2.95 fee under $15 or 20% from $15.
