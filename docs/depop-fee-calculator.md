@@ -182,6 +182,7 @@ Without boosting, shipping or tax, add $0.45 to what you want to keep and divide
 ## Related tools and guides
 
 - [Poshmark fee calculator (2026)](poshmark-fee-calculator): Poshmark's flat $2.95 fee under $15 or 20% from $15, and the $15 price cliff
+- [Mercari fee calculator (2026)](mercari-fee-calculator): Mercari's flat 10% selling fee on the item price and buyer-paid shipping, and free versus buyer-paid shipping
 - [Etsy fee calculator (2026)](etsy-fee-calculator): Etsy's listing, transaction and payment processing fees on each sale, your profit and margin
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip, Ko-fi, Lemon Squeezy, Etsy and more side by side
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): PayPal's goods-and-services and checkout fees next to Stripe's card fees, for selling outside a marketplace
