@@ -174,6 +174,7 @@ What the table leaves out: sales tax and VAT (Gumroad, Lemon Squeezy, Paddle, Po
 - [Grailed fee calculator (2026)](grailed-fee-calculator): Grailed's 6% (at least $1.99) or 9% seller commission plus 3.49% + $0.49 payment processing, and the $120 price line
 - [eBay fee calculator (2026)](ebay-fee-calculator): eBay's final value fee (13.6% for most categories plus $0.30 or $0.40 per order) on item, shipping and sales tax, by category
 - [Whatnot fee calculator (2026)](whatnot-fee-calculator): Whatnot's 8% commission on the item price only (lower at higher sales tiers, 4% for coins) plus 2.9% + $0.30 processing
+- [Reverb fee calculator (2026)](reverb-fee-calculator): Reverb's 5% selling fee on item and shipping ($0.50 minimum, $500 maximum) plus 3.19% + $0.49 processing for music gear sellers
 - [Gumroad fee calculator](gumroad-fee-calculator), [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator) and [Etsy fee & profit calculator](etsy-fee-calculator) for one platform in detail
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite)
