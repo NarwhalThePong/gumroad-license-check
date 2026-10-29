@@ -154,6 +154,7 @@ Divide the amount you want to keep by what each donation leaves after fees, whic
 ## Related tools and guides
 
 - [GoFundMe fee calculator (2026)](gofundme-fee-calculator): no platform fee, just 2.9% + $0.30 per donation (2.2% + $0.30 for certified charities)
+- [Donorbox fee calculator (2026)](donorbox-fee-calculator): a 2.95% platform fee on the free Standard plan or 1.75% on Pro, plus Stripe or PayPal processing
 - [Indiegogo fee calculator (2026)](indiegogo-fee-calculator): Indiegogo's 5% platform fee plus 3% + $0.20 per payment, with no fees if the goal isn't reached
 - [Kickstarter fee calculator (2026)](kickstarter-fee-calculator): Kickstarter's 5% fee plus 3% + $0.30 per pledge, charged only if the project is funded
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): what card payments cost on PayPal and Stripe
