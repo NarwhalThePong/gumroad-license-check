@@ -179,6 +179,7 @@ What the table leaves out: sales tax and VAT (Gumroad, Lemon Squeezy, Paddle, Po
 - [StockX fee calculator (2026)](stockx-fee-calculator): StockX's 9% to 7% transaction fee by Seller Level ($5 minimum) plus 3% processing and $5 seller shipping, for sneaker and streetwear sellers
 - [GOAT fee calculator (2026)](goat-fee-calculator): GOAT's 9.5% commission at a seller rating of 90 or above plus the $5 prepaid-shipping seller fee ($0 drop-off) and 2.9% cash out fee, for sneaker and streetwear sellers
 - [TCGplayer fee calculator (2026)](tcgplayer-fee-calculator): TCGplayer's 10.75% commission on the card and shipping (capped at $75 per card) plus the 2.5% + $0.30 transaction fee on the order total with tax, for trading card sellers
+- [Facebook Marketplace fee calculator (2026)](facebook-marketplace-fee-calculator): Facebook Marketplace's 10% selling fee ($0.80 minimum) on shipped orders, charged on the item, shipping and sales tax, with local pickup free
 - [Gumroad fee calculator](gumroad-fee-calculator), [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator) and [Etsy fee & profit calculator](etsy-fee-calculator) for one platform in detail
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite)
