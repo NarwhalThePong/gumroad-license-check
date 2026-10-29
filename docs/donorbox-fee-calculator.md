@@ -162,6 +162,7 @@ Divide the amount you want to keep by what each donation leaves after fees, whic
 ## Related tools and guides
 
 - [Givebutter fee calculator (2026)](givebutter-fee-calculator): free with donor tips on, or a 3% platform fee plus 2.9% + $0.30 per card donation with tips off
+- [Eventbrite fee calculator (2026)](eventbrite-fee-calculator): 3.7% + $1.79 per paid ticket plus 2.9% processing, whether you absorb the fees or pass them on
 - [GoFundMe fee calculator (2026)](gofundme-fee-calculator): no platform fee, just 2.9% + $0.30 per donation (2.2% + $0.30 for certified charities)
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): what card payments cost on PayPal and Stripe
 
