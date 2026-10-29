@@ -168,6 +168,7 @@ On a standard Level 1 sale over $55.56, add $5 shipping to what you want to be p
 ## Related tools and guides
 
 - [Grailed fee calculator (2026)](grailed-fee-calculator): Grailed's 6% or 9% commission plus 3.49% + $0.49 processing, for selling streetwear and sneakers on Grailed instead
+- [GOAT fee calculator (2026)](goat-fee-calculator): GOAT's 9.5% commission at a seller rating of 90 or above plus the $5 prepaid-shipping seller fee ($0 drop-off) and 2.9% cash out fee, for sneaker and streetwear sellers
 - [eBay fee calculator (2026)](ebay-fee-calculator): eBay's 8% final value fee on athletic shoes at $150 and up with no per-order fee
 - [Mercari fee calculator (2026)](mercari-fee-calculator): Mercari's 10% selling fee with no processing fee
 - [Seller fee comparison calculator](seller-fee-comparison-calculator): compare what you keep across marketplaces and payment processors

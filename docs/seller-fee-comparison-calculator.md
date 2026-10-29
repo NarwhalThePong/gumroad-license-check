@@ -177,6 +177,7 @@ What the table leaves out: sales tax and VAT (Gumroad, Lemon Squeezy, Paddle, Po
 - [Reverb fee calculator (2026)](reverb-fee-calculator): Reverb's 5% selling fee on item and shipping ($0.50 minimum, $500 maximum) plus 3.19% + $0.49 processing for music gear sellers
 - [Discogs fee calculator (2026)](discogs-fee-calculator): Discogs' 9% selling fee on item and shipping ($0.10 minimum, $150 maximum per item) plus PayPal's 3.49% + $0.49 on the whole payment, for record sellers
 - [StockX fee calculator (2026)](stockx-fee-calculator): StockX's 9% to 7% transaction fee by Seller Level ($5 minimum) plus 3% processing and $5 seller shipping, for sneaker and streetwear sellers
+- [GOAT fee calculator (2026)](goat-fee-calculator): GOAT's 9.5% commission at a seller rating of 90 or above plus the $5 prepaid-shipping seller fee ($0 drop-off) and 2.9% cash out fee, for sneaker and streetwear sellers
 - [Gumroad fee calculator](gumroad-fee-calculator), [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator) and [Etsy fee & profit calculator](etsy-fee-calculator) for one platform in detail
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite)
