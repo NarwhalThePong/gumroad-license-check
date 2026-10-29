@@ -167,6 +167,7 @@ Substack's 10% matches Patreon's standard plan for new creators. Buy Me a Coffee
 ## Related tools and guides
 
 - [Patreon fee calculator (2026)](patreon-fee-calculator): the 10% standard plan, legacy plans, processing and payout fees
+- [Memberful fee calculator (2026)](memberful-fee-calculator): $49 a month + 4.9% instead of 10%, and the revenue where it pays off
 - [Buy Me a Coffee fee calculator (2026)](buy-me-a-coffee-fee-calculator): the 5% platform fee, Stripe processing and the payout fee
 - [Ko-fi fee calculator (2026)](ko-fi-fee-calculator): Ko-fi's 0% tip / 5% service fee and whether Ko-fi Gold pays off
 - [Kit vs beehiiv vs MailerLite](kit-vs-beehiiv-vs-mailerlite): newsletter platforms compared
