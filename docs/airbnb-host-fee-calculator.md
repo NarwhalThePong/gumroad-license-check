@@ -198,6 +198,7 @@ It applies to the cleaning fee and any other fees you charge, because they're pa
 ## Related tools and guides
 
 - [Tito fee calculator (2026)](tito-fee-calculator): 3% per paid ticket plus Stripe's 2.9% + $0.30 per order, for event organizers
+- [Vrbo host fee calculator (2026)](vrbo-host-fee-calculator): Vrbo's 12% pay-per-booking commission on the rental amount plus cleaning and other fees, with no separate processing fee when Vrbo processes the payment
 - [Self-employment tax calculator (2026)](self-employment-tax-calculator): Social Security and Medicare tax on self-employment income, with the deductible half and the quarterly share
 - [Freelance quarterly estimated tax calculator](freelance-quarterly-estimated-tax-calculator): how much to set aside each quarter from income that has no tax withheld
 
