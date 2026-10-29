@@ -168,6 +168,7 @@ Add the $0.15 to what you want to keep and divide by 0.974, then round up to the
 ## Related tools and guides
 
 - [Venmo fee calculator (2026)](venmo-fee-calculator): Venmo's 2.99% goods-and-services fee against its business profile's 1.9% + $0.10
+- [Square fee calculator (2026)](square-fee-calculator): Square's card fees on Square Free, Plus and Premium, from 2.6% + 15¢ in person to 3.5% + 15¢ keyed in, plus Instant transfer costs
 - [PayPal & Stripe fee calculator (2026)](paypal-stripe-fee-calculator): PayPal's own goods-and-services and checkout fees, next to Stripe's card fees
 - [Seller fee comparison calculator (2026)](seller-fee-comparison-calculator): Gumroad, Payhip, Ko-fi, Lemon Squeezy, Etsy and more side by side
 - [Freelance hourly rate calculator](freelance-hourly-rate-calculator): set a rate that covers fees, taxes and time off

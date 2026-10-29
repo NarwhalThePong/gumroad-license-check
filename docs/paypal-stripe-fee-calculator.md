@@ -166,4 +166,6 @@ Getting paid on Venmo? The free [Venmo fee calculator (2026)](venmo-fee-calculat
 
 Getting paid on Cash App? The free [Cash App for Business fee calculator (2026)](cash-app-fee-calculator) works out the 2.6% + $0.15 business payment fee, the 3% Tap to Pay fee and Instant transfer costs.
 
+Taking card payments with Square? The free [Square fee calculator (2026)](square-fee-calculator) works out Square's in-person, online, invoice and keyed-in fees on Square Free, Plus and Premium, plus Instant transfer costs.
+
 More tools and guides: [all guides and free tools](./). Not affiliated with PayPal or Stripe. Not tax or financial advice.

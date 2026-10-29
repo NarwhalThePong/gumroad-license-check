@@ -166,6 +166,7 @@ What the table leaves out: sales tax and VAT (Gumroad, Lemon Squeezy, Paddle, Po
 - [itch.io fee calculator (2026)](itch-io-fee-calculator): itch.io's pick-your-own 0% to 100% revenue share (default 10%) plus $0.30 + 2.9% processing, for games and assets
 - [Venmo fee calculator (2026)](venmo-fee-calculator): Venmo's 2.99% goods-and-services fee or 1.9% + $0.10 on a business profile, plus Instant Transfer costs
 - [Cash App for Business fee calculator (2026)](cash-app-fee-calculator): Cash App's 2.6% + $0.15 per business payment or 3% with Tap to Pay, plus Instant transfer costs
+- [Square fee calculator (2026)](square-fee-calculator): Square's 2.6% + 15¢ in person or 3.3% + 30¢ online on Square Free, what Plus and Premium save, plus Instant transfer costs
 - [Gumroad fee calculator](gumroad-fee-calculator), [PayPal & Stripe fee calculator](paypal-stripe-fee-calculator) and [Etsy fee & profit calculator](etsy-fee-calculator) for one platform in detail
 - [Gumroad alternatives: Payhip vs Sellfy vs SendOwl (2026)](gumroad-alternatives-payhip-sellfy-sendowl)
 - [Kit vs beehiiv vs MailerLite for creators (2026)](kit-vs-beehiiv-vs-mailerlite)
